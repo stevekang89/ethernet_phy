@@ -29,6 +29,11 @@
 
 #define MS_TO_NS(x)			(x*1E6L)
 
+#define TB_PHY_ID_MASK		0xfffffff0
+#define TB_PHY_ID			0x00040001
+
+#define XAE_PHY_TYPE_MII	0
+
 static struct hrtimer hr_timer;
 int hrtimer_act = 0;
 
