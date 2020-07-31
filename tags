@@ -1,0 +1,2187 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACC_CRC	dp83640_reg.h	214;"	d
+ACC_UDP	dp83640_reg.h	213;"	d
+ADJTIME_FIX	dp83640.c	68;"	d	file:
+ADVERTISED_MPD	intel-xway.c	39;"	d	file:
+ADVERTISE_FIBER_1000FULL	marvell.c	148;"	d	file:
+ADVERTISE_FIBER_1000HALF	marvell.c	147;"	d	file:
+ADVERTISE_PAUSE_ASYM_FIBER	marvell.c	151;"	d	file:
+ADVERTISE_PAUSE_FIBER	marvell.c	150;"	d	file:
+AFE_HPF_TRIM_OTHERS	bcm7xxx.c	46;"	d	file:
+AFE_RXCONFIG_0	bcm7xxx.c	39;"	d	file:
+AFE_RXCONFIG_1	bcm7xxx.c	40;"	d	file:
+AFE_RXCONFIG_2	bcm7xxx.c	41;"	d	file:
+AFE_RX_LP_COUNTER	bcm7xxx.c	42;"	d	file:
+AFE_TX_CONFIG	bcm7xxx.c	43;"	d	file:
+AFE_VDAC_OTHERS_0	bcm7xxx.c	45;"	d	file:
+AFE_VDCA_ICTRL_0	bcm7xxx.c	44;"	d	file:
+ALL_FALLBACK_ON	national.c	52;"	d	file:
+ALT_MAST_DIS	dp83640_reg.h	191;"	d
+AN_FALLBACK_AN	national.c	49;"	d	file:
+AN_FALLBACK_CRC	national.c	50;"	d	file:
+AN_FALLBACK_IE	national.c	51;"	d	file:
+AT803X_BT_BX_REG_SEL	at803x.c	46;"	d	file:
+AT803X_DEBUG_ADDR	at803x.c	48;"	d	file:
+AT803X_DEBUG_DATA	at803x.c	49;"	d	file:
+AT803X_DEBUG_REG_0	at803x.c	57;"	d	file:
+AT803X_DEBUG_REG_5	at803x.c	60;"	d	file:
+AT803X_DEBUG_RX_CLK_DLY_EN	at803x.c	58;"	d	file:
+AT803X_DEBUG_TX_CLK_DLY_EN	at803x.c	61;"	d	file:
+AT803X_DEVICE_ADDR	at803x.c	38;"	d	file:
+AT803X_FUNC_DATA	at803x.c	44;"	d	file:
+AT803X_INTR_ENABLE	at803x.c	22;"	d	file:
+AT803X_INTR_ENABLE_AUTONEG_ERR	at803x.c	23;"	d	file:
+AT803X_INTR_ENABLE_DUPLEX_CHANGED	at803x.c	25;"	d	file:
+AT803X_INTR_ENABLE_LINK_FAIL	at803x.c	27;"	d	file:
+AT803X_INTR_ENABLE_LINK_SUCCESS	at803x.c	28;"	d	file:
+AT803X_INTR_ENABLE_PAGE_RECEIVED	at803x.c	26;"	d	file:
+AT803X_INTR_ENABLE_POLARITY_CHANGED	at803x.c	30;"	d	file:
+AT803X_INTR_ENABLE_SPEED_CHANGED	at803x.c	24;"	d	file:
+AT803X_INTR_ENABLE_WIRESPEED_DOWNGRADE	at803x.c	29;"	d	file:
+AT803X_INTR_ENABLE_WOL	at803x.c	31;"	d	file:
+AT803X_INTR_STATUS	at803x.c	33;"	d	file:
+AT803X_LED_CONTROL	at803x.c	36;"	d	file:
+AT803X_LOC_MAC_ADDR_0_15_OFFSET	at803x.c	39;"	d	file:
+AT803X_LOC_MAC_ADDR_16_31_OFFSET	at803x.c	40;"	d	file:
+AT803X_LOC_MAC_ADDR_32_47_OFFSET	at803x.c	41;"	d	file:
+AT803X_MMD_ACCESS_CONTROL	at803x.c	42;"	d	file:
+AT803X_MMD_ACCESS_CONTROL_DATA	at803x.c	43;"	d	file:
+AT803X_MODE_CFG_MASK	at803x.c	51;"	d	file:
+AT803X_MODE_CFG_SGMII	at803x.c	52;"	d	file:
+AT803X_PSSR	at803x.c	54;"	d	file:
+AT803X_PSSR_MR_AN_COMPLETE	at803x.c	55;"	d	file:
+AT803X_REG_CHIP_CONFIG	at803x.c	45;"	d	file:
+AT803X_SMART_SPEED	at803x.c	35;"	d	file:
+ATH8030_PHY_ID	at803x.c	63;"	d	file:
+ATH8031_PHY_ID	at803x.c	64;"	d	file:
+ATH8035_PHY_ID	at803x.c	65;"	d	file:
+ATTACHED_FMT	phy_device.c	821;"	d	file:
+BCM7XXX_28NM_GPHY	bcm7xxx.c	306;"	d	file:
+BCM7XXX_40NM_EPHY	bcm7xxx.c	320;"	d	file:
+BCM87XX_10GBASER_PCS_STATUS	bcm87xx.c	17;"	d	file:
+BCM87XX_LASI_CONTROL	bcm87xx.c	20;"	d	file:
+BCM87XX_LASI_STATUS	bcm87xx.c	21;"	d	file:
+BCM87XX_PMD_RX_SIGNAL_DETECT	bcm87xx.c	16;"	d	file:
+BCM87XX_XGXS_LANE_STATUS	bcm87xx.c	18;"	d	file:
+BCM_CL45VEN_EEE_ADV	bcm-phy-lib.c	22;"	d	file:
+BC_WRITE	dp83640_reg.h	53;"	d
+BIT_PHY_ADDR_OFFSET	mdio-hisi-femac.c	32;"	d	file:
+BIT_WR_DATA_OFFSET	mdio-hisi-femac.c	33;"	d	file:
+BLOCK_DIAG_CSR_OFFSET	mdio-xgene.h	24;"	d
+BLOCK_XG_MDIO_CSR_OFFSET	mdio-xgene.h	23;"	d
+BRCM_PHY_MODEL	broadcom.c	23;"	d	file:
+BRCM_PHY_REV	broadcom.c	26;"	d	file:
+BROADCAST_ADDR	dp83640.c	221;"	d	file:
+BUSY_MASK	mdio-xgene.h	78;"	d
+BUS_MAX_ADDR	mdio-mux-bcm-iproc.c	44;"	d	file:
+BYTE0_DATA_MASK	dp83640_reg.h	173;"	d
+BYTE0_DATA_MASK	dp83640_reg.h	208;"	d
+BYTE0_DATA_SHIFT	dp83640_reg.h	172;"	d
+BYTE0_DATA_SHIFT	dp83640_reg.h	207;"	d
+BYTE0_MASK_MASK	dp83640_reg.h	171;"	d
+BYTE0_MASK_MASK	dp83640_reg.h	206;"	d
+BYTE0_MASK_SHIFT	dp83640_reg.h	170;"	d
+BYTE0_MASK_SHIFT	dp83640_reg.h	205;"	d
+C22	mdio-cavium.h	/^	C22,$/;"	e	enum:cavium_mdiobus_mode
+C45	mdio-cavium.h	/^	C45$/;"	e	enum:cavium_mdiobus_mode
+CALIBRATE_GPIO	dp83640.c	/^	CALIBRATE_GPIO,$/;"	e	enum:__anon3	file:
+CAL_EVENT	dp83640.c	48;"	d	file:
+CAL_TRIGGER	dp83640.c	49;"	d	file:
+CHIPID_M	spi_ks8995.c	90;"	d	file:
+CHK_1STEP	dp83640_reg.h	160;"	d
+CLKEN_OFFSET	mdio-xgene.h	33;"	d
+CLK_SRC_MASK	dp83640_reg.h	259;"	d
+CLK_SRC_PER_MASK	dp83640_reg.h	261;"	d
+CLK_SRC_PER_SHIFT	dp83640_reg.h	260;"	d
+CLK_SRC_SHIFT	dp83640_reg.h	258;"	d
+CRC_1STEP	dp83640_reg.h	159;"	d
+DEBUG	national.c	27;"	d	file:
+DM9161_DELAY	davicom.c	65;"	d	file:
+DOMAIN_EN	dp83640_reg.h	190;"	d
+DP83640_N_PINS	dp83640.c	50;"	d	file:
+DP83640_PACKET_HASH_LEN	dp83640.c	793;"	d	file:
+DP83640_PACKET_HASH_OFFSET	dp83640.c	792;"	d	file:
+DP83640_PHY_ID	dp83640.c	38;"	d	file:
+DP83848_INT_EN_MASK	dp83848.c	42;"	d	file:
+DP83848_MICR	dp83848.c	25;"	d	file:
+DP83848_MICR_INTEN	dp83848.c	30;"	d	file:
+DP83848_MICR_INT_OE	dp83848.c	29;"	d	file:
+DP83848_MISR	dp83848.c	26;"	d	file:
+DP83848_MISR_ANC_INT_EN	dp83848.c	35;"	d	file:
+DP83848_MISR_DUP_INT_EN	dp83848.c	36;"	d	file:
+DP83848_MISR_ED_INT_EN	dp83848.c	39;"	d	file:
+DP83848_MISR_FHF_INT_EN	dp83848.c	34;"	d	file:
+DP83848_MISR_LINK_INT_EN	dp83848.c	38;"	d	file:
+DP83848_MISR_LQM_INT_EN	dp83848.c	40;"	d	file:
+DP83848_MISR_RHF_INT_EN	dp83848.c	33;"	d	file:
+DP83848_MISR_SPD_INT_EN	dp83848.c	37;"	d	file:
+DP83848_PHY_DRIVER	dp83848.c	86;"	d	file:
+DP83865_INT_ANE_COMPLETED	national.c	37;"	d	file:
+DP83865_INT_CLEAR	national.c	34;"	d	file:
+DP83865_INT_LINK_CHANGE	national.c	38;"	d	file:
+DP83865_INT_MASK	national.c	33;"	d	file:
+DP83865_INT_MASK_DEFAULT	national.c	39;"	d	file:
+DP83865_INT_REMOTE_FAULT	national.c	36;"	d	file:
+DP83865_INT_STATUS	national.c	32;"	d	file:
+DP83865_PHY_ID	national.c	30;"	d	file:
+DP83867_CFG4	dp83867.c	36;"	d	file:
+DP83867_CFG4_RESVDBIT7	dp83867.c	88;"	d	file:
+DP83867_CFG4_RESVDBIT8	dp83867.c	89;"	d	file:
+DP83867_CFG4_SGMII_AUTONEG_TIMER_11MS	dp83867.c	87;"	d	file:
+DP83867_CFG4_SGMII_AUTONEG_TIMER_16MS	dp83867.c	84;"	d	file:
+DP83867_CFG4_SGMII_AUTONEG_TIMER_2US	dp83867.c	85;"	d	file:
+DP83867_CFG4_SGMII_AUTONEG_TIMER_800US	dp83867.c	86;"	d	file:
+DP83867_CFG4_SGMII_AUTONEG_TIMER_MASK	dp83867.c	83;"	d	file:
+DP83867_CTRL	dp83867.c	33;"	d	file:
+DP83867_DEVADDR	dp83867.c	26;"	d	file:
+DP83867_MDI_CROSSOVER	dp83867.c	64;"	d	file:
+DP83867_MDI_CROSSOVER_AUTO	dp83867.c	65;"	d	file:
+DP83867_MDI_CROSSOVER_MDIX	dp83867.c	66;"	d	file:
+DP83867_PHYCR_FIFO_DEPTH_MASK	dp83867.c	63;"	d	file:
+DP83867_PHYCR_FIFO_DEPTH_SHIFT	dp83867.c	62;"	d	file:
+DP83867_PHYCTRL_RXFIFO_SHIFT	dp83867.c	68;"	d	file:
+DP83867_PHYCTRL_SGMIIEN	dp83867.c	67;"	d	file:
+DP83867_PHYCTRL_TXFIFO_SHIFT	dp83867.c	69;"	d	file:
+DP83867_PHY_ID	dp83867.c	25;"	d	file:
+DP83867_RGMIICTL	dp83867.c	37;"	d	file:
+DP83867_RGMIIDCTL	dp83867.c	38;"	d	file:
+DP83867_RGMII_RX_CLK_DELAY_EN	dp83867.c	59;"	d	file:
+DP83867_RGMII_TX_CLK_DELAY_EN	dp83867.c	58;"	d	file:
+DP83867_RGMII_TX_CLK_DELAY_SHIFT	dp83867.c	72;"	d	file:
+DP83867_SW_RESET	dp83867.c	40;"	d	file:
+DP83867_SW_RESTART	dp83867.c	41;"	d	file:
+DRIVER_AUTHOR	microchip.c	/^MODULE_AUTHOR(DRIVER_AUTHOR);$/;"	v
+DRIVER_AUTHOR	microchip.c	24;"	d	file:
+DRIVER_DESC	microchip.c	/^MODULE_DESCRIPTION(DRIVER_DESC);$/;"	v
+DRIVER_DESC	microchip.c	25;"	d	file:
+DRV_DESC	spi_ks8995.c	/^MODULE_DESCRIPTION(DRV_DESC);$/;"	v
+DRV_DESC	spi_ks8995.c	28;"	d	file:
+DRV_DESCRIPTION	mdio-mux-gpio.c	/^MODULE_DESCRIPTION(DRV_DESCRIPTION);$/;"	v
+DRV_DESCRIPTION	mdio-mux-gpio.c	18;"	d	file:
+DRV_DESCRIPTION	mdio-mux.c	/^MODULE_DESCRIPTION(DRV_DESCRIPTION);$/;"	v
+DRV_DESCRIPTION	mdio-mux.c	17;"	d	file:
+DRV_VERSION	mdio-mux-gpio.c	/^MODULE_VERSION(DRV_VERSION);$/;"	v
+DRV_VERSION	mdio-mux-gpio.c	17;"	d	file:
+DRV_VERSION	mdio-mux.c	/^MODULE_VERSION(DRV_VERSION);$/;"	v
+DRV_VERSION	mdio-mux.c	16;"	d	file:
+DRV_VERSION	spi_ks8995.c	/^MODULE_VERSION(DRV_VERSION);$/;"	v
+DRV_VERSION	spi_ks8995.c	27;"	d	file:
+DR_INSERT	dp83640_reg.h	156;"	d
+DSP_TAP10	bcm7xxx.c	34;"	d	file:
+E0_DET	dp83640_reg.h	130;"	d
+E0_RISE	dp83640_reg.h	129;"	d
+E1_DET	dp83640_reg.h	128;"	d
+E1_RISE	dp83640_reg.h	127;"	d
+E2_DET	dp83640_reg.h	126;"	d
+E2_RISE	dp83640_reg.h	125;"	d
+E3_DET	dp83640_reg.h	124;"	d
+E3_RISE	dp83640_reg.h	123;"	d
+E4_DET	dp83640_reg.h	122;"	d
+E4_RISE	dp83640_reg.h	121;"	d
+E5_DET	dp83640_reg.h	120;"	d
+E5_RISE	dp83640_reg.h	119;"	d
+E6_DET	dp83640_reg.h	118;"	d
+E6_RISE	dp83640_reg.h	117;"	d
+E7_DET	dp83640_reg.h	116;"	d
+E7_RISE	dp83640_reg.h	115;"	d
+EDGE_RATE_CNTL_MASK	mscc.c	46;"	d	file:
+EDGE_RATE_CNTL_POS	mscc.c	45;"	d	file:
+EMAC_MAC_MADR_REG	mdio-sun4i.c	26;"	d	file:
+EMAC_MAC_MCMD_REG	mdio-sun4i.c	25;"	d	file:
+EMAC_MAC_MIND_REG	mdio-sun4i.c	29;"	d	file:
+EMAC_MAC_MRDD_REG	mdio-sun4i.c	28;"	d	file:
+EMAC_MAC_MWTD_REG	mdio-sun4i.c	27;"	d	file:
+EMAC_MAC_SSRR_REG	mdio-sun4i.c	30;"	d	file:
+ENDIAN_FLAG	dp83640.c	73;"	d	file:
+ENDIAN_FLAG	dp83640.c	75;"	d	file:
+ET1011C_CONFIG_REG	et1011c.c	37;"	d	file:
+ET1011C_GIGABIT_SPEED	et1011c.c	39;"	d	file:
+ET1011C_GMII_INTERFACE	et1011c.c	44;"	d	file:
+ET1011C_INTERFACE_MASK	et1011c.c	43;"	d	file:
+ET1011C_SPEED_MASK	et1011c.c	38;"	d	file:
+ET1011C_STATUS_REG	et1011c.c	36;"	d	file:
+ET1011C_SYS_CLK_EN	et1011c.c	45;"	d	file:
+ET1011C_TX_FIFO_DEPTH_16	et1011c.c	42;"	d	file:
+ET1011C_TX_FIFO_DEPTH_8	et1011c.c	41;"	d	file:
+ET1011C_TX_FIFO_MASK	et1011c.c	40;"	d	file:
+EVENT_DET	dp83640_reg.h	112;"	d
+EVENT_IE	dp83640_reg.h	77;"	d
+EVENT_RDY	dp83640_reg.h	73;"	d
+EVNTS_MISSED_MASK	dp83640_reg.h	105;"	d
+EVNTS_MISSED_SHIFT	dp83640_reg.h	104;"	d
+EVNT_FALL	dp83640_reg.h	146;"	d
+EVNT_GPIO_MASK	dp83640_reg.h	149;"	d
+EVNT_GPIO_SHIFT	dp83640_reg.h	148;"	d
+EVNT_NUM_MASK	dp83640_reg.h	110;"	d
+EVNT_NUM_SHIFT	dp83640_reg.h	109;"	d
+EVNT_RF	dp83640_reg.h	108;"	d
+EVNT_RISE	dp83640_reg.h	145;"	d
+EVNT_SEL_MASK	dp83640_reg.h	151;"	d
+EVNT_SEL_SHIFT	dp83640_reg.h	150;"	d
+EVNT_SINGLE	dp83640_reg.h	147;"	d
+EVNT_TS_LEN_MASK	dp83640_reg.h	107;"	d
+EVNT_TS_LEN_SHIFT	dp83640_reg.h	106;"	d
+EVNT_WR	dp83640_reg.h	152;"	d
+EXTTS0_GPIO	dp83640.c	/^	EXTTS0_GPIO,$/;"	e	enum:__anon3	file:
+EXTTS1_GPIO	dp83640.c	/^	EXTTS1_GPIO,$/;"	e	enum:__anon3	file:
+EXTTS2_GPIO	dp83640.c	/^	EXTTS2_GPIO,$/;"	e	enum:__anon3	file:
+EXTTS3_GPIO	dp83640.c	/^	EXTTS3_GPIO,$/;"	e	enum:__anon3	file:
+EXTTS4_GPIO	dp83640.c	/^	EXTTS4_GPIO,$/;"	e	enum:__anon3	file:
+EXTTS5_GPIO	dp83640.c	/^	EXTTS5_GPIO,$/;"	e	enum:__anon3	file:
+EXT_BUS_START_ADDR	mdio-mux-bcm-iproc.c	45;"	d	file:
+EXT_EVENT	dp83640.c	47;"	d	file:
+FAMILY_KS8995	spi_ks8995.c	88;"	d	file:
+FAMILY_KSZ8795	spi_ks8995.c	89;"	d	file:
+FAR_END_LOOPBACK_MODE_MASK	mscc.c	37;"	d	file:
+GENPHY_DRV_10G	phy_device.c	/^	GENPHY_DRV_10G,$/;"	e	enum:genphy_driver	file:
+GENPHY_DRV_1G	phy_device.c	/^	GENPHY_DRV_1G,$/;"	e	enum:genphy_driver	file:
+GENPHY_DRV_MAX	phy_device.c	/^	GENPHY_DRV_MAX$/;"	e	enum:genphy_driver	file:
+GET_BIT	mdio-xgene.h	132;"	d
+GET_VAL	mdio-xgene.h	129;"	d
+GPIO_TABLE_SIZE	dp83640.c	/^	GPIO_TABLE_SIZE$/;"	e	enum:__anon3	file:
+HAVE_DP83640_REGISTERS	dp83640_reg.h	5;"	d
+HSTLDCMD	mdio-xgene.h	74;"	d
+HSTMIIMCMD_LEN	mdio-xgene.h	76;"	d
+HSTMIIMCMD_POS	mdio-xgene.h	75;"	d
+HSTMIIMWRDAT_LEN	mdio-xgene.h	69;"	d
+HSTMIIMWRDAT_POS	mdio-xgene.h	68;"	d
+HSTPHYADX_LEN	mdio-xgene.h	71;"	d
+HSTPHYADX_POS	mdio-xgene.h	70;"	d
+HSTREGADX_LEN	mdio-xgene.h	73;"	d
+HSTREGADX_POS	mdio-xgene.h	72;"	d
+ID1_CHIPID_M	spi_ks8995.c	82;"	d	file:
+ID1_CHIPID_S	spi_ks8995.c	83;"	d	file:
+ID1_REVISION_M	spi_ks8995.c	84;"	d	file:
+ID1_REVISION_S	spi_ks8995.c	85;"	d	file:
+ID1_START_SW	spi_ks8995.c	86;"	d	file:
+IGNORE_2STEP	dp83640_reg.h	158;"	d
+IP1001_APS_ON	icplus.c	42;"	d	file:
+IP1001_RXPHASE_SEL	icplus.c	39;"	d	file:
+IP1001_SPEC_CTRL_STATUS_2	icplus.c	41;"	d	file:
+IP1001_TXPHASE_SEL	icplus.c	40;"	d	file:
+IP101A_G_APS_ON	icplus.c	43;"	d	file:
+IP101A_G_IRQ_CONF_STATUS	icplus.c	44;"	d	file:
+IP101A_G_IRQ_DEFAULT	icplus.c	46;"	d	file:
+IP101A_G_IRQ_PIN_USED	icplus.c	45;"	d	file:
+IP10XX_SPEC_CTRL_STATUS	icplus.c	38;"	d	file:
+IP1588_EN	dp83640_reg.h	161;"	d
+IP1588_EN_MASK	dp83640_reg.h	196;"	d
+IP1588_EN_SHIFT	dp83640_reg.h	195;"	d
+IPROC_GPHY_MDCDIV	mdio-bcm-iproc.c	25;"	d	file:
+IPV4_UDP_MOD	dp83640_reg.h	221;"	d
+KS8995_CHIP_ID	spi_ks8995.c	91;"	d	file:
+KS8995_CMD_READ	spi_ks8995.c	96;"	d	file:
+KS8995_CMD_WRITE	spi_ks8995.c	95;"	d	file:
+KS8995_REGS_SIZE	spi_ks8995.c	78;"	d	file:
+KS8995_REG_GC0	spi_ks8995.c	35;"	d	file:
+KS8995_REG_GC1	spi_ks8995.c	36;"	d	file:
+KS8995_REG_GC2	spi_ks8995.c	37;"	d	file:
+KS8995_REG_GC3	spi_ks8995.c	38;"	d	file:
+KS8995_REG_GC4	spi_ks8995.c	39;"	d	file:
+KS8995_REG_GC5	spi_ks8995.c	40;"	d	file:
+KS8995_REG_GC6	spi_ks8995.c	41;"	d	file:
+KS8995_REG_GC7	spi_ks8995.c	42;"	d	file:
+KS8995_REG_GC8	spi_ks8995.c	43;"	d	file:
+KS8995_REG_GC9	spi_ks8995.c	44;"	d	file:
+KS8995_REG_IAC0	spi_ks8995.c	65;"	d	file:
+KS8995_REG_IAC1	spi_ks8995.c	66;"	d	file:
+KS8995_REG_IAD0	spi_ks8995.c	74;"	d	file:
+KS8995_REG_IAD1	spi_ks8995.c	73;"	d	file:
+KS8995_REG_IAD2	spi_ks8995.c	72;"	d	file:
+KS8995_REG_IAD3	spi_ks8995.c	71;"	d	file:
+KS8995_REG_IAD4	spi_ks8995.c	70;"	d	file:
+KS8995_REG_IAD5	spi_ks8995.c	69;"	d	file:
+KS8995_REG_IAD6	spi_ks8995.c	68;"	d	file:
+KS8995_REG_IAD7	spi_ks8995.c	67;"	d	file:
+KS8995_REG_ID0	spi_ks8995.c	32;"	d	file:
+KS8995_REG_ID1	spi_ks8995.c	33;"	d	file:
+KS8995_REG_MAC0	spi_ks8995.c	58;"	d	file:
+KS8995_REG_MAC1	spi_ks8995.c	59;"	d	file:
+KS8995_REG_MAC2	spi_ks8995.c	60;"	d	file:
+KS8995_REG_MAC3	spi_ks8995.c	61;"	d	file:
+KS8995_REG_MAC4	spi_ks8995.c	62;"	d	file:
+KS8995_REG_MAC5	spi_ks8995.c	63;"	d	file:
+KS8995_REG_PC	spi_ks8995.c	46;"	d	file:
+KS8995_REG_PS	spi_ks8995.c	47;"	d	file:
+KS8995_REG_TPC0	spi_ks8995.c	49;"	d	file:
+KS8995_REG_TPC1	spi_ks8995.c	50;"	d	file:
+KS8995_REG_TPC2	spi_ks8995.c	51;"	d	file:
+KS8995_REG_TPC3	spi_ks8995.c	52;"	d	file:
+KS8995_REG_TPC4	spi_ks8995.c	53;"	d	file:
+KS8995_REG_TPC5	spi_ks8995.c	54;"	d	file:
+KS8995_REG_TPC6	spi_ks8995.c	55;"	d	file:
+KS8995_REG_TPC7	spi_ks8995.c	56;"	d	file:
+KS8995_RESET_DELAY	spi_ks8995.c	98;"	d	file:
+KSZ8795_CHIP_ID	spi_ks8995.c	93;"	d	file:
+KSZ8795_REGS_SIZE	spi_ks8995.c	80;"	d	file:
+KSZ8864_CHIP_ID	spi_ks8995.c	92;"	d	file:
+KSZ8864_REGS_SIZE	spi_ks8995.c	79;"	d	file:
+KSZ8864_REG_ID1	spi_ks8995.c	76;"	d	file:
+KSZ8873MLL_GLOBAL_CONTROL_4	micrel.c	581;"	d	file:
+KSZ8873MLL_GLOBAL_CONTROL_4_DUPLEX	micrel.c	582;"	d	file:
+KSZ8873MLL_GLOBAL_CONTROL_4_SPEED	micrel.c	583;"	d	file:
+KSZ9031_PS_TO_REG	micrel.c	429;"	d	file:
+KSZPHY_CTRL_INT_ACTIVE_HIGH	micrel.c	59;"	d	file:
+KSZPHY_EXTREG_WRITE	micrel.c	64;"	d	file:
+KSZPHY_INTCS_ALL	micrel.c	49;"	d	file:
+KSZPHY_INTCS_JABBER	micrel.c	41;"	d	file:
+KSZPHY_INTCS_LINK_DOWN	micrel.c	46;"	d	file:
+KSZPHY_INTCS_LINK_PARTNER_ACK	micrel.c	45;"	d	file:
+KSZPHY_INTCS_LINK_UP	micrel.c	48;"	d	file:
+KSZPHY_INTCS_PAGE_RECEIVE	micrel.c	43;"	d	file:
+KSZPHY_INTCS_PARELLEL	micrel.c	44;"	d	file:
+KSZPHY_INTCS_RECEIVE_ERR	micrel.c	42;"	d	file:
+KSZPHY_INTCS_REMOTE_FAULT	micrel.c	47;"	d	file:
+KSZPHY_OMSO_B_CAST_OFF	micrel.c	34;"	d	file:
+KSZPHY_OMSO_MII_OVERRIDE	micrel.c	37;"	d	file:
+KSZPHY_OMSO_NAND_TREE_ON	micrel.c	35;"	d	file:
+KSZPHY_OMSO_RMII_OVERRIDE	micrel.c	36;"	d	file:
+KSZPHY_RMII_REF_CLK_SEL	micrel.c	60;"	d	file:
+LED_CTRL_REG	national.c	48;"	d	file:
+LPA_FIBER_1000FULL	marvell.c	142;"	d	file:
+LPA_FIBER_1000HALF	marvell.c	141;"	d	file:
+LPA_PAUSE_ASYM_FIBER	marvell.c	145;"	d	file:
+LPA_PAUSE_FIBER	marvell.c	144;"	d	file:
+MAC_ADDR_REG_OFFSET	mdio-xgene.h	27;"	d
+MAC_COMMAND_DONE_REG_OFFSET	mdio-xgene.h	31;"	d
+MAC_COMMAND_REG_OFFSET	mdio-xgene.h	28;"	d
+MAC_CONFIG_1_ADDR	mdio-xgene.h	39;"	d
+MAC_IF_SELECTION_GMII	mscc.c	33;"	d	file:
+MAC_IF_SELECTION_MASK	mscc.c	32;"	d	file:
+MAC_IF_SELECTION_POS	mscc.c	36;"	d	file:
+MAC_IF_SELECTION_RGMII	mscc.c	35;"	d	file:
+MAC_IF_SELECTION_RMII	mscc.c	34;"	d	file:
+MAC_READ_REG_OFFSET	mdio-xgene.h	30;"	d
+MAC_SRC_ADD_MASK	dp83640_reg.h	177;"	d
+MAC_SRC_ADD_SHIFT	dp83640_reg.h	176;"	d
+MAC_WRITE_REG_OFFSET	mdio-xgene.h	29;"	d
+MAX_NUM_SETTINGS	phy.c	222;"	d	file:
+MAX_RXTS	dp83640.c	40;"	d	file:
+MDIO_ADDR_OFFSET	mdio-mux-bcm-iproc.c	35;"	d	file:
+MDIO_BUS_PHY_PM_OPS	phy_device.c	183;"	d	file:
+MDIO_BUS_PHY_PM_OPS	phy_device.c	187;"	d	file:
+MDIO_BUS_PM_OPS	mdio_bus.c	608;"	d	file:
+MDIO_BUS_PM_OPS	mdio_bus.c	612;"	d	file:
+MDIO_C22	mdio-bcm-unimac.c	35;"	d	file:
+MDIO_C45	mdio-bcm-unimac.c	36;"	d	file:
+MDIO_C45	mdio-bitbang.c	28;"	d	file:
+MDIO_C45_ADDR	mdio-bitbang.c	29;"	d	file:
+MDIO_C45_READ	mdio-bitbang.c	30;"	d	file:
+MDIO_C45_WRITE	mdio-bitbang.c	31;"	d	file:
+MDIO_CFG	mdio-bcm-unimac.c	34;"	d	file:
+MDIO_CLK_DIV_MASK	mdio-bcm-unimac.c	38;"	d	file:
+MDIO_CLK_DIV_SHIFT	mdio-bcm-unimac.c	37;"	d	file:
+MDIO_CMD	mdio-bcm-unimac.c	24;"	d	file:
+MDIO_CSR_OFFSET	mdio-xgene.h	61;"	d
+MDIO_CTRL_OFFSET	mdio-mux-bcm-iproc.c	37;"	d	file:
+MDIO_CTRL_READ_OP	mdio-mux-bcm-iproc.c	39;"	d	file:
+MDIO_CTRL_WRITE_OP	mdio-mux-bcm-iproc.c	38;"	d	file:
+MDIO_DELAY	mdio-bitbang.c	39;"	d	file:
+MDIO_HOLD_TIME	mdio-bitbang.c	34;"	d	file:
+MDIO_PARAM_BUS_ID	mdio-mux-bcm-iproc.c	28;"	d	file:
+MDIO_PARAM_C45_SEL	mdio-mux-bcm-iproc.c	29;"	d	file:
+MDIO_PARAM_INTERNAL_SEL	mdio-mux-bcm-iproc.c	27;"	d	file:
+MDIO_PARAM_MIIM_CYCLE	mdio-mux-bcm-iproc.c	26;"	d	file:
+MDIO_PARAM_OFFSET	mdio-mux-bcm-iproc.c	25;"	d	file:
+MDIO_PARAM_PHY_DATA	mdio-mux-bcm-iproc.c	31;"	d	file:
+MDIO_PARAM_PHY_ID	mdio-mux-bcm-iproc.c	30;"	d	file:
+MDIO_PHYXS_LANE_READY	teranetics.c	31;"	d	file:
+MDIO_PHYXS_LNSTAT_ALIGN	teranetics.c	29;"	d	file:
+MDIO_PHYXS_LNSTAT_SYNC0	teranetics.c	25;"	d	file:
+MDIO_PHYXS_LNSTAT_SYNC1	teranetics.c	26;"	d	file:
+MDIO_PHYXS_LNSTAT_SYNC2	teranetics.c	27;"	d	file:
+MDIO_PHYXS_LNSTAT_SYNC3	teranetics.c	28;"	d	file:
+MDIO_PMD_MASK	mdio-bcm-unimac.c	30;"	d	file:
+MDIO_PMD_SHIFT	mdio-bcm-unimac.c	29;"	d	file:
+MDIO_RD	mdio-bcm-unimac.c	27;"	d	file:
+MDIO_READ	mdio-bitbang.c	25;"	d	file:
+MDIO_READ_DATA_MASK	mdio-mux-bcm-iproc.c	34;"	d	file:
+MDIO_READ_DELAY	mdio-bitbang.c	44;"	d	file:
+MDIO_READ_FAIL	mdio-bcm-unimac.c	26;"	d	file:
+MDIO_READ_OFFSET	mdio-mux-bcm-iproc.c	33;"	d	file:
+MDIO_REG_MASK	mdio-bcm-unimac.c	32;"	d	file:
+MDIO_REG_SHIFT	mdio-bcm-unimac.c	31;"	d	file:
+MDIO_RO_DATA	mdio-hisi-femac.c	29;"	d	file:
+MDIO_RWCTRL	mdio-hisi-femac.c	28;"	d	file:
+MDIO_RW_FINISH	mdio-hisi-femac.c	31;"	d	file:
+MDIO_SETUP_TIME	mdio-bitbang.c	33;"	d	file:
+MDIO_START_BUSY	mdio-bcm-unimac.c	25;"	d	file:
+MDIO_STAT_DONE	mdio-mux-bcm-iproc.c	42;"	d	file:
+MDIO_STAT_OFFSET	mdio-mux-bcm-iproc.c	41;"	d	file:
+MDIO_SUPP_PREAMBLE	mdio-bcm-unimac.c	39;"	d	file:
+MDIO_TIMEOUT	mdio-sun4i.c	32;"	d	file:
+MDIO_WR	mdio-bcm-unimac.c	28;"	d	file:
+MDIO_WRITE	mdio-bitbang.c	26;"	d	file:
+MDIO_WRITE	mdio-hisi-femac.c	30;"	d	file:
+MENET_BLOCK_MEM_RDY_ADDR	mdio-xgene.h	37;"	d
+MENET_CFG_MEM_RAM_SHUTDOWN_ADDR	mdio-xgene.h	36;"	d
+MESSAGETYPE_MASK	dp83640_reg.h	245;"	d
+MESSAGETYPE_SHIFT	dp83640_reg.h	244;"	d
+MIIMRD_FIELD_ADDR	mdio-xgene.h	59;"	d
+MIIM_CMD_IDLE	mdio-xgene.h	/^	MIIM_CMD_IDLE,$/;"	e	enum:__anon1
+MIIM_CMD_LEGACY_READ	mdio-xgene.h	/^	MIIM_CMD_LEGACY_READ,$/;"	e	enum:__anon1
+MIIM_CMD_LEGACY_WRITE	mdio-xgene.h	/^	MIIM_CMD_LEGACY_WRITE,$/;"	e	enum:__anon1
+MIIM_COMMAND_ADDR	mdio-xgene.h	54;"	d
+MIIM_CONFIGURATION_ADDR	mdio-xgene.h	56;"	d
+MIIM_FIELD_ADDR	mdio-xgene.h	55;"	d
+MIIM_INDICATOR_ADDR	mdio-xgene.h	58;"	d
+MIIM_LINKFAILVECTOR_ADDR	mdio-xgene.h	57;"	d
+MIIRD	mdio-moxart.c	25;"	d	file:
+MIIRDATA_MASK	mdio-moxart.c	28;"	d	file:
+MIIWDATA_MASK	mdio-moxart.c	31;"	d	file:
+MIIWR	mdio-moxart.c	24;"	d	file:
+MII_88E1121_PHY_LED_CTRL	marvell.c	118;"	d	file:
+MII_88E1121_PHY_LED_DEF	marvell.c	120;"	d	file:
+MII_88E1121_PHY_LED_PAGE	marvell.c	119;"	d	file:
+MII_88E1121_PHY_MSCR_DELAY_MASK	marvell.c	91;"	d	file:
+MII_88E1121_PHY_MSCR_PAGE	marvell.c	87;"	d	file:
+MII_88E1121_PHY_MSCR_REG	marvell.c	88;"	d	file:
+MII_88E1121_PHY_MSCR_RX_DELAY	marvell.c	89;"	d	file:
+MII_88E1121_PHY_MSCR_TX_DELAY	marvell.c	90;"	d	file:
+MII_88E1318S_PHY_CSIER	marvell.c	97;"	d	file:
+MII_88E1318S_PHY_CSIER_WOL_EIE	marvell.c	99;"	d	file:
+MII_88E1318S_PHY_LED_PAGE	marvell.c	102;"	d	file:
+MII_88E1318S_PHY_LED_TCR	marvell.c	103;"	d	file:
+MII_88E1318S_PHY_LED_TCR_FORCE_INT	marvell.c	104;"	d	file:
+MII_88E1318S_PHY_LED_TCR_INT_ACTIVE_LOW	marvell.c	106;"	d	file:
+MII_88E1318S_PHY_LED_TCR_INTn_ENABLE	marvell.c	105;"	d	file:
+MII_88E1318S_PHY_MAGIC_PACKET_WORD0	marvell.c	111;"	d	file:
+MII_88E1318S_PHY_MAGIC_PACKET_WORD1	marvell.c	110;"	d	file:
+MII_88E1318S_PHY_MAGIC_PACKET_WORD2	marvell.c	109;"	d	file:
+MII_88E1318S_PHY_MSCR1_PAD_ODD	marvell.c	94;"	d	file:
+MII_88E1318S_PHY_MSCR1_REG	marvell.c	93;"	d	file:
+MII_88E1318S_PHY_WOL_CTRL	marvell.c	114;"	d	file:
+MII_88E1318S_PHY_WOL_CTRL_CLEAR_WOL_STATUS	marvell.c	115;"	d	file:
+MII_88E1318S_PHY_WOL_CTRL_MAGIC_PACKET_MATCH_ENABLE	marvell.c	116;"	d	file:
+MII_88E1318S_PHY_WOL_PAGE	marvell.c	113;"	d	file:
+MII_88E1510_GEN_CTRL_REG_1	marvell.c	136;"	d	file:
+MII_88E1510_GEN_CTRL_REG_1_MODE_MASK	marvell.c	137;"	d	file:
+MII_88E1510_GEN_CTRL_REG_1_MODE_SGMII	marvell.c	138;"	d	file:
+MII_88E1510_GEN_CTRL_REG_1_RESET	marvell.c	139;"	d	file:
+MII_88E3016_AUTO_MDIX_CROSSOVER	marvell.c	134;"	d	file:
+MII_88E3016_DISABLE_SCRAMBLER	marvell.c	133;"	d	file:
+MII_88E3016_PHY_SPEC_CTRL	marvell.c	132;"	d	file:
+MII_AM79C_IR	amd.c	23;"	d	file:
+MII_AM79C_IR_EN_ANEG	amd.c	25;"	d	file:
+MII_AM79C_IR_EN_LINK	amd.c	24;"	d	file:
+MII_AM79C_IR_IMASK_INIT	amd.c	26;"	d	file:
+MII_BCM63XX_IR	bcm63xx.c	13;"	d	file:
+MII_BCM63XX_IR_DUPLEX	bcm63xx.c	15;"	d	file:
+MII_BCM63XX_IR_EN	bcm63xx.c	14;"	d	file:
+MII_BCM63XX_IR_GMASK	bcm63xx.c	18;"	d	file:
+MII_BCM63XX_IR_LINK	bcm63xx.c	17;"	d	file:
+MII_BCM63XX_IR_SPEED	bcm63xx.c	16;"	d	file:
+MII_BCM7XXX_100TX_AUX_CTL	bcm7xxx.c	23;"	d	file:
+MII_BCM7XXX_100TX_DISC	bcm7xxx.c	25;"	d	file:
+MII_BCM7XXX_100TX_FALSE_CAR	bcm7xxx.c	24;"	d	file:
+MII_BCM7XXX_64CLK_MDIO	bcm7xxx.c	27;"	d	file:
+MII_BCM7XXX_AUX_MODE	bcm7xxx.c	26;"	d	file:
+MII_BCM7XXX_SHD_MODE_2	bcm7xxx.c	29;"	d	file:
+MII_BCM7XXX_TEST	bcm7xxx.c	28;"	d	file:
+MII_BCM_CHANNEL_WIDTH	bcm-phy-lib.c	21;"	d	file:
+MII_BCM_CYGNUS_AFE_VDAC_ICTRL_0	bcm-cygnus.c	22;"	d	file:
+MII_CIS8201_AUXCONSTAT_100	cicada.c	62;"	d	file:
+MII_CIS8201_AUXCONSTAT_DUPLEX	cicada.c	59;"	d	file:
+MII_CIS8201_AUXCONSTAT_GBIT	cicada.c	61;"	d	file:
+MII_CIS8201_AUXCONSTAT_INIT	cicada.c	58;"	d	file:
+MII_CIS8201_AUXCONSTAT_SPEED	cicada.c	60;"	d	file:
+MII_CIS8201_AUX_CONSTAT	cicada.c	57;"	d	file:
+MII_CIS8201_EXTCON1_INIT	cicada.c	39;"	d	file:
+MII_CIS8201_EXT_CON1	cicada.c	38;"	d	file:
+MII_CIS8201_IMASK	cicada.c	42;"	d	file:
+MII_CIS8201_IMASK_DUPLEX	cicada.c	46;"	d	file:
+MII_CIS8201_IMASK_IEN	cicada.c	43;"	d	file:
+MII_CIS8201_IMASK_LINK	cicada.c	45;"	d	file:
+MII_CIS8201_IMASK_MASK	cicada.c	47;"	d	file:
+MII_CIS8201_IMASK_SPEED	cicada.c	44;"	d	file:
+MII_CIS8201_ISTAT	cicada.c	50;"	d	file:
+MII_CIS8201_ISTAT_DUPLEX	cicada.c	54;"	d	file:
+MII_CIS8201_ISTAT_LINK	cicada.c	53;"	d	file:
+MII_CIS8201_ISTAT_SPEED	cicada.c	52;"	d	file:
+MII_CIS8201_ISTAT_STATUS	cicada.c	51;"	d	file:
+MII_CTRL_BUSY_SHIFT	mdio-bcm-iproc.c	31;"	d	file:
+MII_CTRL_DIV_SHIFT	mdio-bcm-iproc.c	29;"	d	file:
+MII_CTRL_OFFSET	mdio-bcm-iproc.c	27;"	d	file:
+MII_CTRL_PRE_SHIFT	mdio-bcm-iproc.c	30;"	d	file:
+MII_DATA_MASK	mdio-bcm-iproc.c	34;"	d	file:
+MII_DATA_OFFSET	mdio-bcm-iproc.c	33;"	d	file:
+MII_DATA_OP_READ	mdio-bcm-iproc.c	41;"	d	file:
+MII_DATA_OP_SHIFT	mdio-bcm-iproc.c	39;"	d	file:
+MII_DATA_OP_WRITE	mdio-bcm-iproc.c	40;"	d	file:
+MII_DATA_PA_SHIFT	mdio-bcm-iproc.c	38;"	d	file:
+MII_DATA_RA_SHIFT	mdio-bcm-iproc.c	37;"	d	file:
+MII_DATA_SB_SHIFT	mdio-bcm-iproc.c	42;"	d	file:
+MII_DATA_TA_SHIFT	mdio-bcm-iproc.c	35;"	d	file:
+MII_DATA_TA_VAL	mdio-bcm-iproc.c	36;"	d	file:
+MII_DM9161_10BTCSR	davicom.c	57;"	d	file:
+MII_DM9161_10BTCSR_INIT	davicom.c	58;"	d	file:
+MII_DM9161_INTR	davicom.c	42;"	d	file:
+MII_DM9161_INTR_DPLX_CHANGE	davicom.c	48;"	d	file:
+MII_DM9161_INTR_DPLX_MASK	davicom.c	44;"	d	file:
+MII_DM9161_INTR_INIT	davicom.c	51;"	d	file:
+MII_DM9161_INTR_LINK_CHANGE	davicom.c	50;"	d	file:
+MII_DM9161_INTR_LINK_MASK	davicom.c	46;"	d	file:
+MII_DM9161_INTR_MASK	davicom.c	47;"	d	file:
+MII_DM9161_INTR_PEND	davicom.c	43;"	d	file:
+MII_DM9161_INTR_SPD_CHANGE	davicom.c	49;"	d	file:
+MII_DM9161_INTR_SPD_MASK	davicom.c	45;"	d	file:
+MII_DM9161_INTR_STOP	davicom.c	52;"	d	file:
+MII_DM9161_SCR	davicom.c	37;"	d	file:
+MII_DM9161_SCR_INIT	davicom.c	38;"	d	file:
+MII_DM9161_SCR_RMII	davicom.c	39;"	d	file:
+MII_DP83640_MICR	dp83640.c	52;"	d	file:
+MII_DP83640_MICR_IE	dp83640.c	56;"	d	file:
+MII_DP83640_MICR_OE	dp83640.c	55;"	d	file:
+MII_DP83640_MISR	dp83640.c	53;"	d	file:
+MII_DP83640_MISR_ANC_INT_EN	dp83640.c	60;"	d	file:
+MII_DP83640_MISR_DUP_INT_EN	dp83640.c	61;"	d	file:
+MII_DP83640_MISR_ED_INT_EN	dp83640.c	64;"	d	file:
+MII_DP83640_MISR_FHF_INT_EN	dp83640.c	59;"	d	file:
+MII_DP83640_MISR_LINK_INT_EN	dp83640.c	63;"	d	file:
+MII_DP83640_MISR_LQ_INT_EN	dp83640.c	65;"	d	file:
+MII_DP83640_MISR_RHF_INT_EN	dp83640.c	58;"	d	file:
+MII_DP83640_MISR_SPD_INT_EN	dp83640.c	62;"	d	file:
+MII_DP83867_BISCR	dp83867.c	32;"	d	file:
+MII_DP83867_CFG2	dp83867.c	31;"	d	file:
+MII_DP83867_CFG2_MASK	dp83867.c	80;"	d	file:
+MII_DP83867_CFG2_SGMII_AUTONEGEN	dp83867.c	76;"	d	file:
+MII_DP83867_CFG2_SPEEDOPT_10EN	dp83867.c	75;"	d	file:
+MII_DP83867_CFG2_SPEEDOPT_CNT	dp83867.c	78;"	d	file:
+MII_DP83867_CFG2_SPEEDOPT_ENH	dp83867.c	77;"	d	file:
+MII_DP83867_CFG2_SPEEDOPT_INTLOW	dp83867.c	79;"	d	file:
+MII_DP83867_ISR	dp83867.c	30;"	d	file:
+MII_DP83867_MICR	dp83867.c	29;"	d	file:
+MII_DP83867_MICR_AN_ERR_INT_EN	dp83867.c	44;"	d	file:
+MII_DP83867_MICR_AUTONEG_COMP_INT_EN	dp83867.c	48;"	d	file:
+MII_DP83867_MICR_DUP_MODE_CHNG_INT_EN	dp83867.c	46;"	d	file:
+MII_DP83867_MICR_FALSE_CARRIER_INT_EN	dp83867.c	50;"	d	file:
+MII_DP83867_MICR_JABBER_INT_EN	dp83867.c	55;"	d	file:
+MII_DP83867_MICR_LINK_STS_CHNG_INT_EN	dp83867.c	49;"	d	file:
+MII_DP83867_MICR_PAGE_RXD_INT_EN	dp83867.c	47;"	d	file:
+MII_DP83867_MICR_POL_CHNG_INT_EN	dp83867.c	54;"	d	file:
+MII_DP83867_MICR_SLEEP_MODE_CHNG_INT_EN	dp83867.c	51;"	d	file:
+MII_DP83867_MICR_SPEED_CHNG_INT_EN	dp83867.c	45;"	d	file:
+MII_DP83867_MICR_WOL_INT_EN	dp83867.c	52;"	d	file:
+MII_DP83867_MICR_XGMII_ERR_INT_EN	dp83867.c	53;"	d	file:
+MII_DP83867_PHYCTRL	dp83867.c	28;"	d	file:
+MII_KSZ9031RN_CLK_PAD_SKEW	micrel.c	440;"	d	file:
+MII_KSZ9031RN_CONTROL_PAD_SKEW	micrel.c	437;"	d	file:
+MII_KSZ9031RN_EDPD	micrel.c	443;"	d	file:
+MII_KSZ9031RN_EDPD_ENABLE	micrel.c	444;"	d	file:
+MII_KSZ9031RN_FLP_BURST_TX_HI	micrel.c	434;"	d	file:
+MII_KSZ9031RN_FLP_BURST_TX_LO	micrel.c	433;"	d	file:
+MII_KSZ9031RN_MMD_CTRL_REG	micrel.c	426;"	d	file:
+MII_KSZ9031RN_MMD_REGDATA_REG	micrel.c	427;"	d	file:
+MII_KSZ9031RN_RX_DATA_PAD_SKEW	micrel.c	438;"	d	file:
+MII_KSZ9031RN_TX_DATA_PAD_SKEW	micrel.c	439;"	d	file:
+MII_KSZPHY_CLK_CONTROL_PAD_SKEW	micrel.c	70;"	d	file:
+MII_KSZPHY_CTRL	micrel.c	57;"	d	file:
+MII_KSZPHY_CTRL_1	micrel.c	53;"	d	file:
+MII_KSZPHY_CTRL_2	micrel.c	56;"	d	file:
+MII_KSZPHY_EXTREG	micrel.c	63;"	d	file:
+MII_KSZPHY_EXTREG_READ	micrel.c	67;"	d	file:
+MII_KSZPHY_EXTREG_WRITE	micrel.c	66;"	d	file:
+MII_KSZPHY_INTCS	micrel.c	40;"	d	file:
+MII_KSZPHY_OMSO	micrel.c	33;"	d	file:
+MII_KSZPHY_RX_DATA_PAD_SKEW	micrel.c	71;"	d	file:
+MII_KSZPHY_TX_DATA_PAD_SKEW	micrel.c	72;"	d	file:
+MII_LXT970_CONFIG	lxt.c	45;"	d	file:
+MII_LXT970_IER	lxt.c	39;"	d	file:
+MII_LXT970_IER_IEN	lxt.c	41;"	d	file:
+MII_LXT970_ISR	lxt.c	43;"	d	file:
+MII_LXT971_IER	lxt.c	51;"	d	file:
+MII_LXT971_IER_IEN	lxt.c	52;"	d	file:
+MII_LXT971_ISR	lxt.c	54;"	d	file:
+MII_LXT973_PCR	lxt.c	57;"	d	file:
+MII_M1011_IEVENT	marvell.c	43;"	d	file:
+MII_M1011_IEVENT_CLEAR	marvell.c	44;"	d	file:
+MII_M1011_IMASK	marvell.c	46;"	d	file:
+MII_M1011_IMASK_CLEAR	marvell.c	48;"	d	file:
+MII_M1011_IMASK_INIT	marvell.c	47;"	d	file:
+MII_M1011_PHY_SCR	marvell.c	50;"	d	file:
+MII_M1011_PHY_SCR_AUTO_CROSS	marvell.c	53;"	d	file:
+MII_M1011_PHY_SCR_MDI	marvell.c	51;"	d	file:
+MII_M1011_PHY_SCR_MDI_X	marvell.c	52;"	d	file:
+MII_M1011_PHY_STATUS	marvell.c	122;"	d	file:
+MII_M1011_PHY_STATUS_100	marvell.c	124;"	d	file:
+MII_M1011_PHY_STATUS_1000	marvell.c	123;"	d	file:
+MII_M1011_PHY_STATUS_FULLDUPLEX	marvell.c	126;"	d	file:
+MII_M1011_PHY_STATUS_LINK	marvell.c	128;"	d	file:
+MII_M1011_PHY_STATUS_RESOLVED	marvell.c	127;"	d	file:
+MII_M1011_PHY_STATUS_SPD_MASK	marvell.c	125;"	d	file:
+MII_M1111_COPPER	marvell.c	84;"	d	file:
+MII_M1111_FIBER	marvell.c	85;"	d	file:
+MII_M1111_HWCFG_FIBER_COPPER_AUTO	marvell.c	81;"	d	file:
+MII_M1111_HWCFG_FIBER_COPPER_RES	marvell.c	82;"	d	file:
+MII_M1111_HWCFG_MODE_COPPER_RGMII	marvell.c	77;"	d	file:
+MII_M1111_HWCFG_MODE_COPPER_RTBI	marvell.c	80;"	d	file:
+MII_M1111_HWCFG_MODE_FIBER_RGMII	marvell.c	78;"	d	file:
+MII_M1111_HWCFG_MODE_MASK	marvell.c	76;"	d	file:
+MII_M1111_HWCFG_MODE_SGMII_NO_CLK	marvell.c	79;"	d	file:
+MII_M1111_PHY_EXT_CR	marvell.c	71;"	d	file:
+MII_M1111_PHY_EXT_SR	marvell.c	74;"	d	file:
+MII_M1111_PHY_LED_COMBINE	marvell.c	70;"	d	file:
+MII_M1111_PHY_LED_CONTROL	marvell.c	68;"	d	file:
+MII_M1111_PHY_LED_DIRECT	marvell.c	69;"	d	file:
+MII_M1111_RX_DELAY	marvell.c	72;"	d	file:
+MII_M1111_TX_DELAY	marvell.c	73;"	d	file:
+MII_M1116R_CONTROL_REG_MAC	marvell.c	130;"	d	file:
+MII_M1145_HWCFG_FIBER_COPPER_AUTO	marvell.c	62;"	d	file:
+MII_M1145_HWCFG_FIBER_COPPER_AUTO	marvell.c	66;"	d	file:
+MII_M1145_HWCFG_MODE_MASK	marvell.c	61;"	d	file:
+MII_M1145_HWCFG_MODE_MASK	marvell.c	65;"	d	file:
+MII_M1145_HWCFG_MODE_SGMII_NO_CLK	marvell.c	60;"	d	file:
+MII_M1145_HWCFG_MODE_SGMII_NO_CLK	marvell.c	64;"	d	file:
+MII_M1145_PHY_EXT_ADDR_PAGE	marvell.c	55;"	d	file:
+MII_M1145_PHY_EXT_CR	marvell.c	57;"	d	file:
+MII_M1145_PHY_EXT_SR	marvell.c	56;"	d	file:
+MII_M1145_RGMII_RX_DELAY	marvell.c	58;"	d	file:
+MII_M1145_RGMII_TX_DELAY	marvell.c	59;"	d	file:
+MII_MARVELL_PHY_PAGE	marvell.c	41;"	d	file:
+MII_MGMT_ADDRESS_ADDR	mdio-xgene.h	41;"	d
+MII_MGMT_ADDRESS_ADDR	mdio-xgene.h	49;"	d
+MII_MGMT_COMMAND_ADDR	mdio-xgene.h	40;"	d
+MII_MGMT_COMMAND_ADDR	mdio-xgene.h	48;"	d
+MII_MGMT_CONFIG_ADDR	mdio-xgene.h	47;"	d
+MII_MGMT_CONTROL_ADDR	mdio-xgene.h	42;"	d
+MII_MGMT_CONTROL_ADDR	mdio-xgene.h	50;"	d
+MII_MGMT_INDICATORS_ADDR	mdio-xgene.h	44;"	d
+MII_MGMT_INDICATORS_ADDR	mdio-xgene.h	52;"	d
+MII_MGMT_STATUS_ADDR	mdio-xgene.h	43;"	d
+MII_MGMT_STATUS_ADDR	mdio-xgene.h	51;"	d
+MII_PHY_STATUS_100	xilinx_phy.c	29;"	d	file:
+MII_PHY_STATUS_1000	xilinx_phy.c	28;"	d	file:
+MII_PHY_STATUS_FULLDUPLEX	xilinx_phy.c	27;"	d	file:
+MII_PHY_STATUS_SPD_MASK	xilinx_phy.c	26;"	d	file:
+MII_QS6612_FTR	qsemi.c	43;"	d	file:
+MII_QS6612_IMR	qsemi.c	46;"	d	file:
+MII_QS6612_IMR_INIT	qsemi.c	47;"	d	file:
+MII_QS6612_ISR	qsemi.c	45;"	d	file:
+MII_QS6612_MCO	qsemi.c	44;"	d	file:
+MII_QS6612_MCR	qsemi.c	42;"	d	file:
+MII_QS6612_PCR	qsemi.c	48;"	d	file:
+MII_REGS_NUM	swphy.c	23;"	d	file:
+MII_VSC8221_AUXCONSTAT_INIT	vitesse.c	59;"	d	file:
+MII_VSC8221_AUXCONSTAT_RESERVED	vitesse.c	60;"	d	file:
+MII_VSC8221_IMASK_MASK	vitesse.c	42;"	d	file:
+MII_VSC8244_AUXCONSTAT_100	vitesse.c	57;"	d	file:
+MII_VSC8244_AUXCONSTAT_DUPLEX	vitesse.c	54;"	d	file:
+MII_VSC8244_AUXCONSTAT_GBIT	vitesse.c	56;"	d	file:
+MII_VSC8244_AUXCONSTAT_INIT	vitesse.c	53;"	d	file:
+MII_VSC8244_AUXCONSTAT_SPEED	vitesse.c	55;"	d	file:
+MII_VSC8244_AUX_CONSTAT	vitesse.c	52;"	d	file:
+MII_VSC8244_EXTCON1_INIT	vitesse.c	28;"	d	file:
+MII_VSC8244_EXTCON1_RX_SKEW	vitesse.c	32;"	d	file:
+MII_VSC8244_EXTCON1_RX_SKEW_MASK	vitesse.c	30;"	d	file:
+MII_VSC8244_EXTCON1_TX_SKEW	vitesse.c	31;"	d	file:
+MII_VSC8244_EXTCON1_TX_SKEW_MASK	vitesse.c	29;"	d	file:
+MII_VSC8244_EXT_CON1	vitesse.c	27;"	d	file:
+MII_VSC8244_IMASK	vitesse.c	35;"	d	file:
+MII_VSC8244_IMASK_DUPLEX	vitesse.c	39;"	d	file:
+MII_VSC8244_IMASK_IEN	vitesse.c	36;"	d	file:
+MII_VSC8244_IMASK_LINK	vitesse.c	38;"	d	file:
+MII_VSC8244_IMASK_MASK	vitesse.c	40;"	d	file:
+MII_VSC8244_IMASK_SPEED	vitesse.c	37;"	d	file:
+MII_VSC8244_ISTAT	vitesse.c	45;"	d	file:
+MII_VSC8244_ISTAT_DUPLEX	vitesse.c	49;"	d	file:
+MII_VSC8244_ISTAT_LINK	vitesse.c	48;"	d	file:
+MII_VSC8244_ISTAT_SPEED	vitesse.c	47;"	d	file:
+MII_VSC8244_ISTAT_STATUS	vitesse.c	46;"	d	file:
+MII_VSC82X4_EXT_PAGE_16E	vitesse.c	22;"	d	file:
+MII_VSC82X4_EXT_PAGE_17E	vitesse.c	23;"	d	file:
+MII_VSC82X4_EXT_PAGE_18E	vitesse.c	24;"	d	file:
+MII_VSC82X4_EXT_PAGE_ACCESS	vitesse.c	63;"	d	file:
+MII_VSC85XX_INT_MASK	mscc.c	39;"	d	file:
+MII_VSC85XX_INT_MASK_MASK	mscc.c	40;"	d	file:
+MII_VSC85XX_INT_MASK_WOL	mscc.c	41;"	d	file:
+MII_VSC85XX_INT_STATUS	mscc.c	42;"	d	file:
+MII_VSC8601_EPHY_CTL	vitesse.c	66;"	d	file:
+MII_VSC8601_EPHY_CTL_RGMII_SKEW	vitesse.c	67;"	d	file:
+MII_XCIIS	ste10Xp.c	28;"	d	file:
+MII_XIE	ste10Xp.c	29;"	d	file:
+MII_XIE_DEFAULT_MASK	ste10Xp.c	30;"	d	file:
+MIN_PRE_MASK	dp83640_reg.h	179;"	d
+MIN_PRE_SHIFT	dp83640_reg.h	178;"	d
+MISC_ADDR	bcm7xxx.c	32;"	d	file:
+MSCC_EXT_PAGE_ACCESS	mscc.c	48;"	d	file:
+MSCC_PHY_EXT_PHY_CNTL_1	mscc.c	31;"	d	file:
+MSCC_PHY_PAGE_EXTENDED_2	mscc.c	50;"	d	file:
+MSCC_PHY_PAGE_STANDARD	mscc.c	49;"	d	file:
+MSCC_PHY_RGMII_CNTL	mscc.c	53;"	d	file:
+MSCC_PHY_WOL_LOWER_MAC_ADDR	mscc.c	57;"	d	file:
+MSCC_PHY_WOL_LOWER_PASSWD	mscc.c	60;"	d	file:
+MSCC_PHY_WOL_MAC_CONTROL	mscc.c	44;"	d	file:
+MSCC_PHY_WOL_MAC_CONTROL	mscc.c	64;"	d	file:
+MSCC_PHY_WOL_MID_MAC_ADDR	mscc.c	58;"	d	file:
+MSCC_PHY_WOL_MID_PASSWD	mscc.c	61;"	d	file:
+MSCC_PHY_WOL_UPPER_MAC_ADDR	mscc.c	59;"	d	file:
+MSCC_PHY_WOL_UPPER_PASSWD	mscc.c	62;"	d	file:
+MS_TO_NS	tb_phy.c	30;"	d	file:
+MULT_EVNT	dp83640_reg.h	111;"	d
+NB_FIBER_STATS	marvell.c	154;"	d	file:
+NS_DP83848C_PHY_ID	dp83848.c	20;"	d	file:
+NS_EXP_MEM_ADD	national.c	46;"	d	file:
+NS_EXP_MEM_CTL	national.c	44;"	d	file:
+NS_EXP_MEM_DATA	national.c	45;"	d	file:
+NTP_TS_EN	dp83640_reg.h	157;"	d
+N_EXT_TS	dp83640.c	41;"	d	file:
+N_PER_OUT	dp83640.c	42;"	d	file:
+OCT_MDIO_BITFIELD_FIELD	mdio-cavium.h	22;"	d
+OCT_MDIO_BITFIELD_FIELD	mdio-cavium.h	27;"	d
+OP_DATA	micrel.c	428;"	d	file:
+PAGE0	dp83640_reg.h	7;"	d
+PAGE4	dp83640_reg.h	10;"	d
+PAGE5	dp83640_reg.h	24;"	d
+PAGE6	dp83640_reg.h	38;"	d
+PAGESEL	dp83640.c	39;"	d	file:
+PCR_FIBER_SELECT	lxt.c	58;"	d	file:
+PEROUT_GPIO	dp83640.c	/^	PEROUT_GPIO,$/;"	e	enum:__anon3	file:
+PHYAD_MASK	mdio-moxart.c	27;"	d	file:
+PHYCR2	dp83640_reg.h	8;"	d
+PHY_ADDR_LEN	mdio-xgene.h	66;"	d
+PHY_ADDR_POS	mdio-xgene.h	65;"	d
+PHY_AQUANTIA_FEATURES	aquantia.c	26;"	d	file:
+PHY_ID_AM79C874	amd.c	21;"	d	file:
+PHY_ID_AQ1202	aquantia.c	21;"	d	file:
+PHY_ID_AQ2104	aquantia.c	22;"	d	file:
+PHY_ID_AQR105	aquantia.c	23;"	d	file:
+PHY_ID_AQR405	aquantia.c	24;"	d	file:
+PHY_ID_BCM8706	bcm87xx.c	13;"	d	file:
+PHY_ID_BCM8727	bcm87xx.c	14;"	d	file:
+PHY_ID_PHY11G_1_3	intel-xway.c	146;"	d	file:
+PHY_ID_PHY11G_1_4	intel-xway.c	148;"	d	file:
+PHY_ID_PHY11G_1_5	intel-xway.c	150;"	d	file:
+PHY_ID_PHY11G_VR9	intel-xway.c	152;"	d	file:
+PHY_ID_PHY22F_1_3	intel-xway.c	147;"	d	file:
+PHY_ID_PHY22F_1_4	intel-xway.c	149;"	d	file:
+PHY_ID_PHY22F_1_5	intel-xway.c	151;"	d	file:
+PHY_ID_PHY22F_VR9	intel-xway.c	153;"	d	file:
+PHY_ID_TN2020	teranetics.c	24;"	d	file:
+PHY_ID_VSC8211	vitesse.c	76;"	d	file:
+PHY_ID_VSC8221	vitesse.c	75;"	d	file:
+PHY_ID_VSC8234	vitesse.c	69;"	d	file:
+PHY_ID_VSC8244	vitesse.c	70;"	d	file:
+PHY_ID_VSC8514	vitesse.c	71;"	d	file:
+PHY_ID_VSC8531	mscc.c	69;"	d	file:
+PHY_ID_VSC8541	mscc.c	70;"	d	file:
+PHY_ID_VSC8574	vitesse.c	72;"	d	file:
+PHY_ID_VSC8601	vitesse.c	73;"	d	file:
+PHY_ID_VSC8662	vitesse.c	74;"	d	file:
+PHY_STATE_STR	phy.c	61;"	d	file:
+PLL_PLLCTRL_1	bcm7xxx.c	35;"	d	file:
+PLL_PLLCTRL_2	bcm7xxx.c	36;"	d	file:
+PLL_PLLCTRL_4	bcm7xxx.c	37;"	d	file:
+PSF_CFG0	dp83640_reg.h	29;"	d
+PSF_CFG1	dp83640_reg.h	40;"	d
+PSF_CFG2	dp83640_reg.h	41;"	d
+PSF_CFG3	dp83640_reg.h	42;"	d
+PSF_CFG4	dp83640_reg.h	43;"	d
+PSF_ENDIAN	dp83640_reg.h	180;"	d
+PSF_ERR_EN	dp83640_reg.h	183;"	d
+PSF_EVNT	dp83640.c	44;"	d	file:
+PSF_EVNT_EN	dp83640_reg.h	187;"	d
+PSF_IPV4	dp83640_reg.h	181;"	d
+PSF_PCF_RD	dp83640_reg.h	182;"	d
+PSF_PTPVER	dp83640.c	43;"	d	file:
+PSF_RX	dp83640.c	45;"	d	file:
+PSF_RXTS_EN	dp83640_reg.h	185;"	d
+PSF_TRIG_EN	dp83640_reg.h	186;"	d
+PSF_TX	dp83640.c	46;"	d	file:
+PSF_TXTS_EN	dp83640_reg.h	184;"	d
+PS_TO_REG	micrel.c	74;"	d	file:
+PTPRESERVED_MASK	dp83640_reg.h	239;"	d
+PTPRESERVED_SHIFT	dp83640_reg.h	238;"	d
+PTP_CLKDIV_MASK	dp83640_reg.h	235;"	d
+PTP_CLKDIV_SHIFT	dp83640_reg.h	234;"	d
+PTP_CLKOUT_EN	dp83640_reg.h	231;"	d
+PTP_CLKOUT_SEL	dp83640_reg.h	232;"	d
+PTP_CLKOUT_SPEEDSEL	dp83640_reg.h	233;"	d
+PTP_CLKSRC	dp83640_reg.h	46;"	d
+PTP_COC	dp83640_reg.h	39;"	d
+PTP_CTL	dp83640_reg.h	11;"	d
+PTP_DISABLE	dp83640_reg.h	66;"	d
+PTP_DOMAIN_MASK	dp83640_reg.h	218;"	d
+PTP_DOMAIN_SHIFT	dp83640_reg.h	217;"	d
+PTP_EDATA	dp83640_reg.h	22;"	d
+PTP_ENABLE	dp83640_reg.h	65;"	d
+PTP_ESTS	dp83640_reg.h	21;"	d
+PTP_ETR	dp83640_reg.h	47;"	d
+PTP_EVNT	dp83640_reg.h	26;"	d
+PTP_GPIOMON	dp83640_reg.h	49;"	d
+PTP_INTCTL	dp83640_reg.h	45;"	d
+PTP_INT_GPIO_MASK	dp83640_reg.h	255;"	d
+PTP_INT_GPIO_SHIFT	dp83640_reg.h	254;"	d
+PTP_LOAD_CLK	dp83640_reg.h	63;"	d
+PTP_OFF	dp83640_reg.h	48;"	d
+PTP_OFFSET_MASK	dp83640_reg.h	265;"	d
+PTP_OFFSET_SHIFT	dp83640_reg.h	264;"	d
+PTP_RATEH	dp83640_reg.h	16;"	d
+PTP_RATEL	dp83640_reg.h	15;"	d
+PTP_RATE_DIR	dp83640_reg.h	98;"	d
+PTP_RATE_HI_MASK	dp83640_reg.h	101;"	d
+PTP_RATE_HI_SHIFT	dp83640_reg.h	100;"	d
+PTP_RDCKSUM	dp83640_reg.h	17;"	d
+PTP_RD_CLK	dp83640_reg.h	62;"	d
+PTP_RESET	dp83640_reg.h	67;"	d
+PTP_RXCFG0	dp83640_reg.h	30;"	d
+PTP_RXCFG1	dp83640_reg.h	31;"	d
+PTP_RXCFG2	dp83640_reg.h	32;"	d
+PTP_RXCFG3	dp83640_reg.h	33;"	d
+PTP_RXCFG4	dp83640_reg.h	34;"	d
+PTP_RXHASH	dp83640_reg.h	50;"	d
+PTP_RXTS	dp83640_reg.h	20;"	d
+PTP_SFDCFG	dp83640_reg.h	44;"	d
+PTP_STEP_CLK	dp83640_reg.h	64;"	d
+PTP_STS	dp83640_reg.h	13;"	d
+PTP_TDR	dp83640_reg.h	12;"	d
+PTP_TMP_RATE	dp83640_reg.h	99;"	d
+PTP_TRDH	dp83640_reg.h	36;"	d
+PTP_TRDL	dp83640_reg.h	35;"	d
+PTP_TRIG	dp83640_reg.h	25;"	d
+PTP_TSTS	dp83640_reg.h	14;"	d
+PTP_TXCFG0	dp83640_reg.h	27;"	d
+PTP_TXCFG1	dp83640_reg.h	28;"	d
+PTP_TXTS	dp83640_reg.h	19;"	d
+PTP_WRCKSUM	dp83640_reg.h	18;"	d
+QS6612_PCR_4B5BEN	qsemi.c	53;"	d	file:
+QS6612_PCR_AN_COMPLETE	qsemi.c	50;"	d	file:
+QS6612_PCR_DCREN	qsemi.c	52;"	d	file:
+QS6612_PCR_MLT3_DIS	qsemi.c	55;"	d	file:
+QS6612_PCR_RLBEN	qsemi.c	51;"	d	file:
+QS6612_PCR_SCRM_DESCRM	qsemi.c	56;"	d	file:
+QS6612_PCR_TX_ISOLATE	qsemi.c	54;"	d	file:
+READ_CYCLE_MASK	mdio-xgene.h	79;"	d
+REGAD_MASK	mdio-moxart.c	26;"	d	file:
+REGISTER_LINK_STATUS	marvell.c	153;"	d	file:
+REG_ADDR_LEN	mdio-xgene.h	64;"	d
+REG_ADDR_POS	mdio-xgene.h	63;"	d
+REG_PHY_CTRL	mdio-moxart.c	20;"	d	file:
+REG_PHY_WRITE_DATA	mdio-moxart.c	21;"	d	file:
+RGMII_RX_CLK_DELAY_0_2_NS	mscc.c	/^	RGMII_RX_CLK_DELAY_0_2_NS = 0,$/;"	e	enum:rgmii_rx_clock_delay	file:
+RGMII_RX_CLK_DELAY_0_8_NS	mscc.c	/^	RGMII_RX_CLK_DELAY_0_8_NS = 1,$/;"	e	enum:rgmii_rx_clock_delay	file:
+RGMII_RX_CLK_DELAY_1_1_NS	mscc.c	/^	RGMII_RX_CLK_DELAY_1_1_NS = 2,$/;"	e	enum:rgmii_rx_clock_delay	file:
+RGMII_RX_CLK_DELAY_1_7_NS	mscc.c	/^	RGMII_RX_CLK_DELAY_1_7_NS = 3,$/;"	e	enum:rgmii_rx_clock_delay	file:
+RGMII_RX_CLK_DELAY_2_0_NS	mscc.c	/^	RGMII_RX_CLK_DELAY_2_0_NS = 4,$/;"	e	enum:rgmii_rx_clock_delay	file:
+RGMII_RX_CLK_DELAY_2_3_NS	mscc.c	/^	RGMII_RX_CLK_DELAY_2_3_NS = 5,$/;"	e	enum:rgmii_rx_clock_delay	file:
+RGMII_RX_CLK_DELAY_2_6_NS	mscc.c	/^	RGMII_RX_CLK_DELAY_2_6_NS = 6,$/;"	e	enum:rgmii_rx_clock_delay	file:
+RGMII_RX_CLK_DELAY_3_4_NS	mscc.c	/^	RGMII_RX_CLK_DELAY_3_4_NS = 7$/;"	e	enum:rgmii_rx_clock_delay	file:
+RGMII_RX_CLK_DELAY_MASK	mscc.c	54;"	d	file:
+RGMII_RX_CLK_DELAY_POS	mscc.c	55;"	d	file:
+RTL8211E_INER_LINK_STATUS	realtek.c	25;"	d	file:
+RTL8211F_INER_LINK_STATUS	realtek.c	27;"	d	file:
+RTL8211F_INSR	realtek.c	28;"	d	file:
+RTL8211F_PAGE_SELECT	realtek.c	29;"	d	file:
+RTL8211F_TX_DELAY	realtek.c	30;"	d	file:
+RTL821x_INER	realtek.c	22;"	d	file:
+RTL821x_INER_INIT	realtek.c	23;"	d	file:
+RTL821x_INSR	realtek.c	24;"	d	file:
+RTL821x_PHYSR	realtek.c	19;"	d	file:
+RTL821x_PHYSR_DUPLEX	realtek.c	20;"	d	file:
+RTL821x_PHYSR_SPEED	realtek.c	21;"	d	file:
+RXTS_IE	dp83640_reg.h	75;"	d
+RXTS_NS_OFF_MASK	dp83640_reg.h	226;"	d
+RXTS_NS_OFF_SHIFT	dp83640_reg.h	225;"	d
+RXTS_RDY	dp83640_reg.h	71;"	d
+RXTS_SEC_OFF_MASK	dp83640_reg.h	228;"	d
+RXTS_SEC_OFF_SHIFT	dp83640_reg.h	227;"	d
+RX_IPV4_EN	dp83640_reg.h	199;"	d
+RX_IPV6_EN	dp83640_reg.h	198;"	d
+RX_L2_EN	dp83640_reg.h	197;"	d
+RX_PTP_VER_MASK	dp83640_reg.h	201;"	d
+RX_PTP_VER_SHIFT	dp83640_reg.h	200;"	d
+RX_SFD_GPIO_MASK	dp83640_reg.h	251;"	d
+RX_SFD_GPIO_SHIFT	dp83640_reg.h	250;"	d
+RX_SLAVE	dp83640_reg.h	194;"	d
+RX_TS_EN	dp83640_reg.h	202;"	d
+SECURE_ON_ENABLE	mscc.c	65;"	d	file:
+SECURE_ON_PASSWD_LEN_4	mscc.c	66;"	d	file:
+SET_BIT	mdio-xgene.h	118;"	d
+SET_VAL	mdio-xgene.h	115;"	d
+SKB_TIMESTAMP_TIMEOUT	dp83640.c	70;"	d	file:
+SMI_CLK	mdio-cavium.h	18;"	d
+SMI_CMD	mdio-cavium.h	15;"	d
+SMI_EN	mdio-cavium.h	19;"	d
+SMI_RD_DAT	mdio-cavium.h	17;"	d
+SMI_WR_DAT	mdio-cavium.h	16;"	d
+SOFT_RESET	mdio-xgene.h	45;"	d
+SRST_OFFSET	mdio-xgene.h	34;"	d
+STE100P_PHY_ID	ste10Xp.c	33;"	d	file:
+STE101P_PHY_ID	ste10Xp.c	32;"	d	file:
+SWMII_DUPLEX_FULL	swphy.c	/^	SWMII_DUPLEX_FULL,$/;"	e	enum:__anon2	file:
+SWMII_DUPLEX_HALF	swphy.c	/^	SWMII_DUPLEX_HALF = 0,$/;"	e	enum:__anon2	file:
+SWMII_SPEED_10	swphy.c	/^	SWMII_SPEED_10 = 0,$/;"	e	enum:__anon2	file:
+SWMII_SPEED_100	swphy.c	/^	SWMII_SPEED_100,$/;"	e	enum:__anon2	file:
+SWMII_SPEED_1000	swphy.c	/^	SWMII_SPEED_1000,$/;"	e	enum:__anon2	file:
+SWPHY_H	swphy.h	2;"	d
+SYNC_1STEP	dp83640_reg.h	155;"	d
+TI_DP83822_PHY_ID	dp83848.c	22;"	d	file:
+TI_DP83848C_PHY_ID	dp83848.c	19;"	d	file:
+TLK10X_PHY_ID	dp83848.c	21;"	d	file:
+TRANSPORT_SPECIFIC_MASK	dp83640_reg.h	243;"	d
+TRANSPORT_SPECIFIC_SHIFT	dp83640_reg.h	242;"	d
+TRIG0_ACTIVE	dp83640_reg.h	95;"	d
+TRIG0_ERROR	dp83640_reg.h	94;"	d
+TRIG1_ACTIVE	dp83640_reg.h	93;"	d
+TRIG1_ERROR	dp83640_reg.h	92;"	d
+TRIG2_ACTIVE	dp83640_reg.h	91;"	d
+TRIG2_ERROR	dp83640_reg.h	90;"	d
+TRIG3_ACTIVE	dp83640_reg.h	89;"	d
+TRIG3_ERROR	dp83640_reg.h	88;"	d
+TRIG4_ACTIVE	dp83640_reg.h	87;"	d
+TRIG4_ERROR	dp83640_reg.h	86;"	d
+TRIG5_ACTIVE	dp83640_reg.h	85;"	d
+TRIG5_ERROR	dp83640_reg.h	84;"	d
+TRIG6_ACTIVE	dp83640_reg.h	83;"	d
+TRIG6_ERROR	dp83640_reg.h	82;"	d
+TRIG7_ACTIVE	dp83640_reg.h	81;"	d
+TRIG7_ERROR	dp83640_reg.h	80;"	d
+TRIG_CSEL_MASK	dp83640_reg.h	141;"	d
+TRIG_CSEL_SHIFT	dp83640_reg.h	140;"	d
+TRIG_DIS	dp83640_reg.h	58;"	d
+TRIG_DONE	dp83640_reg.h	72;"	d
+TRIG_EN	dp83640_reg.h	59;"	d
+TRIG_GPIO_MASK	dp83640_reg.h	138;"	d
+TRIG_GPIO_SHIFT	dp83640_reg.h	137;"	d
+TRIG_IE	dp83640_reg.h	76;"	d
+TRIG_IF_LATE	dp83640_reg.h	135;"	d
+TRIG_LOAD	dp83640_reg.h	61;"	d
+TRIG_NOTIFY	dp83640_reg.h	136;"	d
+TRIG_PER	dp83640_reg.h	134;"	d
+TRIG_PULSE	dp83640_reg.h	133;"	d
+TRIG_READ	dp83640_reg.h	60;"	d
+TRIG_SEL_MASK	dp83640_reg.h	57;"	d
+TRIG_SEL_SHIFT	dp83640_reg.h	56;"	d
+TRIG_TOGGLE	dp83640_reg.h	139;"	d
+TRIG_WR	dp83640_reg.h	142;"	d
+TS_APPEND	dp83640_reg.h	215;"	d
+TS_INSERT	dp83640_reg.h	216;"	d
+TS_MIN_IFG_MASK	dp83640_reg.h	212;"	d
+TS_MIN_IFG_SHIFT	dp83640_reg.h	211;"	d
+TS_SEC_EN	dp83640_reg.h	222;"	d
+TS_SEC_LEN_MASK	dp83640_reg.h	224;"	d
+TS_SEC_LEN_SHIFT	dp83640_reg.h	223;"	d
+TXTS_IE	dp83640_reg.h	74;"	d
+TXTS_RDY	dp83640_reg.h	70;"	d
+TX_IPV4_EN	dp83640_reg.h	164;"	d
+TX_IPV6_EN	dp83640_reg.h	163;"	d
+TX_L2_EN	dp83640_reg.h	162;"	d
+TX_PTP_VER_MASK	dp83640_reg.h	166;"	d
+TX_PTP_VER_SHIFT	dp83640_reg.h	165;"	d
+TX_SFD_GPIO_MASK	dp83640_reg.h	249;"	d
+TX_SFD_GPIO_SHIFT	dp83640_reg.h	248;"	d
+TX_TS_EN	dp83640_reg.h	167;"	d
+UINT64_MAX	marvell.c	1434;"	d	file:
+UINT64_MAX	micrel.c	671;"	d	file:
+UNINIT	mdio-cavium.h	/^	UNINIT = 0,$/;"	e	enum:cavium_mdiobus_mode
+USER_IP_EN	dp83640_reg.h	193;"	d
+USER_IP_SEL	dp83640_reg.h	192;"	d
+VERSIONPTP_MASK	dp83640_reg.h	241;"	d
+VERSIONPTP_SHIFT	dp83640_reg.h	240;"	d
+XGENET_CONFIG_REG_ADDR	mdio-xgene.h	25;"	d
+XGENE_ENET_RD_CMD	mdio-xgene.h	/^	XGENE_ENET_RD_CMD = BIT(30)$/;"	e	enum:xgene_enet_cmd
+XGENE_ENET_WR_CMD	mdio-xgene.h	/^	XGENE_ENET_WR_CMD = BIT(31),$/;"	e	enum:xgene_enet_cmd
+XGENE_MDIO_RGMII	mdio-xgene.h	/^	XGENE_MDIO_RGMII = 1,$/;"	e	enum:xgene_mdio_id
+XGENE_MDIO_XFI	mdio-xgene.h	/^	XGENE_MDIO_XFI$/;"	e	enum:xgene_mdio_id
+XILINX_GMII2RGMII_REG	xilinx_gmii2rgmii.c	29;"	d	file:
+XILINX_GMII2RGMII_SPEED_MASK	xilinx_gmii2rgmii.c	30;"	d	file:
+XPCSPMA_PHY_CTRL_ISOLATE_DISABLE	xilinx_phy.c	30;"	d	file:
+XWAY_MDIO_IMASK	intel-xway.c	21;"	d	file:
+XWAY_MDIO_INIT_ADSC	intel-xway.c	30;"	d	file:
+XWAY_MDIO_INIT_ANC	intel-xway.c	29;"	d	file:
+XWAY_MDIO_INIT_ANE	intel-xway.c	28;"	d	file:
+XWAY_MDIO_INIT_DXMC	intel-xway.c	33;"	d	file:
+XWAY_MDIO_INIT_LSPC	intel-xway.c	34;"	d	file:
+XWAY_MDIO_INIT_LSTC	intel-xway.c	35;"	d	file:
+XWAY_MDIO_INIT_MASK	intel-xway.c	36;"	d	file:
+XWAY_MDIO_INIT_MDIXC	intel-xway.c	32;"	d	file:
+XWAY_MDIO_INIT_MPIPC	intel-xway.c	31;"	d	file:
+XWAY_MDIO_INIT_MSRE	intel-xway.c	25;"	d	file:
+XWAY_MDIO_INIT_NPRX	intel-xway.c	26;"	d	file:
+XWAY_MDIO_INIT_NPTX	intel-xway.c	27;"	d	file:
+XWAY_MDIO_INIT_WOL	intel-xway.c	24;"	d	file:
+XWAY_MDIO_ISTAT	intel-xway.c	22;"	d	file:
+XWAY_MMD_LED0H	intel-xway.c	83;"	d	file:
+XWAY_MMD_LED0L	intel-xway.c	117;"	d	file:
+XWAY_MMD_LED1H	intel-xway.c	139;"	d	file:
+XWAY_MMD_LED1L	intel-xway.c	140;"	d	file:
+XWAY_MMD_LED2H	intel-xway.c	141;"	d	file:
+XWAY_MMD_LED2L	intel-xway.c	142;"	d	file:
+XWAY_MMD_LED3H	intel-xway.c	143;"	d	file:
+XWAY_MMD_LED3L	intel-xway.c	144;"	d	file:
+XWAY_MMD_LEDCH	intel-xway.c	42;"	d	file:
+XWAY_MMD_LEDCH_CBLINK_ABIST	intel-xway.c	70;"	d	file:
+XWAY_MMD_LEDCH_CBLINK_ANEG	intel-xway.c	69;"	d	file:
+XWAY_MMD_LEDCH_CBLINK_CDIAG	intel-xway.c	71;"	d	file:
+XWAY_MMD_LEDCH_CBLINK_EEE	intel-xway.c	68;"	d	file:
+XWAY_MMD_LEDCH_CBLINK_LINK	intel-xway.c	66;"	d	file:
+XWAY_MMD_LEDCH_CBLINK_NONE	intel-xway.c	65;"	d	file:
+XWAY_MMD_LEDCH_CBLINK_PDOWN	intel-xway.c	67;"	d	file:
+XWAY_MMD_LEDCH_CBLINK_TEST	intel-xway.c	72;"	d	file:
+XWAY_MMD_LEDCH_FBF_F02HZ	intel-xway.c	58;"	d	file:
+XWAY_MMD_LEDCH_FBF_F04HZ	intel-xway.c	59;"	d	file:
+XWAY_MMD_LEDCH_FBF_F08HZ	intel-xway.c	60;"	d	file:
+XWAY_MMD_LEDCH_FBF_F16HZ	intel-xway.c	61;"	d	file:
+XWAY_MMD_LEDCH_NACS_ABIST	intel-xway.c	49;"	d	file:
+XWAY_MMD_LEDCH_NACS_ANEG	intel-xway.c	48;"	d	file:
+XWAY_MMD_LEDCH_NACS_CDIAG	intel-xway.c	50;"	d	file:
+XWAY_MMD_LEDCH_NACS_EEE	intel-xway.c	47;"	d	file:
+XWAY_MMD_LEDCH_NACS_LINK	intel-xway.c	45;"	d	file:
+XWAY_MMD_LEDCH_NACS_NONE	intel-xway.c	44;"	d	file:
+XWAY_MMD_LEDCH_NACS_PDOWN	intel-xway.c	46;"	d	file:
+XWAY_MMD_LEDCH_NACS_TEST	intel-xway.c	51;"	d	file:
+XWAY_MMD_LEDCH_SBF_F02HZ	intel-xway.c	53;"	d	file:
+XWAY_MMD_LEDCH_SBF_F04HZ	intel-xway.c	54;"	d	file:
+XWAY_MMD_LEDCH_SBF_F08HZ	intel-xway.c	55;"	d	file:
+XWAY_MMD_LEDCH_SBF_F16HZ	intel-xway.c	56;"	d	file:
+XWAY_MMD_LEDCH_SCAN_ABIST	intel-xway.c	79;"	d	file:
+XWAY_MMD_LEDCH_SCAN_ANEG	intel-xway.c	78;"	d	file:
+XWAY_MMD_LEDCH_SCAN_CDIAG	intel-xway.c	80;"	d	file:
+XWAY_MMD_LEDCH_SCAN_EEE	intel-xway.c	77;"	d	file:
+XWAY_MMD_LEDCH_SCAN_LINK	intel-xway.c	75;"	d	file:
+XWAY_MMD_LEDCH_SCAN_NONE	intel-xway.c	74;"	d	file:
+XWAY_MMD_LEDCH_SCAN_PDOWN	intel-xway.c	76;"	d	file:
+XWAY_MMD_LEDCH_SCAN_TEST	intel-xway.c	81;"	d	file:
+XWAY_MMD_LEDCL	intel-xway.c	63;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_ABIST	intel-xway.c	97;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_ANEG	intel-xway.c	96;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_CDIAG	intel-xway.c	98;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_EEE	intel-xway.c	95;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_LINK10	intel-xway.c	87;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_LINK100	intel-xway.c	88;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_LINK1000	intel-xway.c	90;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_LINK100X	intel-xway.c	92;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_LINK10X	intel-xway.c	89;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_LINK10XX	intel-xway.c	93;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_LINK10_0	intel-xway.c	91;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_MASK	intel-xway.c	85;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_NONE	intel-xway.c	86;"	d	file:
+XWAY_MMD_LEDxH_BLINKF_PDOWN	intel-xway.c	94;"	d	file:
+XWAY_MMD_LEDxH_CON_ABIST	intel-xway.c	112;"	d	file:
+XWAY_MMD_LEDxH_CON_ANEG	intel-xway.c	111;"	d	file:
+XWAY_MMD_LEDxH_CON_CDIAG	intel-xway.c	113;"	d	file:
+XWAY_MMD_LEDxH_CON_COPPER	intel-xway.c	114;"	d	file:
+XWAY_MMD_LEDxH_CON_EEE	intel-xway.c	110;"	d	file:
+XWAY_MMD_LEDxH_CON_FIBER	intel-xway.c	115;"	d	file:
+XWAY_MMD_LEDxH_CON_LINK10	intel-xway.c	102;"	d	file:
+XWAY_MMD_LEDxH_CON_LINK100	intel-xway.c	103;"	d	file:
+XWAY_MMD_LEDxH_CON_LINK1000	intel-xway.c	105;"	d	file:
+XWAY_MMD_LEDxH_CON_LINK100X	intel-xway.c	107;"	d	file:
+XWAY_MMD_LEDxH_CON_LINK10X	intel-xway.c	104;"	d	file:
+XWAY_MMD_LEDxH_CON_LINK10XX	intel-xway.c	108;"	d	file:
+XWAY_MMD_LEDxH_CON_LINK10_0	intel-xway.c	106;"	d	file:
+XWAY_MMD_LEDxH_CON_MASK	intel-xway.c	100;"	d	file:
+XWAY_MMD_LEDxH_CON_NONE	intel-xway.c	101;"	d	file:
+XWAY_MMD_LEDxH_CON_PDOWN	intel-xway.c	109;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_ABIST	intel-xway.c	137;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_ANEG	intel-xway.c	136;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_CDIAG	intel-xway.c	138;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_EEE	intel-xway.c	135;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_LINK10	intel-xway.c	127;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_LINK100	intel-xway.c	128;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_LINK1000	intel-xway.c	130;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_LINK100X	intel-xway.c	132;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_LINK10X	intel-xway.c	129;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_LINK10XX	intel-xway.c	133;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_LINK10_0	intel-xway.c	131;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_MASK	intel-xway.c	125;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_NONE	intel-xway.c	126;"	d	file:
+XWAY_MMD_LEDxL_BLINKS_PDOWN	intel-xway.c	134;"	d	file:
+XWAY_MMD_LEDxL_PULSE_COL	intel-xway.c	123;"	d	file:
+XWAY_MMD_LEDxL_PULSE_MASK	intel-xway.c	119;"	d	file:
+XWAY_MMD_LEDxL_PULSE_NONE	intel-xway.c	120;"	d	file:
+XWAY_MMD_LEDxL_PULSE_RXACT	intel-xway.c	122;"	d	file:
+XWAY_MMD_LEDxL_PULSE_TXACT	intel-xway.c	121;"	d	file:
+_LINUX_BCM_PHY_LIB_H	bcm-phy-lib.h	15;"	d
+_UPD	fixed_phy.c	131;"	d	file:
+_UPD	fixed_phy.c	138;"	d	file:
+__MDIO_XGENE_H__	mdio-xgene.h	21;"	d
+__mdiobus_register	mdio_bus.c	/^EXPORT_SYMBOL(__mdiobus_register);$/;"	v
+__mdiobus_register	mdio_bus.c	/^int __mdiobus_register(struct mii_bus *bus, struct module *owner)$/;"	f
+__set_phy_supported	phy_device.c	/^static int __set_phy_supported(struct phy_device *phydev, u32 max_speed)$/;"	f	file:
+_devm_mdiobus_free	mdio_bus.c	/^static void _devm_mdiobus_free(struct device *dev, void *res)$/;"	f	file:
+acpi_register_phy	mdio-xgene.c	/^static acpi_status acpi_register_phy(acpi_handle handle, u32 lvl,$/;"	f	file:
+addr	fixed_phy.c	/^	int addr;$/;"	m	struct:fixed_phy	file:
+addr	xilinx_gmii2rgmii.c	/^	int addr;$/;"	m	struct:gmii2rgmii	file:
+addr_shift	spi_ks8995.c	/^	int addr_shift;$/;"	m	struct:ks8995_chip_params	file:
+addr_width	spi_ks8995.c	/^	int addr_width;$/;"	m	struct:ks8995_chip_params	file:
+advertise	at803x.c	/^	u16 advertise;$/;"	m	struct:at803x_context	file:
+alloc_mdio_bitbang	mdio-bitbang.c	/^EXPORT_SYMBOL(alloc_mdio_bitbang);$/;"	v
+alloc_mdio_bitbang	mdio-bitbang.c	/^struct mii_bus *alloc_mdio_bitbang(struct mdiobb_ctrl *ctrl)$/;"	f
+am79c_ack_interrupt	amd.c	/^static int am79c_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+am79c_config_init	amd.c	/^static int am79c_config_init(struct phy_device *phydev)$/;"	f	file:
+am79c_config_intr	amd.c	/^static int am79c_config_intr(struct phy_device *phydev)$/;"	f	file:
+am79c_driver	amd.c	/^module_phy_driver(am79c_driver);$/;"	v
+am79c_driver	amd.c	/^static struct phy_driver am79c_driver[] = { {$/;"	v	typeref:struct:phy_driver	file:
+amd_tbl	amd.c	/^static struct mdio_device_id __maybe_unused amd_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+aquantia_ack_interrupt	aquantia.c	/^static int aquantia_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+aquantia_aneg_done	aquantia.c	/^static int aquantia_aneg_done(struct phy_device *phydev)$/;"	f	file:
+aquantia_config_aneg	aquantia.c	/^static int aquantia_config_aneg(struct phy_device *phydev)$/;"	f	file:
+aquantia_config_intr	aquantia.c	/^static int aquantia_config_intr(struct phy_device *phydev)$/;"	f	file:
+aquantia_driver	aquantia.c	/^module_phy_driver(aquantia_driver);$/;"	v
+aquantia_driver	aquantia.c	/^static struct phy_driver aquantia_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+aquantia_read_status	aquantia.c	/^static int aquantia_read_status(struct phy_device *phydev)$/;"	f	file:
+aquantia_tbl	aquantia.c	/^static struct mdio_device_id __maybe_unused aquantia_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+at803x_ack_interrupt	at803x.c	/^static int at803x_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+at803x_aneg_done	at803x.c	/^static int at803x_aneg_done(struct phy_device *phydev)$/;"	f	file:
+at803x_config_init	at803x.c	/^static int at803x_config_init(struct phy_device *phydev)$/;"	f	file:
+at803x_config_intr	at803x.c	/^static int at803x_config_intr(struct phy_device *phydev)$/;"	f	file:
+at803x_context	at803x.c	/^struct at803x_context {$/;"	s	file:
+at803x_context_restore	at803x.c	/^static void at803x_context_restore(struct phy_device *phydev,$/;"	f	file:
+at803x_context_save	at803x.c	/^static void at803x_context_save(struct phy_device *phydev,$/;"	f	file:
+at803x_debug_reg_mask	at803x.c	/^static int at803x_debug_reg_mask(struct phy_device *phydev, u16 reg,$/;"	f	file:
+at803x_debug_reg_read	at803x.c	/^static int at803x_debug_reg_read(struct phy_device *phydev, u16 reg)$/;"	f	file:
+at803x_driver	at803x.c	/^module_phy_driver(at803x_driver);$/;"	v
+at803x_driver	at803x.c	/^static struct phy_driver at803x_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+at803x_enable_rx_delay	at803x.c	/^static inline int at803x_enable_rx_delay(struct phy_device *phydev)$/;"	f	file:
+at803x_enable_tx_delay	at803x.c	/^static inline int at803x_enable_tx_delay(struct phy_device *phydev)$/;"	f	file:
+at803x_get_wol	at803x.c	/^static void at803x_get_wol(struct phy_device *phydev,$/;"	f	file:
+at803x_link_change_notify	at803x.c	/^static void at803x_link_change_notify(struct phy_device *phydev)$/;"	f	file:
+at803x_priv	at803x.c	/^struct at803x_priv {$/;"	s	file:
+at803x_probe	at803x.c	/^static int at803x_probe(struct phy_device *phydev)$/;"	f	file:
+at803x_resume	at803x.c	/^static int at803x_resume(struct phy_device *phydev)$/;"	f	file:
+at803x_set_wol	at803x.c	/^static int at803x_set_wol(struct phy_device *phydev,$/;"	f	file:
+at803x_suspend	at803x.c	/^static int at803x_suspend(struct phy_device *phydev)$/;"	f	file:
+atheros_tbl	at803x.c	/^static struct mdio_device_id __maybe_unused atheros_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+bar0	mdio-thunder.c	/^	void __iomem *bar0;$/;"	m	struct:thunder_mdiobus_nexus	file:
+base	mdio-bcm-iproc.c	/^	void __iomem *base;$/;"	m	struct:iproc_mdio_priv	file:
+base	mdio-bcm-unimac.c	/^	void __iomem		*base;$/;"	m	struct:unimac_mdio_priv	file:
+base	mdio-moxart.c	/^	void __iomem		*base;$/;"	m	struct:moxart_mdio_data	file:
+base	mdio-mux-bcm-iproc.c	/^	void __iomem *base;$/;"	m	struct:iproc_mdiomux_desc	file:
+bcm50610_a0_workaround	broadcom.c	/^static int bcm50610_a0_workaround(struct phy_device *phydev)$/;"	f	file:
+bcm5481_config_aneg	broadcom.c	/^static int bcm5481_config_aneg(struct phy_device *phydev)$/;"	f	file:
+bcm5482_config_init	broadcom.c	/^static int bcm5482_config_init(struct phy_device *phydev)$/;"	f	file:
+bcm5482_read_status	broadcom.c	/^static int bcm5482_read_status(struct phy_device *phydev)$/;"	f	file:
+bcm54xx_adjust_rxrefclk	broadcom.c	/^static void bcm54xx_adjust_rxrefclk(struct phy_device *phydev)$/;"	f	file:
+bcm54xx_auxctl_write	broadcom.c	/^static int bcm54xx_auxctl_write(struct phy_device *phydev, u16 regnum, u16 val)$/;"	f	file:
+bcm54xx_config_init	broadcom.c	/^static int bcm54xx_config_init(struct phy_device *phydev)$/;"	f	file:
+bcm54xx_phydsp_config	broadcom.c	/^static int bcm54xx_phydsp_config(struct phy_device *phydev)$/;"	f	file:
+bcm63xx_config_init	bcm63xx.c	/^static int bcm63xx_config_init(struct phy_device *phydev)$/;"	f	file:
+bcm63xx_driver	bcm63xx.c	/^module_phy_driver(bcm63xx_driver);$/;"	v
+bcm63xx_driver	bcm63xx.c	/^static struct phy_driver bcm63xx_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+bcm63xx_tbl	bcm63xx.c	/^static struct mdio_device_id __maybe_unused bcm63xx_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+bcm7xxx_28nm_b0_afe_config_init	bcm7xxx.c	/^static int bcm7xxx_28nm_b0_afe_config_init(struct phy_device *phydev)$/;"	f	file:
+bcm7xxx_28nm_config_init	bcm7xxx.c	/^static int bcm7xxx_28nm_config_init(struct phy_device *phydev)$/;"	f	file:
+bcm7xxx_28nm_d0_afe_config_init	bcm7xxx.c	/^static int bcm7xxx_28nm_d0_afe_config_init(struct phy_device *phydev)$/;"	f	file:
+bcm7xxx_28nm_e0_plus_afe_config_init	bcm7xxx.c	/^static int bcm7xxx_28nm_e0_plus_afe_config_init(struct phy_device *phydev)$/;"	f	file:
+bcm7xxx_28nm_resume	bcm7xxx.c	/^static int bcm7xxx_28nm_resume(struct phy_device *phydev)$/;"	f	file:
+bcm7xxx_config_init	bcm7xxx.c	/^static int bcm7xxx_config_init(struct phy_device *phydev)$/;"	f	file:
+bcm7xxx_driver	bcm7xxx.c	/^module_phy_driver(bcm7xxx_driver);$/;"	v
+bcm7xxx_driver	bcm7xxx.c	/^static struct phy_driver bcm7xxx_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+bcm7xxx_suspend	bcm7xxx.c	/^static int bcm7xxx_suspend(struct phy_device *phydev)$/;"	f	file:
+bcm7xxx_tbl	bcm7xxx.c	/^static struct mdio_device_id __maybe_unused bcm7xxx_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+bcm8706_match_phy_device	bcm87xx.c	/^static int bcm8706_match_phy_device(struct phy_device *phydev)$/;"	f	file:
+bcm8727_match_phy_device	bcm87xx.c	/^static int bcm8727_match_phy_device(struct phy_device *phydev)$/;"	f	file:
+bcm87xx_ack_interrupt	bcm87xx.c	/^static int bcm87xx_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+bcm87xx_config_aneg	bcm87xx.c	/^static int bcm87xx_config_aneg(struct phy_device *phydev)$/;"	f	file:
+bcm87xx_config_init	bcm87xx.c	/^static int bcm87xx_config_init(struct phy_device *phydev)$/;"	f	file:
+bcm87xx_config_intr	bcm87xx.c	/^static int bcm87xx_config_intr(struct phy_device *phydev)$/;"	f	file:
+bcm87xx_did_interrupt	bcm87xx.c	/^static int bcm87xx_did_interrupt(struct phy_device *phydev)$/;"	f	file:
+bcm87xx_driver	bcm87xx.c	/^module_phy_driver(bcm87xx_driver);$/;"	v
+bcm87xx_driver	bcm87xx.c	/^static struct phy_driver bcm87xx_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+bcm87xx_of_reg_init	bcm87xx.c	/^static int bcm87xx_of_reg_init(struct phy_device *phydev)$/;"	f	file:
+bcm87xx_read_status	bcm87xx.c	/^static int bcm87xx_read_status(struct phy_device *phydev)$/;"	f	file:
+bcm_cygnus_afe_config	bcm-cygnus.c	/^static int bcm_cygnus_afe_config(struct phy_device *phydev)$/;"	f	file:
+bcm_cygnus_config_init	bcm-cygnus.c	/^static int bcm_cygnus_config_init(struct phy_device *phydev)$/;"	f	file:
+bcm_cygnus_phy_driver	bcm-cygnus.c	/^module_phy_driver(bcm_cygnus_phy_driver);$/;"	v
+bcm_cygnus_phy_driver	bcm-cygnus.c	/^static struct phy_driver bcm_cygnus_phy_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+bcm_cygnus_phy_tbl	bcm-cygnus.c	/^static struct mdio_device_id __maybe_unused bcm_cygnus_phy_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+bcm_cygnus_resume	bcm-cygnus.c	/^static int bcm_cygnus_resume(struct phy_device *phydev)$/;"	f	file:
+bcm_phy_ack_intr	bcm-phy-lib.c	/^EXPORT_SYMBOL_GPL(bcm_phy_ack_intr);$/;"	v
+bcm_phy_ack_intr	bcm-phy-lib.c	/^int bcm_phy_ack_intr(struct phy_device *phydev)$/;"	f
+bcm_phy_config_intr	bcm-phy-lib.c	/^EXPORT_SYMBOL_GPL(bcm_phy_config_intr);$/;"	v
+bcm_phy_config_intr	bcm-phy-lib.c	/^int bcm_phy_config_intr(struct phy_device *phydev)$/;"	f
+bcm_phy_enable_apd	bcm-phy-lib.c	/^EXPORT_SYMBOL_GPL(bcm_phy_enable_apd);$/;"	v
+bcm_phy_enable_apd	bcm-phy-lib.c	/^int bcm_phy_enable_apd(struct phy_device *phydev, bool dll_pwr_down)$/;"	f
+bcm_phy_enable_eee	bcm-phy-lib.c	/^EXPORT_SYMBOL_GPL(bcm_phy_enable_eee);$/;"	v
+bcm_phy_enable_eee	bcm-phy-lib.c	/^int bcm_phy_enable_eee(struct phy_device *phydev)$/;"	f
+bcm_phy_read_exp	bcm-phy-lib.c	/^EXPORT_SYMBOL_GPL(bcm_phy_read_exp);$/;"	v
+bcm_phy_read_exp	bcm-phy-lib.c	/^int bcm_phy_read_exp(struct phy_device *phydev, u16 reg)$/;"	f
+bcm_phy_read_misc	bcm-phy-lib.c	/^EXPORT_SYMBOL_GPL(bcm_phy_read_misc);$/;"	v
+bcm_phy_read_misc	bcm-phy-lib.c	/^int bcm_phy_read_misc(struct phy_device *phydev,$/;"	f
+bcm_phy_read_shadow	bcm-phy-lib.c	/^EXPORT_SYMBOL_GPL(bcm_phy_read_shadow);$/;"	v
+bcm_phy_read_shadow	bcm-phy-lib.c	/^int bcm_phy_read_shadow(struct phy_device *phydev, u16 shadow)$/;"	f
+bcm_phy_write_exp	bcm-phy-lib.c	/^EXPORT_SYMBOL_GPL(bcm_phy_write_exp);$/;"	v
+bcm_phy_write_exp	bcm-phy-lib.c	/^int bcm_phy_write_exp(struct phy_device *phydev, u16 reg, u16 val)$/;"	f
+bcm_phy_write_misc	bcm-phy-lib.c	/^EXPORT_SYMBOL_GPL(bcm_phy_write_misc);$/;"	v
+bcm_phy_write_misc	bcm-phy-lib.c	/^int bcm_phy_write_misc(struct phy_device *phydev,$/;"	f
+bcm_phy_write_shadow	bcm-phy-lib.c	/^EXPORT_SYMBOL_GPL(bcm_phy_write_shadow);$/;"	v
+bcm_phy_write_shadow	bcm-phy-lib.c	/^int bcm_phy_write_shadow(struct phy_device *phydev, u16 shadow,$/;"	f
+bits	marvell.c	/^	u8 bits;$/;"	m	struct:marvell_hw_stat	file:
+bits	micrel.c	/^	u8 bits;$/;"	m	struct:kszphy_hw_stat	file:
+bmcr	at803x.c	/^	u16 bmcr;$/;"	m	struct:at803x_context	file:
+bmcr	swphy.c	/^	u16 bmcr;$/;"	m	struct:swmii_regs	file:
+bmsr	swphy.c	/^	u16 bmsr;$/;"	m	struct:swmii_regs	file:
+brcm_fet_ack_interrupt	broadcom.c	/^static int brcm_fet_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+brcm_fet_config_init	broadcom.c	/^static int brcm_fet_config_init(struct phy_device *phydev)$/;"	f	file:
+brcm_fet_config_intr	broadcom.c	/^static int brcm_fet_config_intr(struct phy_device *phydev)$/;"	f	file:
+brcm_phy_setbits	broadcom.c	/^static int brcm_phy_setbits(struct phy_device *phydev, int reg, int set)$/;"	f	file:
+broadcast_write	dp83640.c	/^static inline int broadcast_write(struct phy_device *phydev, u32 regnum,$/;"	f	file:
+broadcom_drivers	broadcom.c	/^module_phy_driver(broadcom_drivers);$/;"	v
+broadcom_drivers	broadcom.c	/^static struct phy_driver broadcom_drivers[] = {$/;"	v	typeref:struct:phy_driver	file:
+broadcom_tbl	broadcom.c	/^static struct mdio_device_id __maybe_unused broadcom_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+bus	dp83640.c	/^	struct mii_bus *bus;$/;"	m	struct:dp83640_clock	typeref:struct:dp83640_clock::mii_bus	file:
+bus_number	mdio-mux.c	/^	int bus_number;$/;"	m	struct:mdio_mux_child_bus	file:
+buses	mdio-thunder.c	/^	struct cavium_mdiobus *buses[4];$/;"	m	struct:thunder_mdiobus_nexus	typeref:struct:thunder_mdiobus_nexus::cavium_mdiobus	file:
+caps	dp83640.c	/^	struct ptp_clock_info caps;$/;"	m	struct:dp83640_clock	typeref:struct:dp83640_clock::ptp_clock_info	file:
+cavium_mdiobus	mdio-cavium.h	/^struct cavium_mdiobus {$/;"	s
+cavium_mdiobus_c45_addr	mdio-cavium.c	/^static int cavium_mdiobus_c45_addr(struct cavium_mdiobus *p,$/;"	f	file:
+cavium_mdiobus_mode	mdio-cavium.h	/^enum cavium_mdiobus_mode {$/;"	g
+cavium_mdiobus_read	mdio-cavium.c	/^EXPORT_SYMBOL(cavium_mdiobus_read);$/;"	v
+cavium_mdiobus_read	mdio-cavium.c	/^int cavium_mdiobus_read(struct mii_bus *bus, int phy_id, int regnum)$/;"	f
+cavium_mdiobus_set_mode	mdio-cavium.c	/^static void cavium_mdiobus_set_mode(struct cavium_mdiobus *p,$/;"	f	file:
+cavium_mdiobus_write	mdio-cavium.c	/^EXPORT_SYMBOL(cavium_mdiobus_write);$/;"	v
+cavium_mdiobus_write	mdio-cavium.c	/^int cavium_mdiobus_write(struct mii_bus *bus, int phy_id, int regnum, u16 val)$/;"	f
+cfg0	dp83640.c	/^	int cfg0;$/;"	m	struct:dp83640_private	file:
+children	mdio-mux.c	/^	struct mdio_mux_child_bus *children;$/;"	m	struct:mdio_mux_parent_bus	typeref:struct:mdio_mux_parent_bus::mdio_mux_child_bus	file:
+chip	spi_ks8995.c	/^	const struct ks8995_chip_params	*chip;$/;"	m	struct:ks8995_switch	typeref:struct:ks8995_switch::ks8995_chip_params	file:
+chip_id	microchip.c	/^	int	chip_id;$/;"	m	struct:lan88xx_priv	file:
+chip_id	spi_ks8995.c	/^	int chip_id;$/;"	m	struct:ks8995_chip_params	file:
+chip_rev	microchip.c	/^	int	chip_rev;$/;"	m	struct:lan88xx_priv	file:
+choose_this_phy	dp83640.c	/^static int choose_this_phy(struct dp83640_clock *clock,$/;"	f	file:
+chosen	dp83640.c	/^	struct dp83640_private *chosen;$/;"	m	struct:dp83640_clock	typeref:struct:dp83640_clock::dp83640_private	file:
+chosen_phy	dp83640.c	/^static int chosen_phy = -1;$/;"	v	file:
+cicada_tbl	cicada.c	/^static struct mdio_device_id __maybe_unused cicada_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+cis820x_ack_interrupt	cicada.c	/^static int cis820x_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+cis820x_config_init	cicada.c	/^static int cis820x_config_init(struct phy_device *phydev)$/;"	f	file:
+cis820x_config_intr	cicada.c	/^static int cis820x_config_intr(struct phy_device *phydev)$/;"	f	file:
+cis820x_driver	cicada.c	/^module_phy_driver(cis820x_driver);$/;"	v
+cis820x_driver	cicada.c	/^static struct phy_driver cis820x_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+clk	mdio-hisi-femac.c	/^	struct clk *clk;$/;"	m	struct:hisi_femac_mdio_data	typeref:struct:hisi_femac_mdio_data::clk	file:
+clk	mdio-xgene.h	/^	struct clk *clk;$/;"	m	struct:xgene_mdio_pdata	typeref:struct:xgene_mdio_pdata::clk
+clock	dp83640.c	/^	struct dp83640_clock *clock;$/;"	m	struct:dp83640_private	typeref:struct:dp83640_private::dp83640_clock	file:
+clock_lock	dp83640.c	/^	struct mutex clock_lock;$/;"	m	struct:dp83640_clock	typeref:struct:dp83640_clock::mutex	file:
+control1000	at803x.c	/^	u16 control1000;$/;"	m	struct:at803x_context	file:
+conv_phy_drv	xilinx_gmii2rgmii.c	/^	struct phy_driver conv_phy_drv;$/;"	m	struct:gmii2rgmii	typeref:struct:gmii2rgmii::phy_driver	file:
+create_spi_cmd	spi_ks8995.c	/^static inline __be16 create_spi_cmd(struct ks8995_switch *ks, int cmd,$/;"	f	file:
+ctrl	mdio-gpio.c	/^	struct mdiobb_ctrl ctrl;$/;"	m	struct:mdio_gpio_info	typeref:struct:mdio_gpio_info::mdiobb_ctrl	file:
+current_child	mdio-mux.c	/^	int current_child;$/;"	m	struct:mdio_mux_parent_bus	file:
+cvmx_smix_clk	mdio-cavium.h	/^union cvmx_smix_clk {$/;"	u
+cvmx_smix_clk_s	mdio-cavium.h	/^	struct cvmx_smix_clk_s {$/;"	s	union:cvmx_smix_clk
+cvmx_smix_cmd	mdio-cavium.h	/^union cvmx_smix_cmd {$/;"	u
+cvmx_smix_cmd_s	mdio-cavium.h	/^	struct cvmx_smix_cmd_s {$/;"	s	union:cvmx_smix_cmd
+cvmx_smix_en	mdio-cavium.h	/^union cvmx_smix_en {$/;"	u
+cvmx_smix_en_s	mdio-cavium.h	/^	struct cvmx_smix_en_s {$/;"	s	union:cvmx_smix_en
+cvmx_smix_rd_dat	mdio-cavium.h	/^union cvmx_smix_rd_dat {$/;"	u
+cvmx_smix_rd_dat_s	mdio-cavium.h	/^	struct cvmx_smix_rd_dat_s {$/;"	s	union:cvmx_smix_rd_dat
+cvmx_smix_wr_dat	mdio-cavium.h	/^union cvmx_smix_wr_dat {$/;"	u
+cvmx_smix_wr_dat_s	mdio-cavium.h	/^	struct cvmx_smix_wr_dat_s {$/;"	s	union:cvmx_smix_wr_dat
+davicom_tbl	davicom.c	/^static struct mdio_device_id __maybe_unused davicom_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+decode_evnt	dp83640.c	/^static int decode_evnt(struct dp83640_private *dp83640,$/;"	f	file:
+decode_rxts	dp83640.c	/^static void decode_rxts(struct dp83640_private *dp83640,$/;"	f	file:
+decode_status_frame	dp83640.c	/^static void decode_status_frame(struct dp83640_private *dp83640,$/;"	f	file:
+decode_txts	dp83640.c	/^static void decode_txts(struct dp83640_private *dp83640,$/;"	f	file:
+dev	mdio-mux-bcm-iproc.c	/^	struct device *dev;$/;"	m	struct:iproc_mdiomux_desc	typeref:struct:iproc_mdiomux_desc::device	file:
+dev	mdio-xgene.h	/^	struct device *dev;$/;"	m	struct:xgene_mdio_pdata	typeref:struct:xgene_mdio_pdata::device
+devm_mdiobus_alloc_size	mdio_bus.c	/^EXPORT_SYMBOL_GPL(devm_mdiobus_alloc_size);$/;"	v
+devm_mdiobus_alloc_size	mdio_bus.c	/^struct mii_bus *devm_mdiobus_alloc_size(struct device *dev, int sizeof_priv)$/;"	f
+devm_mdiobus_free	mdio_bus.c	/^EXPORT_SYMBOL_GPL(devm_mdiobus_free);$/;"	v
+devm_mdiobus_free	mdio_bus.c	/^void devm_mdiobus_free(struct device *dev, struct mii_bus *bus)$/;"	f
+devm_mdiobus_match	mdio_bus.c	/^static int devm_mdiobus_match(struct device *dev, void *res, void *data)$/;"	f	file:
+diag_csr_addr	mdio-xgene.h	/^	void __iomem *diag_csr_addr;$/;"	m	struct:xgene_mdio_pdata
+dm9161_ack_interrupt	davicom.c	/^static int dm9161_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+dm9161_config_aneg	davicom.c	/^static int dm9161_config_aneg(struct phy_device *phydev)$/;"	f	file:
+dm9161_config_init	davicom.c	/^static int dm9161_config_init(struct phy_device *phydev)$/;"	f	file:
+dm9161_config_intr	davicom.c	/^static int dm9161_config_intr(struct phy_device *phydev)$/;"	f	file:
+dm91xx_driver	davicom.c	/^module_phy_driver(dm91xx_driver);$/;"	v
+dm91xx_driver	davicom.c	/^static struct phy_driver dm91xx_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+dp83640_ack_interrupt	dp83640.c	/^static int dp83640_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+dp83640_clock	dp83640.c	/^struct dp83640_clock {$/;"	s	file:
+dp83640_clock_get	dp83640.c	/^static struct dp83640_clock *dp83640_clock_get(struct dp83640_clock *clock)$/;"	f	file:
+dp83640_clock_get_bus	dp83640.c	/^static struct dp83640_clock *dp83640_clock_get_bus(struct mii_bus *bus)$/;"	f	file:
+dp83640_clock_init	dp83640.c	/^static void dp83640_clock_init(struct dp83640_clock *clock, struct mii_bus *bus)$/;"	f	file:
+dp83640_clock_put	dp83640.c	/^static void dp83640_clock_put(struct dp83640_clock *clock)$/;"	f	file:
+dp83640_config_init	dp83640.c	/^static int dp83640_config_init(struct phy_device *phydev)$/;"	f	file:
+dp83640_config_intr	dp83640.c	/^static int dp83640_config_intr(struct phy_device *phydev)$/;"	f	file:
+dp83640_driver	dp83640.c	/^static struct phy_driver dp83640_driver = {$/;"	v	typeref:struct:phy_driver	file:
+dp83640_exit	dp83640.c	/^module_exit(dp83640_exit);$/;"	v
+dp83640_exit	dp83640.c	/^static void __exit dp83640_exit(void)$/;"	f	file:
+dp83640_free_clocks	dp83640.c	/^static void dp83640_free_clocks(void)$/;"	f	file:
+dp83640_gpio_defaults	dp83640.c	/^static void dp83640_gpio_defaults(struct ptp_pin_desc *pd)$/;"	f	file:
+dp83640_hwtstamp	dp83640.c	/^static int dp83640_hwtstamp(struct phy_device *phydev, struct ifreq *ifr)$/;"	f	file:
+dp83640_init	dp83640.c	/^module_init(dp83640_init);$/;"	v
+dp83640_init	dp83640.c	/^static int __init dp83640_init(void)$/;"	f	file:
+dp83640_private	dp83640.c	/^struct dp83640_private {$/;"	s	file:
+dp83640_probe	dp83640.c	/^static int dp83640_probe(struct phy_device *phydev)$/;"	f	file:
+dp83640_remove	dp83640.c	/^static void dp83640_remove(struct phy_device *phydev)$/;"	f	file:
+dp83640_rxtstamp	dp83640.c	/^static bool dp83640_rxtstamp(struct phy_device *phydev,$/;"	f	file:
+dp83640_skb_info	dp83640.c	/^struct dp83640_skb_info {$/;"	s	file:
+dp83640_tbl	dp83640.c	/^static struct mdio_device_id __maybe_unused dp83640_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+dp83640_ts_info	dp83640.c	/^static int dp83640_ts_info(struct phy_device *dev, struct ethtool_ts_info *info)$/;"	f	file:
+dp83640_txtstamp	dp83640.c	/^static void dp83640_txtstamp(struct phy_device *phydev,$/;"	f	file:
+dp83848_ack_interrupt	dp83848.c	/^static int dp83848_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+dp83848_config_intr	dp83848.c	/^static int dp83848_config_intr(struct phy_device *phydev)$/;"	f	file:
+dp83848_driver	dp83848.c	/^module_phy_driver(dp83848_driver);$/;"	v
+dp83848_driver	dp83848.c	/^static struct phy_driver dp83848_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+dp83848_tbl	dp83848.c	/^static struct mdio_device_id __maybe_unused dp83848_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+dp83865_driver	national.c	/^module_phy_driver(dp83865_driver);$/;"	v
+dp83865_driver	national.c	/^static struct phy_driver dp83865_driver[] = { {$/;"	v	typeref:struct:phy_driver	file:
+dp83867_ack_interrupt	dp83867.c	/^static int dp83867_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+dp83867_config_init	dp83867.c	/^static int dp83867_config_init(struct phy_device *phydev)$/;"	f	file:
+dp83867_config_intr	dp83867.c	/^static int dp83867_config_intr(struct phy_device *phydev)$/;"	f	file:
+dp83867_driver	dp83867.c	/^module_phy_driver(dp83867_driver);$/;"	v
+dp83867_driver	dp83867.c	/^static struct phy_driver dp83867_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+dp83867_of_init	dp83867.c	/^static int dp83867_of_init(struct phy_device *phydev)$/;"	f	file:
+dp83867_phy_reset	dp83867.c	/^static int dp83867_phy_reset(struct phy_device *phydev)$/;"	f	file:
+dp83867_private	dp83867.c	/^struct dp83867_private {$/;"	s	file:
+dp83867_tbl	dp83867.c	/^static struct mdio_device_id __maybe_unused dp83867_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+duplex	phy.c	/^	int duplex;$/;"	m	struct:phy_setting	file:
+duplex	swphy.c	/^static const struct swmii_regs duplex[] = {$/;"	v	typeref:struct:swmii_regs	file:
+edata	dp83640.c	/^	struct phy_txts edata;$/;"	m	struct:dp83640_private	typeref:struct:dp83640_private::phy_txts	file:
+edge_rate_magic_get	mscc.c	/^static u8 edge_rate_magic_get(u16 vddmac,$/;"	f	file:
+edge_rate_table	mscc.c	/^struct edge_rate_table {$/;"	s	file:
+edge_slowdown	mscc.c	/^	u8 edge_slowdown;$/;"	m	struct:vsc8531_private	file:
+edge_table	mscc.c	/^struct edge_rate_table edge_table[MSCC_VDDMAC_MAX] = {$/;"	v	typeref:struct:edge_rate_table
+enable_broadcast	dp83640.c	/^static void enable_broadcast(struct phy_device *phydev, int init_page, int on)$/;"	f	file:
+enable_status_frames	dp83640.c	/^static void enable_status_frames(struct phy_device *phydev, bool on)$/;"	f	file:
+energy_enable	smsc.c	/^	bool energy_enable;$/;"	m	struct:smsc_phy_priv	file:
+et1011c_config_aneg	et1011c.c	/^static int et1011c_config_aneg(struct phy_device *phydev)$/;"	f	file:
+et1011c_driver	et1011c.c	/^module_phy_driver(et1011c_driver);$/;"	v
+et1011c_driver	et1011c.c	/^static struct phy_driver et1011c_driver[] = { {$/;"	v	typeref:struct:phy_driver	file:
+et1011c_read_status	et1011c.c	/^static int et1011c_read_status(struct phy_device *phydev)$/;"	f	file:
+et1011c_tbl	et1011c.c	/^static struct mdio_device_id __maybe_unused et1011c_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+ethtool_adv_to_fiber_adv_t	marvell.c	/^static inline u32 ethtool_adv_to_fiber_adv_t(u32 ethadv)$/;"	f	file:
+expired	dp83640.c	/^static int expired(struct rxts *rxts)$/;"	f	file:
+ext_read	dp83640.c	/^static int ext_read(struct phy_device *phydev, int page, u32 regnum)$/;"	f	file:
+ext_write	dp83640.c	/^static void ext_write(int broadcast, struct phy_device *phydev,$/;"	f	file:
+extreg_lock	dp83640.c	/^	struct mutex extreg_lock;$/;"	m	struct:dp83640_clock	typeref:struct:dp83640_clock::mutex	file:
+exts_chan_to_edata	dp83640.c	/^static inline u16 exts_chan_to_edata(int ch)$/;"	f	file:
+family_id	spi_ks8995.c	/^	int family_id;$/;"	m	struct:ks8995_chip_params	file:
+fiber_lpa_to_ethtool_lpa_t	marvell.c	/^static u32 fiber_lpa_to_ethtool_lpa_t(u32 lpa)$/;"	f	file:
+fifo_depth	dp83867.c	/^	int fifo_depth;$/;"	m	struct:dp83867_private	file:
+fixed_mdio_bus	fixed_phy.c	/^struct fixed_mdio_bus {$/;"	s	file:
+fixed_mdio_bus_exit	fixed_phy.c	/^module_exit(fixed_mdio_bus_exit);$/;"	v
+fixed_mdio_bus_exit	fixed_phy.c	/^static void __exit fixed_mdio_bus_exit(void)$/;"	f	file:
+fixed_mdio_bus_init	fixed_phy.c	/^module_init(fixed_mdio_bus_init);$/;"	v
+fixed_mdio_bus_init	fixed_phy.c	/^static int __init fixed_mdio_bus_init(void)$/;"	f	file:
+fixed_mdio_read	fixed_phy.c	/^static int fixed_mdio_read(struct mii_bus *bus, int phy_addr, int reg_num)$/;"	f	file:
+fixed_mdio_write	fixed_phy.c	/^static int fixed_mdio_write(struct mii_bus *bus, int phy_addr, int reg_num,$/;"	f	file:
+fixed_phy	fixed_phy.c	/^struct fixed_phy {$/;"	s	file:
+fixed_phy_add	fixed_phy.c	/^EXPORT_SYMBOL_GPL(fixed_phy_add);$/;"	v
+fixed_phy_add	fixed_phy.c	/^int fixed_phy_add(unsigned int irq, int phy_addr,$/;"	f
+fixed_phy_del	fixed_phy.c	/^static void fixed_phy_del(int phy_addr)$/;"	f	file:
+fixed_phy_register	fixed_phy.c	/^EXPORT_SYMBOL_GPL(fixed_phy_register);$/;"	v
+fixed_phy_register	fixed_phy.c	/^struct phy_device *fixed_phy_register(unsigned int irq,$/;"	f
+fixed_phy_set_link_update	fixed_phy.c	/^EXPORT_SYMBOL_GPL(fixed_phy_set_link_update);$/;"	v
+fixed_phy_set_link_update	fixed_phy.c	/^int fixed_phy_set_link_update(struct phy_device *phydev,$/;"	f
+fixed_phy_unregister	fixed_phy.c	/^EXPORT_SYMBOL_GPL(fixed_phy_unregister);$/;"	v
+fixed_phy_unregister	fixed_phy.c	/^void fixed_phy_unregister(struct phy_device *phy)$/;"	f
+fixed_phy_update	fixed_phy.c	/^static void fixed_phy_update(struct fixed_phy *fp)$/;"	f	file:
+fixed_phy_update_state	fixed_phy.c	/^EXPORT_SYMBOL(fixed_phy_update_state);$/;"	v
+fixed_phy_update_state	fixed_phy.c	/^int fixed_phy_update_state(struct phy_device *phydev,$/;"	f
+free_mdio_bitbang	mdio-bitbang.c	/^EXPORT_SYMBOL(free_mdio_bitbang);$/;"	v
+free_mdio_bitbang	mdio-bitbang.c	/^void free_mdio_bitbang(struct mii_bus *bus)$/;"	f
+gen10g_config_aneg	phy_device.c	/^static int gen10g_config_aneg(struct phy_device *phydev)$/;"	f	file:
+gen10g_config_init	phy_device.c	/^static int gen10g_config_init(struct phy_device *phydev)$/;"	f	file:
+gen10g_read_status	phy_device.c	/^static int gen10g_read_status(struct phy_device *phydev)$/;"	f	file:
+gen10g_resume	phy_device.c	/^static int gen10g_resume(struct phy_device *phydev)$/;"	f	file:
+gen10g_soft_reset	phy_device.c	/^static int gen10g_soft_reset(struct phy_device *phydev)$/;"	f	file:
+gen10g_suspend	phy_device.c	/^static int gen10g_suspend(struct phy_device *phydev)$/;"	f	file:
+genphy_aneg_done	phy_device.c	/^EXPORT_SYMBOL(genphy_aneg_done);$/;"	v
+genphy_aneg_done	phy_device.c	/^int genphy_aneg_done(struct phy_device *phydev)$/;"	f
+genphy_config_advert	phy_device.c	/^static int genphy_config_advert(struct phy_device *phydev)$/;"	f	file:
+genphy_config_aneg	phy_device.c	/^EXPORT_SYMBOL(genphy_config_aneg);$/;"	v
+genphy_config_aneg	phy_device.c	/^int genphy_config_aneg(struct phy_device *phydev)$/;"	f
+genphy_config_init	phy_device.c	/^EXPORT_SYMBOL(genphy_config_init);$/;"	v
+genphy_config_init	phy_device.c	/^int genphy_config_init(struct phy_device *phydev)$/;"	f
+genphy_driver	phy_device.c	/^enum genphy_driver {$/;"	g	file:
+genphy_driver	phy_device.c	/^static struct phy_driver genphy_driver[GENPHY_DRV_MAX];$/;"	v	typeref:struct:phy_driver	file:
+genphy_driver	phy_device.c	/^static struct phy_driver genphy_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+genphy_read_status	phy_device.c	/^EXPORT_SYMBOL(genphy_read_status);$/;"	v
+genphy_read_status	phy_device.c	/^int genphy_read_status(struct phy_device *phydev)$/;"	f
+genphy_restart_aneg	phy_device.c	/^EXPORT_SYMBOL(genphy_restart_aneg);$/;"	v
+genphy_restart_aneg	phy_device.c	/^int genphy_restart_aneg(struct phy_device *phydev)$/;"	f
+genphy_resume	phy_device.c	/^EXPORT_SYMBOL(genphy_resume);$/;"	v
+genphy_resume	phy_device.c	/^int genphy_resume(struct phy_device *phydev)$/;"	f
+genphy_setup_forced	phy_device.c	/^EXPORT_SYMBOL(genphy_setup_forced);$/;"	v
+genphy_setup_forced	phy_device.c	/^int genphy_setup_forced(struct phy_device *phydev)$/;"	f
+genphy_soft_reset	phy_device.c	/^EXPORT_SYMBOL(genphy_soft_reset);$/;"	v
+genphy_soft_reset	phy_device.c	/^int genphy_soft_reset(struct phy_device *phydev)$/;"	f
+genphy_suspend	phy_device.c	/^EXPORT_SYMBOL(genphy_suspend);$/;"	v
+genphy_suspend	phy_device.c	/^int genphy_suspend(struct phy_device *phydev)$/;"	f
+genphy_update_link	phy_device.c	/^EXPORT_SYMBOL(genphy_update_link);$/;"	v
+genphy_update_link	phy_device.c	/^int genphy_update_link(struct phy_device *phydev)$/;"	f
+get_chip_id	spi_ks8995.c	/^static inline u8 get_chip_id(u8 val)$/;"	f	file:
+get_chip_rev	spi_ks8995.c	/^static inline u8 get_chip_rev(u8 val)$/;"	f	file:
+get_phy_c45_devs_in_pkg	phy_device.c	/^static int get_phy_c45_devs_in_pkg(struct mii_bus *bus, int addr, int dev_addr,$/;"	f	file:
+get_phy_c45_ids	phy_device.c	/^static int get_phy_c45_ids(struct mii_bus *bus, int addr, u32 *phy_id,$/;"	f	file:
+get_phy_device	phy_device.c	/^EXPORT_SYMBOL(get_phy_device);$/;"	v
+get_phy_device	phy_device.c	/^struct phy_device *get_phy_device(struct mii_bus *bus, int addr, bool is_c45)$/;"	f
+get_phy_id	phy_device.c	/^static int get_phy_id(struct mii_bus *bus, int addr, u32 *phy_id,$/;"	f	file:
+gmii2rgmii	xilinx_gmii2rgmii.c	/^struct gmii2rgmii {$/;"	s	file:
+gpio_tab	dp83640.c	/^static ushort gpio_tab[GPIO_TABLE_SIZE] = {$/;"	v	file:
+gpiod_reset	at803x.c	/^	struct gpio_desc *gpiod_reset;$/;"	m	struct:at803x_priv	typeref:struct:at803x_priv::gpio_desc	file:
+gpios	mdio-mux-gpio.c	/^	struct gpio_descs *gpios;$/;"	m	struct:mdio_mux_gpio_state	typeref:struct:mdio_mux_gpio_state::gpio_descs	file:
+has_broadcast_disable	micrel.c	/^	bool has_broadcast_disable;$/;"	m	struct:kszphy_type	file:
+has_nand_tree_disable	micrel.c	/^	bool has_nand_tree_disable;$/;"	m	struct:kszphy_type	file:
+has_rmii_ref_clk_sel	micrel.c	/^	bool has_rmii_ref_clk_sel;$/;"	m	struct:kszphy_type	file:
+hash	dp83640.c	/^	u16 hash;$/;"	m	struct:rxts	file:
+hdx_loopback	national.c	/^enum hdx_loopback {$/;"	g	file:
+hdx_loopback_off	national.c	/^	hdx_loopback_off = 1,$/;"	e	enum:hdx_loopback	file:
+hdx_loopback_on	national.c	/^	hdx_loopback_on = 0,$/;"	e	enum:hdx_loopback	file:
+hisi_femac_mdio_data	mdio-hisi-femac.c	/^struct hisi_femac_mdio_data {$/;"	s	file:
+hisi_femac_mdio_driver	mdio-hisi-femac.c	/^module_platform_driver(hisi_femac_mdio_driver);$/;"	v
+hisi_femac_mdio_driver	mdio-hisi-femac.c	/^static struct platform_driver hisi_femac_mdio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+hisi_femac_mdio_dt_ids	mdio-hisi-femac.c	/^static const struct of_device_id hisi_femac_mdio_dt_ids[] = {$/;"	v	typeref:struct:of_device_id	file:
+hisi_femac_mdio_probe	mdio-hisi-femac.c	/^static int hisi_femac_mdio_probe(struct platform_device *pdev)$/;"	f	file:
+hisi_femac_mdio_read	mdio-hisi-femac.c	/^static int hisi_femac_mdio_read(struct mii_bus *bus, int mii_id, int regnum)$/;"	f	file:
+hisi_femac_mdio_remove	mdio-hisi-femac.c	/^static int hisi_femac_mdio_remove(struct platform_device *pdev)$/;"	f	file:
+hisi_femac_mdio_wait_ready	mdio-hisi-femac.c	/^static int hisi_femac_mdio_wait_ready(struct hisi_femac_mdio_data *data)$/;"	f	file:
+hisi_femac_mdio_write	mdio-hisi-femac.c	/^static int hisi_femac_mdio_write(struct mii_bus *bus, int mii_id, int regnum,$/;"	f	file:
+hr_timer	tb_phy.c	/^static struct hrtimer hr_timer;$/;"	v	typeref:struct:hrtimer	file:
+hrtimer_act	tb_phy.c	/^int hrtimer_act = 0;$/;"	v
+hwts_rx_en	dp83640.c	/^	int hwts_rx_en;$/;"	m	struct:dp83640_private	file:
+hwts_tx_en	dp83640.c	/^	int hwts_tx_en;$/;"	m	struct:dp83640_private	file:
+icplus_driver	icplus.c	/^module_phy_driver(icplus_driver);$/;"	v
+icplus_driver	icplus.c	/^static struct phy_driver icplus_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+icplus_tbl	icplus.c	/^static struct mdio_device_id __maybe_unused icplus_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+int_enable	at803x.c	/^	u16 int_enable;$/;"	m	struct:at803x_context	file:
+interrupt_level_mask	micrel.c	/^	u16 interrupt_level_mask;$/;"	m	struct:kszphy_type	file:
+ip1001_config_init	icplus.c	/^static int ip1001_config_init(struct phy_device *phydev)$/;"	f	file:
+ip101a_g_ack_interrupt	icplus.c	/^static int ip101a_g_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+ip101a_g_config_init	icplus.c	/^static int ip101a_g_config_init(struct phy_device *phydev)$/;"	f	file:
+ip175c_config_aneg	icplus.c	/^static int ip175c_config_aneg(struct phy_device *phydev)$/;"	f	file:
+ip175c_config_init	icplus.c	/^static int ip175c_config_init(struct phy_device *phydev)$/;"	f	file:
+ip175c_read_status	icplus.c	/^static int ip175c_read_status(struct phy_device *phydev)$/;"	f	file:
+ip1xx_reset	icplus.c	/^static int ip1xx_reset(struct phy_device *phydev)$/;"	f	file:
+iproc_mdio_config_clk	mdio-bcm-iproc.c	/^static inline void iproc_mdio_config_clk(void __iomem *base)$/;"	f	file:
+iproc_mdio_driver	mdio-bcm-iproc.c	/^module_platform_driver(iproc_mdio_driver);$/;"	v
+iproc_mdio_driver	mdio-bcm-iproc.c	/^static struct platform_driver iproc_mdio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+iproc_mdio_of_match	mdio-bcm-iproc.c	/^static const struct of_device_id iproc_mdio_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+iproc_mdio_priv	mdio-bcm-iproc.c	/^struct iproc_mdio_priv {$/;"	s	file:
+iproc_mdio_probe	mdio-bcm-iproc.c	/^static int iproc_mdio_probe(struct platform_device *pdev)$/;"	f	file:
+iproc_mdio_read	mdio-bcm-iproc.c	/^static int iproc_mdio_read(struct mii_bus *bus, int phy_id, int reg)$/;"	f	file:
+iproc_mdio_remove	mdio-bcm-iproc.c	/^static int iproc_mdio_remove(struct platform_device *pdev)$/;"	f	file:
+iproc_mdio_wait_for_idle	mdio-bcm-iproc.c	/^static inline int iproc_mdio_wait_for_idle(void __iomem *base)$/;"	f	file:
+iproc_mdio_wait_for_idle	mdio-mux-bcm-iproc.c	/^static int iproc_mdio_wait_for_idle(void __iomem *base, bool result)$/;"	f	file:
+iproc_mdio_write	mdio-bcm-iproc.c	/^static int iproc_mdio_write(struct mii_bus *bus, int phy_id,$/;"	f	file:
+iproc_mdiomux_desc	mdio-mux-bcm-iproc.c	/^struct iproc_mdiomux_desc {$/;"	s	file:
+iproc_mdiomux_read	mdio-mux-bcm-iproc.c	/^static int iproc_mdiomux_read(struct mii_bus *bus, int phyid, int reg)$/;"	f	file:
+iproc_mdiomux_write	mdio-mux-bcm-iproc.c	/^static int iproc_mdiomux_write(struct mii_bus *bus,$/;"	f	file:
+is_status_frame	dp83640.c	/^static bool is_status_frame(struct sk_buff *skb, int type)$/;"	f	file:
+is_sync	dp83640.c	/^static int is_sync(struct sk_buff *skb, int type)$/;"	f	file:
+ks8737_type	micrel.c	/^static const struct kszphy_type ks8737_type = {$/;"	v	typeref:struct:kszphy_type	file:
+ks8995	spi_ks8995.c	/^	ks8995,$/;"	e	enum:ks8995_chip_variant	file:
+ks8995_chip	spi_ks8995.c	/^static const struct ks8995_chip_params ks8995_chip[] = {$/;"	v	typeref:struct:ks8995_chip_params	file:
+ks8995_chip_params	spi_ks8995.c	/^struct ks8995_chip_params {$/;"	s	file:
+ks8995_chip_variant	spi_ks8995.c	/^enum ks8995_chip_variant {$/;"	g	file:
+ks8995_driver	spi_ks8995.c	/^module_spi_driver(ks8995_driver);$/;"	v
+ks8995_driver	spi_ks8995.c	/^static struct spi_driver ks8995_driver = {$/;"	v	typeref:struct:spi_driver	file:
+ks8995_get_revision	spi_ks8995.c	/^static int ks8995_get_revision(struct ks8995_switch *ks)$/;"	f	file:
+ks8995_id	spi_ks8995.c	/^static const struct spi_device_id ks8995_id[] = {$/;"	v	typeref:struct:spi_device_id	file:
+ks8995_parse_dt	spi_ks8995.c	/^static void ks8995_parse_dt(struct ks8995_switch *ks)$/;"	f	file:
+ks8995_pdata	spi_ks8995.c	/^struct ks8995_pdata {$/;"	s	file:
+ks8995_probe	spi_ks8995.c	/^static int ks8995_probe(struct spi_device *spi)$/;"	f	file:
+ks8995_read	spi_ks8995.c	/^static int ks8995_read(struct ks8995_switch *ks, char *buf,$/;"	f	file:
+ks8995_read_reg	spi_ks8995.c	/^static inline int ks8995_read_reg(struct ks8995_switch *ks, u8 addr, u8 *buf)$/;"	f	file:
+ks8995_registers_attr	spi_ks8995.c	/^static const struct bin_attribute ks8995_registers_attr = {$/;"	v	typeref:struct:bin_attribute	file:
+ks8995_registers_read	spi_ks8995.c	/^static ssize_t ks8995_registers_read(struct file *filp, struct kobject *kobj,$/;"	f	file:
+ks8995_registers_write	spi_ks8995.c	/^static ssize_t ks8995_registers_write(struct file *filp, struct kobject *kobj,$/;"	f	file:
+ks8995_remove	spi_ks8995.c	/^static int ks8995_remove(struct spi_device *spi)$/;"	f	file:
+ks8995_reset	spi_ks8995.c	/^static int ks8995_reset(struct ks8995_switch *ks)$/;"	f	file:
+ks8995_start	spi_ks8995.c	/^static int ks8995_start(struct ks8995_switch *ks)$/;"	f	file:
+ks8995_stop	spi_ks8995.c	/^static int ks8995_stop(struct ks8995_switch *ks)$/;"	f	file:
+ks8995_switch	spi_ks8995.c	/^struct ks8995_switch {$/;"	s	file:
+ks8995_write	spi_ks8995.c	/^static int ks8995_write(struct ks8995_switch *ks, char *buf,$/;"	f	file:
+ks8995_write_reg	spi_ks8995.c	/^static inline int ks8995_write_reg(struct ks8995_switch *ks, u8 addr, u8 val)$/;"	f	file:
+ksphy_driver	micrel.c	/^module_phy_driver(ksphy_driver);$/;"	v
+ksphy_driver	micrel.c	/^static struct phy_driver ksphy_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+ksz8021_type	micrel.c	/^static const struct kszphy_type ksz8021_type = {$/;"	v	typeref:struct:kszphy_type	file:
+ksz8041_config_aneg	micrel.c	/^static int ksz8041_config_aneg(struct phy_device *phydev)$/;"	f	file:
+ksz8041_config_init	micrel.c	/^static int ksz8041_config_init(struct phy_device *phydev)$/;"	f	file:
+ksz8041_type	micrel.c	/^static const struct kszphy_type ksz8041_type = {$/;"	v	typeref:struct:kszphy_type	file:
+ksz8051_type	micrel.c	/^static const struct kszphy_type ksz8051_type = {$/;"	v	typeref:struct:kszphy_type	file:
+ksz8081_type	micrel.c	/^static const struct kszphy_type ksz8081_type = {$/;"	v	typeref:struct:kszphy_type	file:
+ksz8795	spi_ks8995.c	/^	ksz8795,$/;"	e	enum:ks8995_chip_variant	file:
+ksz8864	spi_ks8995.c	/^	ksz8864,$/;"	e	enum:ks8995_chip_variant	file:
+ksz8873mll_config_aneg	micrel.c	/^static int ksz8873mll_config_aneg(struct phy_device *phydev)$/;"	f	file:
+ksz8873mll_read_status	micrel.c	/^static int ksz8873mll_read_status(struct phy_device *phydev)$/;"	f	file:
+ksz9021_config_init	micrel.c	/^static int ksz9021_config_init(struct phy_device *phydev)$/;"	f	file:
+ksz9021_load_values_from_of	micrel.c	/^static int ksz9021_load_values_from_of(struct phy_device *phydev,$/;"	f	file:
+ksz9021_rd_mmd_phyreg	micrel.c	/^ksz9021_rd_mmd_phyreg(struct phy_device *phydev, int ptrad, int devnum,$/;"	f	file:
+ksz9021_type	micrel.c	/^static const struct kszphy_type ksz9021_type = {$/;"	v	typeref:struct:kszphy_type	file:
+ksz9021_wr_mmd_phyreg	micrel.c	/^ksz9021_wr_mmd_phyreg(struct phy_device *phydev, int ptrad, int devnum,$/;"	f	file:
+ksz9031_center_flp_timing	micrel.c	/^static int ksz9031_center_flp_timing(struct phy_device *phydev)$/;"	f	file:
+ksz9031_config_init	micrel.c	/^static int ksz9031_config_init(struct phy_device *phydev)$/;"	f	file:
+ksz9031_enable_edpd	micrel.c	/^static int ksz9031_enable_edpd(struct phy_device *phydev)$/;"	f	file:
+ksz9031_extended_read	micrel.c	/^static int ksz9031_extended_read(struct phy_device *phydev,$/;"	f	file:
+ksz9031_extended_write	micrel.c	/^static int ksz9031_extended_write(struct phy_device *phydev,$/;"	f	file:
+ksz9031_of_load_skew_values	micrel.c	/^static int ksz9031_of_load_skew_values(struct phy_device *phydev,$/;"	f	file:
+ksz9031_read_status	micrel.c	/^static int ksz9031_read_status(struct phy_device *phydev)$/;"	f	file:
+kszphy_ack_interrupt	micrel.c	/^static int kszphy_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+kszphy_broadcast_disable	micrel.c	/^static int kszphy_broadcast_disable(struct phy_device *phydev)$/;"	f	file:
+kszphy_config_init	micrel.c	/^static int kszphy_config_init(struct phy_device *phydev)$/;"	f	file:
+kszphy_config_intr	micrel.c	/^static int kszphy_config_intr(struct phy_device *phydev)$/;"	f	file:
+kszphy_extended_read	micrel.c	/^static int kszphy_extended_read(struct phy_device *phydev,$/;"	f	file:
+kszphy_extended_write	micrel.c	/^static int kszphy_extended_write(struct phy_device *phydev,$/;"	f	file:
+kszphy_get_sset_count	micrel.c	/^static int kszphy_get_sset_count(struct phy_device *phydev)$/;"	f	file:
+kszphy_get_stat	micrel.c	/^static u64 kszphy_get_stat(struct phy_device *phydev, int i)$/;"	f	file:
+kszphy_get_stats	micrel.c	/^static void kszphy_get_stats(struct phy_device *phydev,$/;"	f	file:
+kszphy_get_strings	micrel.c	/^static void kszphy_get_strings(struct phy_device *phydev, u8 *data)$/;"	f	file:
+kszphy_hw_stat	micrel.c	/^struct kszphy_hw_stat {$/;"	s	file:
+kszphy_hw_stats	micrel.c	/^static struct kszphy_hw_stat kszphy_hw_stats[] = {$/;"	v	typeref:struct:kszphy_hw_stat	file:
+kszphy_nand_tree_disable	micrel.c	/^static int kszphy_nand_tree_disable(struct phy_device *phydev)$/;"	f	file:
+kszphy_priv	micrel.c	/^struct kszphy_priv {$/;"	s	file:
+kszphy_probe	micrel.c	/^static int kszphy_probe(struct phy_device *phydev)$/;"	f	file:
+kszphy_resume	micrel.c	/^static int kszphy_resume(struct phy_device *phydev)$/;"	f	file:
+kszphy_rmii_clk_sel	micrel.c	/^static int kszphy_rmii_clk_sel(struct phy_device *phydev, bool val)$/;"	f	file:
+kszphy_setup_led	micrel.c	/^static int kszphy_setup_led(struct phy_device *phydev, u32 reg, int val)$/;"	f	file:
+kszphy_suspend	micrel.c	/^static int kszphy_suspend(struct phy_device *phydev)$/;"	f	file:
+kszphy_type	micrel.c	/^struct kszphy_type {$/;"	s	file:
+lan87xx_read_status	smsc.c	/^static int lan87xx_read_status(struct phy_device *phydev)$/;"	f	file:
+lan88xx_phy_ack_interrupt	microchip.c	/^static int lan88xx_phy_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+lan88xx_phy_config_intr	microchip.c	/^static int lan88xx_phy_config_intr(struct phy_device *phydev)$/;"	f	file:
+lan88xx_priv	microchip.c	/^struct lan88xx_priv {$/;"	s	file:
+lan88xx_probe	microchip.c	/^static int lan88xx_probe(struct phy_device *phydev)$/;"	f	file:
+lan88xx_remove	microchip.c	/^static void lan88xx_remove(struct phy_device *phydev)$/;"	f	file:
+lan88xx_set_wol	microchip.c	/^static int lan88xx_set_wol(struct phy_device *phydev,$/;"	f	file:
+lan88xx_suspend	microchip.c	/^static int lan88xx_suspend(struct phy_device *phydev)$/;"	f	file:
+lan911x_config_init	smsc.c	/^static int lan911x_config_init(struct phy_device *phydev)$/;"	f	file:
+layer	dp83640.c	/^	int layer;$/;"	m	struct:dp83640_private	file:
+led_control	at803x.c	/^	u16 led_control;$/;"	m	struct:at803x_context	file:
+led_mode	micrel.c	/^	int led_mode;$/;"	m	struct:kszphy_priv	file:
+led_mode_reg	micrel.c	/^	u32 led_mode_reg;$/;"	m	struct:kszphy_type	file:
+libphy-y	Makefile	/^libphy-y			:= phy.o phy_device.o mdio_bus.o mdio_device.o$/;"	m
+link_gpio	fixed_phy.c	/^	int link_gpio;$/;"	m	struct:fixed_phy	file:
+link_update	fixed_phy.c	/^	int (*link_update)(struct net_device *, struct fixed_phy_status *);$/;"	m	struct:fixed_phy	file:
+list	dp83640.c	/^	struct list_head list;$/;"	m	struct:dp83640_clock	typeref:struct:dp83640_clock::list_head	file:
+list	dp83640.c	/^	struct list_head list;$/;"	m	struct:dp83640_private	typeref:struct:dp83640_private::list_head	file:
+list	dp83640.c	/^	struct list_head list;$/;"	m	struct:rxts	typeref:struct:rxts::list_head	file:
+lock	spi_ks8995.c	/^	struct mutex		lock;$/;"	m	struct:ks8995_switch	typeref:struct:ks8995_switch::mutex	file:
+lpa	swphy.c	/^	u16 lpa;$/;"	m	struct:swmii_regs	file:
+lpagb	swphy.c	/^	u16 lpagb;$/;"	m	struct:swmii_regs	file:
+lxt970_ack_interrupt	lxt.c	/^static int lxt970_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+lxt970_config_init	lxt.c	/^static int lxt970_config_init(struct phy_device *phydev)$/;"	f	file:
+lxt970_config_intr	lxt.c	/^static int lxt970_config_intr(struct phy_device *phydev)$/;"	f	file:
+lxt971_ack_interrupt	lxt.c	/^static int lxt971_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+lxt971_config_intr	lxt.c	/^static int lxt971_config_intr(struct phy_device *phydev)$/;"	f	file:
+lxt973_config_aneg	lxt.c	/^static int lxt973_config_aneg(struct phy_device *phydev)$/;"	f	file:
+lxt973_probe	lxt.c	/^static int lxt973_probe(struct phy_device *phydev)$/;"	f	file:
+lxt973a2_read_status	lxt.c	/^static int lxt973a2_read_status(struct phy_device *phydev)$/;"	f	file:
+lxt973a2_update_link	lxt.c	/^static int lxt973a2_update_link(struct phy_device *phydev)$/;"	f	file:
+lxt97x_driver	lxt.c	/^module_phy_driver(lxt97x_driver);$/;"	v
+lxt97x_driver	lxt.c	/^static struct phy_driver lxt97x_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+lxt_tbl	lxt.c	/^static struct mdio_device_id __maybe_unused lxt_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+m88e1111_config_aneg	marvell.c	/^static int m88e1111_config_aneg(struct phy_device *phydev)$/;"	f	file:
+m88e1111_config_init	marvell.c	/^static int m88e1111_config_init(struct phy_device *phydev)$/;"	f	file:
+m88e1116r_config_init	marvell.c	/^static int m88e1116r_config_init(struct phy_device *phydev)$/;"	f	file:
+m88e1118_config_aneg	marvell.c	/^static int m88e1118_config_aneg(struct phy_device *phydev)$/;"	f	file:
+m88e1118_config_init	marvell.c	/^static int m88e1118_config_init(struct phy_device *phydev)$/;"	f	file:
+m88e1121_config_aneg	marvell.c	/^static int m88e1121_config_aneg(struct phy_device *phydev)$/;"	f	file:
+m88e1121_config_init	marvell.c	/^static int m88e1121_config_init(struct phy_device *phydev)$/;"	f	file:
+m88e1121_did_interrupt	marvell.c	/^static int m88e1121_did_interrupt(struct phy_device *phydev)$/;"	f	file:
+m88e1145_config_init	marvell.c	/^static int m88e1145_config_init(struct phy_device *phydev)$/;"	f	file:
+m88e1149_config_init	marvell.c	/^static int m88e1149_config_init(struct phy_device *phydev)$/;"	f	file:
+m88e1318_config_aneg	marvell.c	/^static int m88e1318_config_aneg(struct phy_device *phydev)$/;"	f	file:
+m88e1318_get_wol	marvell.c	/^static void m88e1318_get_wol(struct phy_device *phydev, struct ethtool_wolinfo *wol)$/;"	f	file:
+m88e1318_set_wol	marvell.c	/^static int m88e1318_set_wol(struct phy_device *phydev, struct ethtool_wolinfo *wol)$/;"	f	file:
+m88e1510_config_aneg	marvell.c	/^static int m88e1510_config_aneg(struct phy_device *phydev)$/;"	f	file:
+m88e1510_config_init	marvell.c	/^static int m88e1510_config_init(struct phy_device *phydev)$/;"	f	file:
+m88e3016_config_init	marvell.c	/^static int m88e3016_config_init(struct phy_device *phydev)$/;"	f	file:
+mac_csr_addr	mdio-xgene.h	/^	void __iomem *mac_csr_addr;$/;"	m	struct:xgene_mdio_pdata
+marvell_ack_interrupt	marvell.c	/^static int marvell_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+marvell_aneg_done	marvell.c	/^static int marvell_aneg_done(struct phy_device *phydev)$/;"	f	file:
+marvell_config_aneg	marvell.c	/^static int marvell_config_aneg(struct phy_device *phydev)$/;"	f	file:
+marvell_config_aneg_fiber	marvell.c	/^static int marvell_config_aneg_fiber(struct phy_device *phydev)$/;"	f	file:
+marvell_config_init	marvell.c	/^static int marvell_config_init(struct phy_device *phydev)$/;"	f	file:
+marvell_config_intr	marvell.c	/^static int marvell_config_intr(struct phy_device *phydev)$/;"	f	file:
+marvell_drivers	marvell.c	/^module_phy_driver(marvell_drivers);$/;"	v
+marvell_drivers	marvell.c	/^static struct phy_driver marvell_drivers[] = {$/;"	v	typeref:struct:phy_driver	file:
+marvell_get_sset_count	marvell.c	/^static int marvell_get_sset_count(struct phy_device *phydev)$/;"	f	file:
+marvell_get_stat	marvell.c	/^static u64 marvell_get_stat(struct phy_device *phydev, int i)$/;"	f	file:
+marvell_get_stats	marvell.c	/^static void marvell_get_stats(struct phy_device *phydev,$/;"	f	file:
+marvell_get_strings	marvell.c	/^static void marvell_get_strings(struct phy_device *phydev, u8 *data)$/;"	f	file:
+marvell_hw_stat	marvell.c	/^struct marvell_hw_stat {$/;"	s	file:
+marvell_hw_stats	marvell.c	/^static struct marvell_hw_stat marvell_hw_stats[] = {$/;"	v	typeref:struct:marvell_hw_stat	file:
+marvell_of_reg_init	marvell.c	/^static int marvell_of_reg_init(struct phy_device *phydev)$/;"	f	file:
+marvell_priv	marvell.c	/^struct marvell_priv {$/;"	s	file:
+marvell_probe	marvell.c	/^static int marvell_probe(struct phy_device *phydev)$/;"	f	file:
+marvell_read_status	marvell.c	/^static int marvell_read_status(struct phy_device *phydev)$/;"	f	file:
+marvell_read_status_page	marvell.c	/^static int marvell_read_status_page(struct phy_device *phydev, int page)$/;"	f	file:
+marvell_resume	marvell.c	/^static int marvell_resume(struct phy_device *phydev)$/;"	f	file:
+marvell_set_polarity	marvell.c	/^static int marvell_set_polarity(struct phy_device *phydev, int polarity)$/;"	f	file:
+marvell_suspend	marvell.c	/^static int marvell_suspend(struct phy_device *phydev)$/;"	f	file:
+marvell_tbl	marvell.c	/^static struct mdio_device_id __maybe_unused marvell_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+marvell_update_link	marvell.c	/^static int marvell_update_link(struct phy_device *phydev, int fiber)$/;"	f	file:
+mask	mdio-mux-mmioreg.c	/^	uint8_t mask;$/;"	m	struct:mdio_mux_mmioreg_state	file:
+match	dp83640.c	/^static int match(struct sk_buff *skb, unsigned int type, struct rxts *rxts)$/;"	f	file:
+max_variant	spi_ks8995.c	/^	max_variant$/;"	e	enum:ks8995_chip_variant	file:
+mdc	mdio-gpio.c	/^	int mdc, mdio, mdo;$/;"	m	struct:mdio_gpio_info	file:
+mdc_active_low	mdio-gpio.c	/^	int mdc_active_low, mdio_active_low, mdo_active_low;$/;"	m	struct:mdio_gpio_info	file:
+mdc_set	mdio-gpio.c	/^static void mdc_set(struct mdiobb_ctrl *ctrl, int what)$/;"	f	file:
+mdio	mdio-gpio.c	/^	int mdc, mdio, mdo;$/;"	m	struct:mdio_gpio_info	file:
+mdio_active_low	mdio-gpio.c	/^	int mdc_active_low, mdio_active_low, mdo_active_low;$/;"	m	struct:mdio_gpio_info	file:
+mdio_bus	mdio-xgene.h	/^	struct mii_bus *mdio_bus;$/;"	m	struct:xgene_mdio_pdata	typeref:struct:xgene_mdio_pdata::mii_bus
+mdio_bus_class	mdio_bus.c	/^static struct class mdio_bus_class = {$/;"	v	typeref:struct:class	file:
+mdio_bus_exit	mdio_bus.c	/^void mdio_bus_exit(void)$/;"	f
+mdio_bus_init	mdio_bus.c	/^int __init mdio_bus_init(void)$/;"	f
+mdio_bus_match	mdio_bus.c	/^static int mdio_bus_match(struct device *dev, struct device_driver *drv)$/;"	f	file:
+mdio_bus_phy_may_suspend	phy_device.c	/^static bool mdio_bus_phy_may_suspend(struct phy_device *phydev)$/;"	f	file:
+mdio_bus_phy_pm_ops	phy_device.c	/^static const struct dev_pm_ops mdio_bus_phy_pm_ops = {$/;"	v	typeref:struct:dev_pm_ops	file:
+mdio_bus_phy_restore	phy_device.c	/^static int mdio_bus_phy_restore(struct device *dev)$/;"	f	file:
+mdio_bus_phy_resume	phy_device.c	/^static int mdio_bus_phy_resume(struct device *dev)$/;"	f	file:
+mdio_bus_phy_suspend	phy_device.c	/^static int mdio_bus_phy_suspend(struct device *dev)$/;"	f	file:
+mdio_bus_pm_ops	mdio_bus.c	/^static const struct dev_pm_ops mdio_bus_pm_ops = {$/;"	v	typeref:struct:dev_pm_ops	file:
+mdio_bus_restore	mdio_bus.c	/^static int mdio_bus_restore(struct device *dev)$/;"	f	file:
+mdio_bus_resume	mdio_bus.c	/^static int mdio_bus_resume(struct device *dev)$/;"	f	file:
+mdio_bus_suspend	mdio_bus.c	/^static int mdio_bus_suspend(struct device *dev)$/;"	f	file:
+mdio_bus_type	mdio_bus.c	/^EXPORT_SYMBOL(mdio_bus_type);$/;"	v
+mdio_bus_type	mdio_bus.c	/^struct bus_type mdio_bus_type = {$/;"	v	typeref:struct:bus_type
+mdio_csr_addr	mdio-xgene.h	/^	void __iomem *mdio_csr_addr;$/;"	m	struct:xgene_mdio_pdata
+mdio_device_create	mdio_device.c	/^EXPORT_SYMBOL(mdio_device_create);$/;"	v
+mdio_device_create	mdio_device.c	/^struct mdio_device *mdio_device_create(struct mii_bus *bus, int addr)$/;"	f
+mdio_device_free	mdio_device.c	/^EXPORT_SYMBOL(mdio_device_free);$/;"	v
+mdio_device_free	mdio_device.c	/^void mdio_device_free(struct mdio_device *mdiodev)$/;"	f
+mdio_device_register	mdio_device.c	/^EXPORT_SYMBOL(mdio_device_register);$/;"	v
+mdio_device_register	mdio_device.c	/^int mdio_device_register(struct mdio_device *mdiodev)$/;"	f
+mdio_device_release	mdio_device.c	/^static void mdio_device_release(struct device *dev)$/;"	f	file:
+mdio_device_remove	mdio_device.c	/^EXPORT_SYMBOL(mdio_device_remove);$/;"	v
+mdio_device_remove	mdio_device.c	/^void mdio_device_remove(struct mdio_device *mdiodev)$/;"	f
+mdio_dir	mdio-gpio.c	/^static void mdio_dir(struct mdiobb_ctrl *ctrl, int dir)$/;"	f	file:
+mdio_driver_register	mdio_device.c	/^EXPORT_SYMBOL(mdio_driver_register);$/;"	v
+mdio_driver_register	mdio_device.c	/^int mdio_driver_register(struct mdio_driver *drv)$/;"	f
+mdio_driver_unregister	mdio_device.c	/^EXPORT_SYMBOL(mdio_driver_unregister);$/;"	v
+mdio_driver_unregister	mdio_device.c	/^void mdio_driver_unregister(struct mdio_driver *drv)$/;"	f
+mdio_get	mdio-gpio.c	/^static int mdio_get(struct mdiobb_ctrl *ctrl)$/;"	f	file:
+mdio_gpio_bus_deinit	mdio-gpio.c	/^static void mdio_gpio_bus_deinit(struct device *dev)$/;"	f	file:
+mdio_gpio_bus_destroy	mdio-gpio.c	/^static void mdio_gpio_bus_destroy(struct device *dev)$/;"	f	file:
+mdio_gpio_bus_init	mdio-gpio.c	/^static struct mii_bus *mdio_gpio_bus_init(struct device *dev,$/;"	f	file:
+mdio_gpio_driver	mdio-gpio.c	/^module_platform_driver(mdio_gpio_driver);$/;"	v
+mdio_gpio_driver	mdio-gpio.c	/^static struct platform_driver mdio_gpio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+mdio_gpio_info	mdio-gpio.c	/^struct mdio_gpio_info {$/;"	s	file:
+mdio_gpio_of_get_data	mdio-gpio.c	/^static void *mdio_gpio_of_get_data(struct platform_device *pdev)$/;"	f	file:
+mdio_gpio_of_match	mdio-gpio.c	/^static const struct of_device_id mdio_gpio_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+mdio_gpio_ops	mdio-gpio.c	/^static struct mdiobb_ops mdio_gpio_ops = {$/;"	v	typeref:struct:mdiobb_ops	file:
+mdio_gpio_probe	mdio-gpio.c	/^static int mdio_gpio_probe(struct platform_device *pdev)$/;"	f	file:
+mdio_gpio_remove	mdio-gpio.c	/^static int mdio_gpio_remove(struct platform_device *pdev)$/;"	f	file:
+mdio_id	mdio-xgene.h	/^	int mdio_id;$/;"	m	struct:xgene_mdio_pdata
+mdio_mux_child_bus	mdio-mux.c	/^struct mdio_mux_child_bus {$/;"	s	file:
+mdio_mux_gpio_driver	mdio-mux-gpio.c	/^module_platform_driver(mdio_mux_gpio_driver);$/;"	v
+mdio_mux_gpio_driver	mdio-mux-gpio.c	/^static struct platform_driver mdio_mux_gpio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+mdio_mux_gpio_match	mdio-mux-gpio.c	/^static const struct of_device_id mdio_mux_gpio_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+mdio_mux_gpio_probe	mdio-mux-gpio.c	/^static int mdio_mux_gpio_probe(struct platform_device *pdev)$/;"	f	file:
+mdio_mux_gpio_remove	mdio-mux-gpio.c	/^static int mdio_mux_gpio_remove(struct platform_device *pdev)$/;"	f	file:
+mdio_mux_gpio_state	mdio-mux-gpio.c	/^struct mdio_mux_gpio_state {$/;"	s	file:
+mdio_mux_gpio_switch_fn	mdio-mux-gpio.c	/^static int mdio_mux_gpio_switch_fn(int current_child, int desired_child,$/;"	f	file:
+mdio_mux_init	mdio-mux.c	/^EXPORT_SYMBOL_GPL(mdio_mux_init);$/;"	v
+mdio_mux_init	mdio-mux.c	/^int mdio_mux_init(struct device *dev,$/;"	f
+mdio_mux_iproc_match	mdio-mux-bcm-iproc.c	/^static const struct of_device_id mdio_mux_iproc_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+mdio_mux_iproc_probe	mdio-mux-bcm-iproc.c	/^static int mdio_mux_iproc_probe(struct platform_device *pdev)$/;"	f	file:
+mdio_mux_iproc_remove	mdio-mux-bcm-iproc.c	/^static int mdio_mux_iproc_remove(struct platform_device *pdev)$/;"	f	file:
+mdio_mux_iproc_switch_fn	mdio-mux-bcm-iproc.c	/^static int mdio_mux_iproc_switch_fn(int current_child, int desired_child,$/;"	f	file:
+mdio_mux_mmioreg_driver	mdio-mux-mmioreg.c	/^module_platform_driver(mdio_mux_mmioreg_driver);$/;"	v
+mdio_mux_mmioreg_driver	mdio-mux-mmioreg.c	/^static struct platform_driver mdio_mux_mmioreg_driver = {$/;"	v	typeref:struct:platform_driver	file:
+mdio_mux_mmioreg_match	mdio-mux-mmioreg.c	/^static const struct of_device_id mdio_mux_mmioreg_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+mdio_mux_mmioreg_probe	mdio-mux-mmioreg.c	/^static int mdio_mux_mmioreg_probe(struct platform_device *pdev)$/;"	f	file:
+mdio_mux_mmioreg_remove	mdio-mux-mmioreg.c	/^static int mdio_mux_mmioreg_remove(struct platform_device *pdev)$/;"	f	file:
+mdio_mux_mmioreg_state	mdio-mux-mmioreg.c	/^struct mdio_mux_mmioreg_state {$/;"	s	file:
+mdio_mux_mmioreg_switch_fn	mdio-mux-mmioreg.c	/^static int mdio_mux_mmioreg_switch_fn(int current_child, int desired_child,$/;"	f	file:
+mdio_mux_parent_bus	mdio-mux.c	/^struct mdio_mux_parent_bus {$/;"	s	file:
+mdio_mux_read	mdio-mux.c	/^static int mdio_mux_read(struct mii_bus *bus, int phy_id, int regnum)$/;"	f	file:
+mdio_mux_uninit	mdio-mux.c	/^EXPORT_SYMBOL_GPL(mdio_mux_uninit);$/;"	v
+mdio_mux_uninit	mdio-mux.c	/^void mdio_mux_uninit(void *mux_handle)$/;"	f
+mdio_mux_write	mdio-mux.c	/^static int mdio_mux_write(struct mii_bus *bus, int phy_id,$/;"	f	file:
+mdio_probe	mdio_device.c	/^static int mdio_probe(struct device *dev)$/;"	f	file:
+mdio_remove	mdio_device.c	/^static int mdio_remove(struct device *dev)$/;"	f	file:
+mdio_set	mdio-gpio.c	/^static void mdio_set(struct mdiobb_ctrl *ctrl, int what)$/;"	f	file:
+mdiobb_cmd	mdio-bitbang.c	/^static void mdiobb_cmd(struct mdiobb_ctrl *ctrl, int op, u8 phy, u8 reg)$/;"	f	file:
+mdiobb_cmd_addr	mdio-bitbang.c	/^static int mdiobb_cmd_addr(struct mdiobb_ctrl *ctrl, int phy, u32 addr)$/;"	f	file:
+mdiobb_get_bit	mdio-bitbang.c	/^static int mdiobb_get_bit(struct mdiobb_ctrl *ctrl)$/;"	f	file:
+mdiobb_get_num	mdio-bitbang.c	/^static u16 mdiobb_get_num(struct mdiobb_ctrl *ctrl, int bits)$/;"	f	file:
+mdiobb_read	mdio-bitbang.c	/^static int mdiobb_read(struct mii_bus *bus, int phy, int reg)$/;"	f	file:
+mdiobb_reset	mdio-bitbang.c	/^static int mdiobb_reset(struct mii_bus *bus)$/;"	f	file:
+mdiobb_send_bit	mdio-bitbang.c	/^static void mdiobb_send_bit(struct mdiobb_ctrl *ctrl, int val)$/;"	f	file:
+mdiobb_send_num	mdio-bitbang.c	/^static void mdiobb_send_num(struct mdiobb_ctrl *ctrl, u16 val, int bits)$/;"	f	file:
+mdiobb_write	mdio-bitbang.c	/^static int mdiobb_write(struct mii_bus *bus, int phy, int reg, u16 val)$/;"	f	file:
+mdiobus_alloc_size	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_alloc_size);$/;"	v
+mdiobus_alloc_size	mdio_bus.c	/^struct mii_bus *mdiobus_alloc_size(size_t size)$/;"	f
+mdiobus_free	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_free);$/;"	v
+mdiobus_free	mdio_bus.c	/^void mdiobus_free(struct mii_bus *bus)$/;"	f
+mdiobus_get_phy	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_get_phy);$/;"	v
+mdiobus_get_phy	mdio_bus.c	/^struct phy_device *mdiobus_get_phy(struct mii_bus *bus, int addr)$/;"	f
+mdiobus_is_registered_device	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_is_registered_device);$/;"	v
+mdiobus_is_registered_device	mdio_bus.c	/^bool mdiobus_is_registered_device(struct mii_bus *bus, int addr)$/;"	f
+mdiobus_read	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_read);$/;"	v
+mdiobus_read	mdio_bus.c	/^int mdiobus_read(struct mii_bus *bus, int addr, u32 regnum)$/;"	f
+mdiobus_read_nested	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_read_nested);$/;"	v
+mdiobus_read_nested	mdio_bus.c	/^int mdiobus_read_nested(struct mii_bus *bus, int addr, u32 regnum)$/;"	f
+mdiobus_register_device	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_register_device);$/;"	v
+mdiobus_register_device	mdio_bus.c	/^int mdiobus_register_device(struct mdio_device *mdiodev)$/;"	f
+mdiobus_release	mdio_bus.c	/^static void mdiobus_release(struct device *d)$/;"	f	file:
+mdiobus_scan	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_scan);$/;"	v
+mdiobus_scan	mdio_bus.c	/^struct phy_device *mdiobus_scan(struct mii_bus *bus, int addr)$/;"	f
+mdiobus_unregister	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_unregister);$/;"	v
+mdiobus_unregister	mdio_bus.c	/^void mdiobus_unregister(struct mii_bus *bus)$/;"	f
+mdiobus_unregister_device	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_unregister_device);$/;"	v
+mdiobus_unregister_device	mdio_bus.c	/^int mdiobus_unregister_device(struct mdio_device *mdiodev)$/;"	f
+mdiobus_write	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_write);$/;"	v
+mdiobus_write	mdio_bus.c	/^int mdiobus_write(struct mii_bus *bus, int addr, u32 regnum, u16 val)$/;"	f
+mdiobus_write_nested	mdio_bus.c	/^EXPORT_SYMBOL(mdiobus_write_nested);$/;"	v
+mdiobus_write_nested	mdio_bus.c	/^int mdiobus_write_nested(struct mii_bus *bus, int addr, u32 regnum, u16 val)$/;"	f
+mdiomux_iproc_driver	mdio-mux-bcm-iproc.c	/^module_platform_driver(mdiomux_iproc_driver);$/;"	v
+mdiomux_iproc_driver	mdio-mux-bcm-iproc.c	/^static struct platform_driver mdiomux_iproc_driver = {$/;"	v	typeref:struct:platform_driver	file:
+mdo	mdio-gpio.c	/^	int mdc, mdio, mdo;$/;"	m	struct:mdio_gpio_info	file:
+mdo_active_low	mdio-gpio.c	/^	int mdc_active_low, mdio_active_low, mdo_active_low;$/;"	m	struct:mdio_gpio_info	file:
+membase	mdio-hisi-femac.c	/^	void __iomem *membase;$/;"	m	struct:hisi_femac_mdio_data	file:
+membase	mdio-sun4i.c	/^	void __iomem		*membase;$/;"	m	struct:sun4i_mdio_data	file:
+micrel_tbl	micrel.c	/^static struct mdio_device_id __maybe_unused micrel_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+microchip_phy_driver	microchip.c	/^module_phy_driver(microchip_phy_driver);$/;"	v
+microchip_phy_driver	microchip.c	/^static struct phy_driver microchip_phy_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+microchip_tbl	microchip.c	/^static struct mdio_device_id __maybe_unused microchip_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+mii_bus	fixed_phy.c	/^	struct mii_bus *mii_bus;$/;"	m	struct:fixed_mdio_bus	typeref:struct:fixed_mdio_bus::mii_bus	file:
+mii_bus	mdio-bcm-iproc.c	/^	struct mii_bus *mii_bus;$/;"	m	struct:iproc_mdio_priv	typeref:struct:iproc_mdio_priv::mii_bus	file:
+mii_bus	mdio-bcm-unimac.c	/^	struct mii_bus		*mii_bus;$/;"	m	struct:unimac_mdio_priv	typeref:struct:unimac_mdio_priv::mii_bus	file:
+mii_bus	mdio-cavium.h	/^	struct mii_bus *mii_bus;$/;"	m	struct:cavium_mdiobus	typeref:struct:cavium_mdiobus::mii_bus
+mii_bus	mdio-mux-bcm-iproc.c	/^	struct mii_bus *mii_bus;$/;"	m	struct:iproc_mdiomux_desc	typeref:struct:iproc_mdiomux_desc::mii_bus	file:
+mii_bus	mdio-mux.c	/^	struct mii_bus *mii_bus;$/;"	m	struct:mdio_mux_child_bus	typeref:struct:mdio_mux_child_bus::mii_bus	file:
+mii_bus	mdio-mux.c	/^	struct mii_bus *mii_bus;$/;"	m	struct:mdio_mux_parent_bus	typeref:struct:mdio_mux_parent_bus::mii_bus	file:
+mmd_phy_indirect	phy.c	/^static inline void mmd_phy_indirect(struct mii_bus *bus, int prtad, int devad,$/;"	f	file:
+mode	mdio-cavium.h	/^	enum cavium_mdiobus_mode mode;$/;"	m	struct:cavium_mdiobus	typeref:enum:cavium_mdiobus::cavium_mdiobus_mode
+moxart_mdio_data	mdio-moxart.c	/^struct moxart_mdio_data {$/;"	s	file:
+moxart_mdio_driver	mdio-moxart.c	/^module_platform_driver(moxart_mdio_driver);$/;"	v
+moxart_mdio_driver	mdio-moxart.c	/^static struct platform_driver moxart_mdio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+moxart_mdio_dt_ids	mdio-moxart.c	/^static const struct of_device_id moxart_mdio_dt_ids[] = {$/;"	v	typeref:struct:of_device_id	file:
+moxart_mdio_probe	mdio-moxart.c	/^static int moxart_mdio_probe(struct platform_device *pdev)$/;"	f	file:
+moxart_mdio_read	mdio-moxart.c	/^static int moxart_mdio_read(struct mii_bus *bus, int mii_id, int regnum)$/;"	f	file:
+moxart_mdio_remove	mdio-moxart.c	/^static int moxart_mdio_remove(struct platform_device *pdev)$/;"	f	file:
+moxart_mdio_reset	mdio-moxart.c	/^static int moxart_mdio_reset(struct mii_bus *bus)$/;"	f	file:
+moxart_mdio_write	mdio-moxart.c	/^static int moxart_mdio_write(struct mii_bus *bus, int mii_id,$/;"	f	file:
+msgtype	dp83640.c	/^	u16 msgtype; \/* messageType[3:0], hash[11:0] *\/$/;"	m	struct:phy_rxts	file:
+msgtype	dp83640.c	/^	u8  msgtype;$/;"	m	struct:rxts	file:
+mux_handle	mdio-mux-bcm-iproc.c	/^	void *mux_handle;$/;"	m	struct:iproc_mdiomux_desc	file:
+mux_handle	mdio-mux-gpio.c	/^	void *mux_handle;$/;"	m	struct:mdio_mux_gpio_state	file:
+mux_handle	mdio-mux-mmioreg.c	/^	void *mux_handle;$/;"	m	struct:mdio_mux_mmioreg_state	file:
+name	spi_ks8995.c	/^	char *name;$/;"	m	struct:ks8995_chip_params	file:
+next	mdio-mux.c	/^	struct mdio_mux_child_bus *next;$/;"	m	struct:mdio_mux_child_bus	typeref:struct:mdio_mux_child_bus::mdio_mux_child_bus	file:
+node	fixed_phy.c	/^	struct list_head node;$/;"	m	struct:fixed_phy	typeref:struct:fixed_phy::list_head	file:
+ns	dp83640.c	/^	u64 ns;$/;"	m	struct:rxts	file:
+ns_10_base_t_hdx_loopack	national.c	/^static void ns_10_base_t_hdx_loopack(struct phy_device *phydev, int disable)$/;"	f	file:
+ns_ack_interrupt	national.c	/^static int ns_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+ns_config_init	national.c	/^static int ns_config_init(struct phy_device *phydev)$/;"	f	file:
+ns_config_intr	national.c	/^static int ns_config_intr(struct phy_device *phydev)$/;"	f	file:
+ns_exp_read	national.c	/^static u8 ns_exp_read(struct phy_device *phydev, u16 reg)$/;"	f	file:
+ns_exp_write	national.c	/^static void ns_exp_write(struct phy_device *phydev, u16 reg, u8 data)$/;"	f	file:
+ns_giga_speed_fallback	national.c	/^static void ns_giga_speed_fallback(struct phy_device *phydev, int mode)$/;"	f	file:
+ns_hi	dp83640.c	/^	u16 ns_hi;   \/* overflow[1:0], ns[29:16] *\/$/;"	m	struct:phy_rxts	file:
+ns_hi	dp83640.c	/^	u16 ns_hi;   \/* overflow[1:0], ns[29:16] *\/$/;"	m	struct:phy_txts	file:
+ns_lo	dp83640.c	/^	u16 ns_lo;   \/* ns[15:0] *\/$/;"	m	struct:phy_rxts	file:
+ns_lo	dp83640.c	/^	u16 ns_lo;   \/* ns[15:0] *\/$/;"	m	struct:phy_txts	file:
+ns_tbl	national.c	/^static struct mdio_device_id __maybe_unused ns_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+oct_mdio_readq	mdio-cavium.h	/^static inline u64 oct_mdio_readq(u64 addr)$/;"	f
+oct_mdio_readq	mdio-cavium.h	115;"	d
+oct_mdio_writeq	mdio-cavium.h	/^static inline void oct_mdio_writeq(u64 val, u64 addr)$/;"	f
+oct_mdio_writeq	mdio-cavium.h	114;"	d
+octeon_mdiobus_driver	mdio-octeon.c	/^module_platform_driver(octeon_mdiobus_driver);$/;"	v
+octeon_mdiobus_driver	mdio-octeon.c	/^static struct platform_driver octeon_mdiobus_driver = {$/;"	v	typeref:struct:platform_driver	file:
+octeon_mdiobus_force_mod_depencency	mdio-octeon.c	/^EXPORT_SYMBOL(octeon_mdiobus_force_mod_depencency);$/;"	v
+octeon_mdiobus_force_mod_depencency	mdio-octeon.c	/^void octeon_mdiobus_force_mod_depencency(void)$/;"	f
+octeon_mdiobus_match	mdio-octeon.c	/^static const struct of_device_id octeon_mdiobus_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+octeon_mdiobus_probe	mdio-octeon.c	/^static int octeon_mdiobus_probe(struct platform_device *pdev)$/;"	f	file:
+octeon_mdiobus_remove	mdio-octeon.c	/^static int octeon_mdiobus_remove(struct platform_device *pdev)$/;"	f	file:
+of_mdio_bus_match	mdio_bus.c	/^static int of_mdio_bus_match(struct device *dev, const void *mdio_bus_np)$/;"	f	file:
+of_mdio_find_bus	mdio_bus.c	/^EXPORT_SYMBOL(of_mdio_find_bus);$/;"	v
+of_mdio_find_bus	mdio_bus.c	/^struct mii_bus *of_mdio_find_bus(struct device_node *mdio_bus_np)$/;"	f
+of_mdiobus_link_mdiodev	mdio_bus.c	/^static inline void of_mdiobus_link_mdiodev(struct mii_bus *mdio,$/;"	f	file:
+of_mdiobus_link_mdiodev	mdio_bus.c	/^static void of_mdiobus_link_mdiodev(struct mii_bus *bus,$/;"	f	file:
+of_set_phy_supported	phy_device.c	/^static void of_set_phy_supported(struct phy_device *phydev)$/;"	f	file:
+page	dp83640.c	/^	int page;$/;"	m	struct:dp83640_clock	file:
+page	marvell.c	/^	u8 page;$/;"	m	struct:marvell_hw_stat	file:
+parent	mdio-mux.c	/^	struct mdio_mux_parent_bus *parent;$/;"	m	struct:mdio_mux_child_bus	typeref:struct:mdio_mux_child_bus::mdio_mux_parent_bus	file:
+parent_count	mdio-mux.c	/^static int parent_count;$/;"	v	file:
+parent_id	mdio-mux.c	/^	int parent_id;$/;"	m	struct:mdio_mux_parent_bus	file:
+pdata	spi_ks8995.c	/^	struct ks8995_pdata	*pdata;$/;"	m	struct:ks8995_switch	typeref:struct:ks8995_switch::ks8995_pdata	file:
+pdev	fixed_phy.c	/^static struct platform_device *pdev;$/;"	v	typeref:struct:platform_device	file:
+periodic_output	dp83640.c	/^static int periodic_output(struct dp83640_clock *clock,$/;"	f	file:
+phy2rxts	dp83640.c	/^static void phy2rxts(struct phy_rxts *p, struct rxts *rxts)$/;"	f	file:
+phy2txts	dp83640.c	/^static u64 phy2txts(struct phy_txts *p)$/;"	f	file:
+phy_aneg_done	phy.c	/^static inline int phy_aneg_done(struct phy_device *phydev)$/;"	f	file:
+phy_attach	phy_device.c	/^EXPORT_SYMBOL(phy_attach);$/;"	v
+phy_attach	phy_device.c	/^struct phy_device *phy_attach(struct net_device *dev, const char *bus_id,$/;"	f
+phy_attach_direct	phy_device.c	/^EXPORT_SYMBOL(phy_attach_direct);$/;"	v
+phy_attach_direct	phy_device.c	/^int phy_attach_direct(struct net_device *dev, struct phy_device *phydev,$/;"	f
+phy_attached_info	phy_device.c	/^EXPORT_SYMBOL(phy_attached_info);$/;"	v
+phy_attached_info	phy_device.c	/^void phy_attached_info(struct phy_device *phydev)$/;"	f
+phy_attached_print	phy_device.c	/^EXPORT_SYMBOL(phy_attached_print);$/;"	v
+phy_attached_print	phy_device.c	/^void phy_attached_print(struct phy_device *phydev, const char *fmt, ...)$/;"	f
+phy_bus_match	phy_device.c	/^static int phy_bus_match(struct device *dev, struct device_driver *drv)$/;"	f	file:
+phy_change	phy.c	/^void phy_change(struct work_struct *work)$/;"	f
+phy_check_valid	phy.c	/^static inline bool phy_check_valid(int speed, int duplex, u32 features)$/;"	f	file:
+phy_clear_interrupt	phy.c	/^static int phy_clear_interrupt(struct phy_device *phydev)$/;"	f	file:
+phy_config_interrupt	phy.c	/^static int phy_config_interrupt(struct phy_device *phydev, u32 interrupts)$/;"	f	file:
+phy_connect	phy_device.c	/^EXPORT_SYMBOL(phy_connect);$/;"	v
+phy_connect	phy_device.c	/^struct phy_device *phy_connect(struct net_device *dev, const char *bus_id,$/;"	f
+phy_connect_direct	phy_device.c	/^EXPORT_SYMBOL(phy_connect_direct);$/;"	v
+phy_connect_direct	phy_device.c	/^int phy_connect_direct(struct net_device *dev, struct phy_device *phydev,$/;"	f
+phy_detach	phy_device.c	/^EXPORT_SYMBOL(phy_detach);$/;"	v
+phy_detach	phy_device.c	/^void phy_detach(struct phy_device *phydev)$/;"	f
+phy_dev	phy_device.c	/^ATTRIBUTE_GROUPS(phy_dev);$/;"	v
+phy_dev	xilinx_gmii2rgmii.c	/^	struct phy_device *phy_dev;$/;"	m	struct:gmii2rgmii	typeref:struct:gmii2rgmii::phy_device	file:
+phy_dev_attrs	phy_device.c	/^static struct attribute *phy_dev_attrs[] = {$/;"	v	typeref:struct:attribute	file:
+phy_device_create	phy_device.c	/^EXPORT_SYMBOL(phy_device_create);$/;"	v
+phy_device_create	phy_device.c	/^struct phy_device *phy_device_create(struct mii_bus *bus, int addr, int phy_id,$/;"	f
+phy_device_free	phy_device.c	/^EXPORT_SYMBOL(phy_device_free);$/;"	v
+phy_device_free	phy_device.c	/^void phy_device_free(struct phy_device *phydev)$/;"	f
+phy_device_register	phy_device.c	/^EXPORT_SYMBOL(phy_device_register);$/;"	v
+phy_device_register	phy_device.c	/^int phy_device_register(struct phy_device *phydev)$/;"	f
+phy_device_release	phy_device.c	/^static void phy_device_release(struct device *dev)$/;"	f	file:
+phy_device_remove	phy_device.c	/^EXPORT_SYMBOL(phy_device_remove);$/;"	v
+phy_device_remove	phy_device.c	/^void phy_device_remove(struct phy_device *phydev)$/;"	f
+phy_disable_interrupts	phy.c	/^static int phy_disable_interrupts(struct phy_device *phydev)$/;"	f	file:
+phy_disconnect	phy_device.c	/^EXPORT_SYMBOL(phy_disconnect);$/;"	v
+phy_disconnect	phy_device.c	/^void phy_disconnect(struct phy_device *phydev)$/;"	f
+phy_driver_register	phy_device.c	/^EXPORT_SYMBOL(phy_driver_register);$/;"	v
+phy_driver_register	phy_device.c	/^int phy_driver_register(struct phy_driver *new_driver, struct module *owner)$/;"	f
+phy_driver_unregister	phy_device.c	/^EXPORT_SYMBOL(phy_driver_unregister);$/;"	v
+phy_driver_unregister	phy_device.c	/^void phy_driver_unregister(struct phy_driver *drv)$/;"	f
+phy_drivers_register	phy_device.c	/^EXPORT_SYMBOL(phy_drivers_register);$/;"	v
+phy_drivers_register	phy_device.c	/^int phy_drivers_register(struct phy_driver *new_driver, int n,$/;"	f
+phy_drivers_unregister	phy_device.c	/^EXPORT_SYMBOL(phy_drivers_unregister);$/;"	v
+phy_drivers_unregister	phy_device.c	/^void phy_drivers_unregister(struct phy_driver *drv, int n)$/;"	f
+phy_drv	xilinx_gmii2rgmii.c	/^	struct phy_driver *phy_drv;$/;"	m	struct:gmii2rgmii	typeref:struct:gmii2rgmii::phy_driver	file:
+phy_enable_interrupts	phy.c	/^static int phy_enable_interrupts(struct phy_device *phydev)$/;"	f	file:
+phy_error	phy.c	/^static void phy_error(struct phy_device *phydev)$/;"	f	file:
+phy_ethtool_get_eee	phy.c	/^EXPORT_SYMBOL(phy_ethtool_get_eee);$/;"	v
+phy_ethtool_get_eee	phy.c	/^int phy_ethtool_get_eee(struct phy_device *phydev, struct ethtool_eee *data)$/;"	f
+phy_ethtool_get_link_ksettings	phy.c	/^EXPORT_SYMBOL(phy_ethtool_get_link_ksettings);$/;"	v
+phy_ethtool_get_link_ksettings	phy.c	/^int phy_ethtool_get_link_ksettings(struct net_device *ndev,$/;"	f
+phy_ethtool_get_wol	phy.c	/^EXPORT_SYMBOL(phy_ethtool_get_wol);$/;"	v
+phy_ethtool_get_wol	phy.c	/^void phy_ethtool_get_wol(struct phy_device *phydev, struct ethtool_wolinfo *wol)$/;"	f
+phy_ethtool_gset	phy.c	/^EXPORT_SYMBOL(phy_ethtool_gset);$/;"	v
+phy_ethtool_gset	phy.c	/^int phy_ethtool_gset(struct phy_device *phydev, struct ethtool_cmd *cmd)$/;"	f
+phy_ethtool_ksettings_get	phy.c	/^EXPORT_SYMBOL(phy_ethtool_ksettings_get);$/;"	v
+phy_ethtool_ksettings_get	phy.c	/^int phy_ethtool_ksettings_get(struct phy_device *phydev,$/;"	f
+phy_ethtool_ksettings_set	phy.c	/^EXPORT_SYMBOL(phy_ethtool_ksettings_set);$/;"	v
+phy_ethtool_ksettings_set	phy.c	/^int phy_ethtool_ksettings_set(struct phy_device *phydev,$/;"	f
+phy_ethtool_set_eee	phy.c	/^EXPORT_SYMBOL(phy_ethtool_set_eee);$/;"	v
+phy_ethtool_set_eee	phy.c	/^int phy_ethtool_set_eee(struct phy_device *phydev, struct ethtool_eee *data)$/;"	f
+phy_ethtool_set_link_ksettings	phy.c	/^EXPORT_SYMBOL(phy_ethtool_set_link_ksettings);$/;"	v
+phy_ethtool_set_link_ksettings	phy.c	/^int phy_ethtool_set_link_ksettings(struct net_device *ndev,$/;"	f
+phy_ethtool_set_wol	phy.c	/^EXPORT_SYMBOL(phy_ethtool_set_wol);$/;"	v
+phy_ethtool_set_wol	phy.c	/^int phy_ethtool_set_wol(struct phy_device *phydev, struct ethtool_wolinfo *wol)$/;"	f
+phy_ethtool_sset	phy.c	/^EXPORT_SYMBOL(phy_ethtool_sset);$/;"	v
+phy_ethtool_sset	phy.c	/^int phy_ethtool_sset(struct phy_device *phydev, struct ethtool_cmd *cmd)$/;"	f
+phy_exit	phy_device.c	/^module_exit(phy_exit);$/;"	v
+phy_exit	phy_device.c	/^static void __exit phy_exit(void)$/;"	f	file:
+phy_find_first	phy_device.c	/^EXPORT_SYMBOL(phy_find_first);$/;"	v
+phy_find_first	phy_device.c	/^struct phy_device *phy_find_first(struct mii_bus *bus)$/;"	f
+phy_find_setting	phy.c	/^static inline unsigned int phy_find_setting(int speed, int duplex)$/;"	f	file:
+phy_find_valid	phy.c	/^static inline unsigned int phy_find_valid(unsigned int idx, u32 features)$/;"	f	file:
+phy_get_eee_err	phy.c	/^EXPORT_SYMBOL(phy_get_eee_err);$/;"	v
+phy_get_eee_err	phy.c	/^int phy_get_eee_err(struct phy_device *phydev)$/;"	f
+phy_has_fixups_show	phy_device.c	/^phy_has_fixups_show(struct device *dev, struct device_attribute *attr,$/;"	f	file:
+phy_id_show	phy_device.c	/^phy_id_show(struct device *dev, struct device_attribute *attr, char *buf)$/;"	f	file:
+phy_init	phy_device.c	/^static int __init phy_init(void)$/;"	f	file:
+phy_init	phy_device.c	/^subsys_initcall(phy_init);$/;"	v
+phy_init_eee	phy.c	/^EXPORT_SYMBOL(phy_init_eee);$/;"	v
+phy_init_eee	phy.c	/^int phy_init_eee(struct phy_device *phydev, bool clk_stop_enable)$/;"	f
+phy_init_hw	phy_device.c	/^EXPORT_SYMBOL(phy_init_hw);$/;"	v
+phy_init_hw	phy_device.c	/^int phy_init_hw(struct phy_device *phydev)$/;"	f
+phy_interface_show	phy_device.c	/^phy_interface_show(struct device *dev, struct device_attribute *attr, char *buf)$/;"	f	file:
+phy_interrupt	phy.c	/^static irqreturn_t phy_interrupt(int irq, void *phy_dat)$/;"	f	file:
+phy_mac_interrupt	phy.c	/^EXPORT_SYMBOL(phy_mac_interrupt);$/;"	v
+phy_mac_interrupt	phy.c	/^void phy_mac_interrupt(struct phy_device *phydev, int new_link)$/;"	f
+phy_mdio_device_free	phy_device.c	/^static void phy_mdio_device_free(struct mdio_device *mdiodev)$/;"	f	file:
+phy_mdio_device_remove	phy_device.c	/^static void phy_mdio_device_remove(struct mdio_device *mdiodev)$/;"	f	file:
+phy_mii_ioctl	phy.c	/^EXPORT_SYMBOL(phy_mii_ioctl);$/;"	v
+phy_mii_ioctl	phy.c	/^int phy_mii_ioctl(struct phy_device *phydev, struct ifreq *ifr, int cmd)$/;"	f
+phy_needs_fixup	phy_device.c	/^static int phy_needs_fixup(struct phy_device *phydev, struct phy_fixup *fixup)$/;"	f	file:
+phy_poll_reset	phy_device.c	/^static int phy_poll_reset(struct phy_device *phydev)$/;"	f	file:
+phy_prepare_link	phy_device.c	/^static void phy_prepare_link(struct phy_device *phydev,$/;"	f	file:
+phy_print_status	phy.c	/^EXPORT_SYMBOL(phy_print_status);$/;"	v
+phy_print_status	phy.c	/^void phy_print_status(struct phy_device *phydev)$/;"	f
+phy_probe	phy_device.c	/^static int phy_probe(struct device *dev)$/;"	f	file:
+phy_read_mmd_indirect	phy.c	/^EXPORT_SYMBOL(phy_read_mmd_indirect);$/;"	v
+phy_read_mmd_indirect	phy.c	/^int phy_read_mmd_indirect(struct phy_device *phydev, int prtad, int devad)$/;"	f
+phy_register_fixup	phy_device.c	/^EXPORT_SYMBOL(phy_register_fixup);$/;"	v
+phy_register_fixup	phy_device.c	/^int phy_register_fixup(const char *bus_id, u32 phy_uid, u32 phy_uid_mask,$/;"	f
+phy_register_fixup_for_id	phy_device.c	/^EXPORT_SYMBOL(phy_register_fixup_for_id);$/;"	v
+phy_register_fixup_for_id	phy_device.c	/^int phy_register_fixup_for_id(const char *bus_id,$/;"	f
+phy_register_fixup_for_uid	phy_device.c	/^EXPORT_SYMBOL(phy_register_fixup_for_uid);$/;"	v
+phy_register_fixup_for_uid	phy_device.c	/^int phy_register_fixup_for_uid(u32 phy_uid, u32 phy_uid_mask,$/;"	f
+phy_remove	phy_device.c	/^static int phy_remove(struct device *dev)$/;"	f	file:
+phy_reset	at803x.c	/^	bool phy_reset:1;$/;"	m	struct:at803x_priv	file:
+phy_resume	phy_device.c	/^EXPORT_SYMBOL(phy_resume);$/;"	v
+phy_resume	phy_device.c	/^int phy_resume(struct phy_device *phydev)$/;"	f
+phy_rxts	dp83640.c	/^struct phy_rxts {$/;"	s	file:
+phy_sanitize_settings	phy.c	/^static void phy_sanitize_settings(struct phy_device *phydev)$/;"	f	file:
+phy_scan_fixups	phy_device.c	/^static int phy_scan_fixups(struct phy_device *phydev)$/;"	f	file:
+phy_set_clr_bits	bcm7xxx.c	/^static int phy_set_clr_bits(struct phy_device *dev, int location,$/;"	f	file:
+phy_set_max_speed	phy_device.c	/^EXPORT_SYMBOL(phy_set_max_speed);$/;"	v
+phy_set_max_speed	phy_device.c	/^int phy_set_max_speed(struct phy_device *phydev, u32 max_speed)$/;"	f
+phy_setting	phy.c	/^struct phy_setting {$/;"	s	file:
+phy_speed_to_str	phy.c	/^static const char *phy_speed_to_str(int speed)$/;"	f	file:
+phy_start	phy.c	/^EXPORT_SYMBOL(phy_start);$/;"	v
+phy_start	phy.c	/^void phy_start(struct phy_device *phydev)$/;"	f
+phy_start_aneg	phy.c	/^EXPORT_SYMBOL(phy_start_aneg);$/;"	v
+phy_start_aneg	phy.c	/^int phy_start_aneg(struct phy_device *phydev)$/;"	f
+phy_start_interrupts	phy.c	/^EXPORT_SYMBOL(phy_start_interrupts);$/;"	v
+phy_start_interrupts	phy.c	/^int phy_start_interrupts(struct phy_device *phydev)$/;"	f
+phy_start_machine	phy.c	/^void phy_start_machine(struct phy_device *phydev)$/;"	f
+phy_state_machine	phy.c	/^void phy_state_machine(struct work_struct *work)$/;"	f
+phy_state_to_str	phy.c	/^static const char *phy_state_to_str(enum phy_state st)$/;"	f	file:
+phy_stop	phy.c	/^EXPORT_SYMBOL(phy_stop);$/;"	v
+phy_stop	phy.c	/^void phy_stop(struct phy_device *phydev)$/;"	f
+phy_stop_interrupts	phy.c	/^EXPORT_SYMBOL(phy_stop_interrupts);$/;"	v
+phy_stop_interrupts	phy.c	/^int phy_stop_interrupts(struct phy_device *phydev)$/;"	f
+phy_stop_machine	phy.c	/^void phy_stop_machine(struct phy_device *phydev)$/;"	f
+phy_suspend	phy_device.c	/^EXPORT_SYMBOL(phy_suspend);$/;"	v
+phy_suspend	phy_device.c	/^int phy_suspend(struct phy_device *phydev)$/;"	f
+phy_trigger_machine	phy.c	/^static void phy_trigger_machine(struct phy_device *phydev)$/;"	f	file:
+phy_txts	dp83640.c	/^struct phy_txts {$/;"	s	file:
+phy_write_mmd_indirect	phy.c	/^EXPORT_SYMBOL(phy_write_mmd_indirect);$/;"	v
+phy_write_mmd_indirect	phy.c	/^void phy_write_mmd_indirect(struct phy_device *phydev, int prtad,$/;"	f
+phydev	dp83640.c	/^	struct phy_device *phydev;$/;"	m	struct:dp83640_private	typeref:struct:dp83640_private::phy_device	file:
+phydev	fixed_phy.c	/^	struct phy_device *phydev;$/;"	m	struct:fixed_phy	typeref:struct:fixed_phy::phy_device	file:
+phylist	dp83640.c	/^	struct list_head phylist;$/;"	m	struct:dp83640_clock	typeref:struct:dp83640_clock::list_head	file:
+phys	fixed_phy.c	/^	struct list_head phys;$/;"	m	struct:fixed_mdio_bus	typeref:struct:fixed_mdio_bus::list_head	file:
+phys	mdio-mux-mmioreg.c	/^	phys_addr_t phys;$/;"	m	struct:mdio_mux_mmioreg_state	file:
+platform_fmb	fixed_phy.c	/^static struct fixed_mdio_bus platform_fmb = {$/;"	v	typeref:struct:fixed_mdio_bus	file:
+pr_fmt	dp83640.c	21;"	d	file:
+pr_fmt	mdio_bus.c	14;"	d	file:
+pr_fmt	mdio_device.c	12;"	d	file:
+pr_fmt	national.c	18;"	d	file:
+pr_fmt	phy.c	16;"	d	file:
+pr_fmt	phy_device.c	15;"	d	file:
+pr_fmt	spi_ks8995.c	14;"	d	file:
+prune_rx_ts	dp83640.c	/^static void prune_rx_ts(struct dp83640_private *dp83640)$/;"	f	file:
+ptp_clock	dp83640.c	/^	struct ptp_clock *ptp_clock;$/;"	m	struct:dp83640_clock	typeref:struct:dp83640_clock::ptp_clock	file:
+ptp_dp83640_adjfreq	dp83640.c	/^static int ptp_dp83640_adjfreq(struct ptp_clock_info *ptp, s32 ppb)$/;"	f	file:
+ptp_dp83640_adjtime	dp83640.c	/^static int ptp_dp83640_adjtime(struct ptp_clock_info *ptp, s64 delta)$/;"	f	file:
+ptp_dp83640_enable	dp83640.c	/^static int ptp_dp83640_enable(struct ptp_clock_info *ptp,$/;"	f	file:
+ptp_dp83640_gettime	dp83640.c	/^static int ptp_dp83640_gettime(struct ptp_clock_info *ptp,$/;"	f	file:
+ptp_dp83640_settime	dp83640.c	/^static int ptp_dp83640_settime(struct ptp_clock_info *ptp,$/;"	f	file:
+ptp_dp83640_verify	dp83640.c	/^static int ptp_dp83640_verify(struct ptp_clock_info *ptp, unsigned int pin,$/;"	f	file:
+ptp_type	dp83640.c	/^	int ptp_type;$/;"	m	struct:dp83640_skb_info	file:
+qs6612_ack_interrupt	qsemi.c	/^static int qs6612_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+qs6612_config_init	qsemi.c	/^static int qs6612_config_init(struct phy_device *phydev)$/;"	f	file:
+qs6612_config_intr	qsemi.c	/^static int qs6612_config_intr(struct phy_device *phydev)$/;"	f	file:
+qs6612_driver	qsemi.c	/^module_phy_driver(qs6612_driver);$/;"	v
+qs6612_driver	qsemi.c	/^static struct phy_driver qs6612_driver[] = { {$/;"	v	typeref:struct:phy_driver	file:
+qs6612_tbl	qsemi.c	/^static struct mdio_device_id __maybe_unused qs6612_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+r_rc_cal_reset	bcm7xxx.c	/^static void r_rc_cal_reset(struct phy_device *phydev)$/;"	f	file:
+realtek_drvs	realtek.c	/^module_phy_driver(realtek_drvs);$/;"	v
+realtek_drvs	realtek.c	/^static struct phy_driver realtek_drvs[] = {$/;"	v	typeref:struct:phy_driver	file:
+realtek_tbl	realtek.c	/^static struct mdio_device_id __maybe_unused realtek_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+recalibrate	dp83640.c	/^static void recalibrate(struct dp83640_clock *clock)$/;"	f	file:
+reg	marvell.c	/^	u8 reg;$/;"	m	struct:marvell_hw_stat	file:
+reg	micrel.c	/^	u8 reg;$/;"	m	struct:kszphy_hw_stat	file:
+register_base	mdio-cavium.h	/^	u64 register_base;$/;"	m	struct:cavium_mdiobus
+regs_attr	spi_ks8995.c	/^	struct bin_attribute	regs_attr;$/;"	m	struct:ks8995_switch	typeref:struct:ks8995_switch::bin_attribute	file:
+regs_size	spi_ks8995.c	/^	int regs_size;$/;"	m	struct:ks8995_chip_params	file:
+regulator	mdio-sun4i.c	/^	struct regulator	*regulator;$/;"	m	struct:sun4i_mdio_data	typeref:struct:sun4i_mdio_data::regulator	file:
+reset_gpio	spi_ks8995.c	/^	int reset_gpio;$/;"	m	struct:ks8995_pdata	file:
+reset_gpio_flags	spi_ks8995.c	/^	enum of_gpio_flags reset_gpio_flags;$/;"	m	struct:ks8995_pdata	typeref:enum:ks8995_pdata::of_gpio_flags	file:
+revision_id	spi_ks8995.c	/^	int			revision_id;$/;"	m	struct:ks8995_switch	file:
+rgmii_rx_clock_delay	mscc.c	/^enum rgmii_rx_clock_delay {$/;"	g	file:
+rmii_ref_clk_sel	micrel.c	/^	bool rmii_ref_clk_sel;$/;"	m	struct:kszphy_priv	file:
+rmii_ref_clk_sel_val	micrel.c	/^	bool rmii_ref_clk_sel_val;$/;"	m	struct:kszphy_priv	file:
+rtl8211b_config_intr	realtek.c	/^static int rtl8211b_config_intr(struct phy_device *phydev)$/;"	f	file:
+rtl8211e_config_intr	realtek.c	/^static int rtl8211e_config_intr(struct phy_device *phydev)$/;"	f	file:
+rtl8211f_ack_interrupt	realtek.c	/^static int rtl8211f_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+rtl8211f_config_init	realtek.c	/^static int rtl8211f_config_init(struct phy_device *phydev)$/;"	f	file:
+rtl8211f_config_intr	realtek.c	/^static int rtl8211f_config_intr(struct phy_device *phydev)$/;"	f	file:
+rtl821x_ack_interrupt	realtek.c	/^static int rtl821x_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+rx_id_delay	dp83867.c	/^	int rx_id_delay;$/;"	m	struct:dp83867_private	file:
+rx_lock	dp83640.c	/^	spinlock_t rx_lock;$/;"	m	struct:dp83640_private	file:
+rx_pool_data	dp83640.c	/^	struct rxts rx_pool_data[MAX_RXTS];$/;"	m	struct:dp83640_private	typeref:struct:dp83640_private::rxts	file:
+rx_queue	dp83640.c	/^	struct sk_buff_head rx_queue;$/;"	m	struct:dp83640_private	typeref:struct:dp83640_private::sk_buff_head	file:
+rx_timestamp_work	dp83640.c	/^static void rx_timestamp_work(struct work_struct *work)$/;"	f	file:
+rxctrl_strap_worka	dp83867.c	/^	bool rxctrl_strap_worka;$/;"	m	struct:dp83867_private	file:
+rxpool	dp83640.c	/^	struct list_head rxpool;$/;"	m	struct:dp83640_private	typeref:struct:dp83640_private::list_head	file:
+rxts	dp83640.c	/^	struct list_head rxts;$/;"	m	struct:dp83640_private	typeref:struct:dp83640_private::list_head	file:
+rxts	dp83640.c	/^struct rxts {$/;"	s	file:
+s	mdio-cavium.h	/^	} s;$/;"	m	union:cvmx_smix_clk	typeref:struct:cvmx_smix_clk::cvmx_smix_clk_s
+s	mdio-cavium.h	/^	} s;$/;"	m	union:cvmx_smix_cmd	typeref:struct:cvmx_smix_cmd::cvmx_smix_cmd_s
+s	mdio-cavium.h	/^	} s;$/;"	m	union:cvmx_smix_en	typeref:struct:cvmx_smix_en::cvmx_smix_en_s
+s	mdio-cavium.h	/^	} s;$/;"	m	union:cvmx_smix_rd_dat	typeref:struct:cvmx_smix_rd_dat::cvmx_smix_rd_dat_s
+s	mdio-cavium.h	/^	} s;$/;"	m	union:cvmx_smix_wr_dat	typeref:struct:cvmx_smix_wr_dat::cvmx_smix_wr_dat_s
+sec_hi	dp83640.c	/^	u16 sec_hi;  \/* sec[31:16] *\/$/;"	m	struct:phy_rxts	file:
+sec_hi	dp83640.c	/^	u16 sec_hi;  \/* sec[31:16] *\/$/;"	m	struct:phy_txts	file:
+sec_lo	dp83640.c	/^	u16 sec_lo;  \/* sec[15:0] *\/$/;"	m	struct:phy_rxts	file:
+sec_lo	dp83640.c	/^	u16 sec_lo;  \/* sec[15:0] *\/$/;"	m	struct:phy_txts	file:
+seqcount	fixed_phy.c	/^	seqcount_t seqcount;$/;"	m	struct:fixed_phy	file:
+seqid	dp83640.c	/^	u16 seqid;   \/* sequenceId[15:0] *\/$/;"	m	struct:phy_rxts	file:
+seqid	dp83640.c	/^	u16 seqid;$/;"	m	struct:rxts	file:
+setting	phy.c	/^	u32 setting;$/;"	m	struct:phy_setting	file:
+settings	phy.c	/^static const struct phy_setting settings[] = {$/;"	v	typeref:struct:phy_setting	file:
+slowdown	mscc.c	/^	int slowdown[MSCC_SLOWDOWN_MAX];$/;"	m	struct:edge_rate_table	file:
+smart_speed	at803x.c	/^	u16 smart_speed;$/;"	m	struct:at803x_context	file:
+smsc_phy_ack_interrupt	smsc.c	/^static int smsc_phy_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+smsc_phy_config_init	smsc.c	/^static int smsc_phy_config_init(struct phy_device *phydev)$/;"	f	file:
+smsc_phy_config_intr	smsc.c	/^static int smsc_phy_config_intr(struct phy_device *phydev)$/;"	f	file:
+smsc_phy_driver	smsc.c	/^module_phy_driver(smsc_phy_driver);$/;"	v
+smsc_phy_driver	smsc.c	/^static struct phy_driver smsc_phy_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+smsc_phy_priv	smsc.c	/^struct smsc_phy_priv {$/;"	s	file:
+smsc_phy_probe	smsc.c	/^static int smsc_phy_probe(struct phy_device *phydev)$/;"	f	file:
+smsc_phy_reset	smsc.c	/^static int smsc_phy_reset(struct phy_device *phydev)$/;"	f	file:
+smsc_tbl	smsc.c	/^static struct mdio_device_id __maybe_unused smsc_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+speed	phy.c	/^	int speed;$/;"	m	struct:phy_setting	file:
+speed	swphy.c	/^static const struct swmii_regs speed[] = {$/;"	v	typeref:struct:swmii_regs	file:
+spi	spi_ks8995.c	/^	struct spi_device	*spi;$/;"	m	struct:ks8995_switch	typeref:struct:ks8995_switch::spi_device	file:
+start_miim_ops	mdio-mux-bcm-iproc.c	/^static int start_miim_ops(void __iomem *base,$/;"	f	file:
+stats	marvell.c	/^	u64 stats[ARRAY_SIZE(marvell_hw_stats)];$/;"	m	struct:marvell_priv	file:
+stats	micrel.c	/^	u64 stats[ARRAY_SIZE(kszphy_hw_stats)];$/;"	m	struct:kszphy_priv	file:
+status	fixed_phy.c	/^	struct fixed_phy_status status;$/;"	m	struct:fixed_phy	typeref:struct:fixed_phy::fixed_phy_status	file:
+status_frame_dst	dp83640.c	/^static u8 status_frame_dst[6] = { 0x01, 0x1B, 0x19, 0x00, 0x00, 0x00 };$/;"	v	file:
+status_frame_src	dp83640.c	/^static u8 status_frame_src[6] = { 0x08, 0x00, 0x17, 0x0B, 0x6B, 0x0F };$/;"	v	file:
+ste10Xp_ack_interrupt	ste10Xp.c	/^static int ste10Xp_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+ste10Xp_config_init	ste10Xp.c	/^static int ste10Xp_config_init(struct phy_device *phydev)$/;"	f	file:
+ste10Xp_config_intr	ste10Xp.c	/^static int ste10Xp_config_intr(struct phy_device *phydev)$/;"	f	file:
+ste10Xp_tbl	ste10Xp.c	/^static struct mdio_device_id __maybe_unused ste10Xp_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+ste10xp_pdriver	ste10Xp.c	/^module_phy_driver(ste10xp_pdriver);$/;"	v
+ste10xp_pdriver	ste10Xp.c	/^static struct phy_driver ste10xp_pdriver[] = {$/;"	v	typeref:struct:phy_driver	file:
+string	marvell.c	/^	const char *string;$/;"	m	struct:marvell_hw_stat	file:
+string	micrel.c	/^	const char *string;$/;"	m	struct:kszphy_hw_stat	file:
+sun4i_mdio_data	mdio-sun4i.c	/^struct sun4i_mdio_data {$/;"	s	file:
+sun4i_mdio_driver	mdio-sun4i.c	/^module_platform_driver(sun4i_mdio_driver);$/;"	v
+sun4i_mdio_driver	mdio-sun4i.c	/^static struct platform_driver sun4i_mdio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sun4i_mdio_dt_ids	mdio-sun4i.c	/^static const struct of_device_id sun4i_mdio_dt_ids[] = {$/;"	v	typeref:struct:of_device_id	file:
+sun4i_mdio_probe	mdio-sun4i.c	/^static int sun4i_mdio_probe(struct platform_device *pdev)$/;"	f	file:
+sun4i_mdio_read	mdio-sun4i.c	/^static int sun4i_mdio_read(struct mii_bus *bus, int mii_id, int regnum)$/;"	f	file:
+sun4i_mdio_remove	mdio-sun4i.c	/^static int sun4i_mdio_remove(struct platform_device *pdev)$/;"	f	file:
+sun4i_mdio_write	mdio-sun4i.c	/^static int sun4i_mdio_write(struct mii_bus *bus, int mii_id, int regnum,$/;"	f	file:
+switch_data	mdio-mux.c	/^	void *switch_data;$/;"	m	struct:mdio_mux_parent_bus	file:
+switch_fn	mdio-mux.c	/^	int (*switch_fn)(int current_child, int desired_child, void *data);$/;"	m	struct:mdio_mux_parent_bus	file:
+swmii_regs	swphy.c	/^struct swmii_regs {$/;"	s	file:
+swphy_decode_speed	swphy.c	/^static int swphy_decode_speed(int speed)$/;"	f	file:
+swphy_read_reg	swphy.c	/^EXPORT_SYMBOL_GPL(swphy_read_reg);$/;"	v
+swphy_read_reg	swphy.c	/^int swphy_read_reg(int reg, const struct fixed_phy_status *state)$/;"	f
+swphy_validate_state	swphy.c	/^EXPORT_SYMBOL_GPL(swphy_validate_state);$/;"	v
+swphy_validate_state	swphy.c	/^int swphy_validate_state(const struct fixed_phy_status *state)$/;"	f
+tb_drivers	tb_phy.c	/^module_phy_driver(tb_drivers);$/;"	v
+tb_drivers	tb_phy.c	/^static struct phy_driver tb_drivers[] = {$/;"	v	typeref:struct:phy_driver	file:
+tb_tbl	tb_phy.c	/^static struct mdio_device_id __maybe_unused tb_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+tbdm_func_callback	tb_phy.c	/^enum hrtimer_restart tbdm_func_callback(struct hrtimer *timer_for_restart)$/;"	f
+tbdm_timer_init	tb_phy.c	/^int tbdm_timer_init(void)$/;"	f
+tbdm_timer_stop	tb_phy.c	/^void tbdm_timer_stop(void)$/;"	f
+tbphy_aneg_done	tb_phy.c	/^static int tbphy_aneg_done(struct phy_device *phydev)$/;"	f	file:
+tbphy_config_aneg	tb_phy.c	/^static int tbphy_config_aneg(struct phy_device *phydev)$/;"	f	file:
+tbphy_config_init	tb_phy.c	/^static int tbphy_config_init(struct phy_device *phydev)$/;"	f	file:
+tbphy_of_init	tb_phy.c	/^static int tbphy_of_init(struct phy_device *phydev)$/;"	f	file:
+tbphy_read_status	tb_phy.c	/^static int tbphy_read_status(struct phy_device *phydev)$/;"	f	file:
+tbphy_reset	tb_phy.c	/^static int tbphy_reset(struct phy_device *phydev)$/;"	f	file:
+tbphy_resume	tb_phy.c	/^static int tbphy_resume(struct phy_device *phydev)$/;"	f	file:
+tbphy_suspend	tb_phy.c	/^static int tbphy_suspend(struct phy_device *phydev)$/;"	f	file:
+tdr_write	dp83640.c	/^static int tdr_write(int bc, struct phy_device *dev,$/;"	f	file:
+teranetics_aneg_done	teranetics.c	/^static int teranetics_aneg_done(struct phy_device *phydev)$/;"	f	file:
+teranetics_config_aneg	teranetics.c	/^static int teranetics_config_aneg(struct phy_device *phydev)$/;"	f	file:
+teranetics_config_init	teranetics.c	/^static int teranetics_config_init(struct phy_device *phydev)$/;"	f	file:
+teranetics_driver	teranetics.c	/^module_phy_driver(teranetics_driver);$/;"	v
+teranetics_driver	teranetics.c	/^static struct phy_driver teranetics_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+teranetics_match_phy_device	teranetics.c	/^static int teranetics_match_phy_device(struct phy_device *phydev)$/;"	f	file:
+teranetics_read_status	teranetics.c	/^static int teranetics_read_status(struct phy_device *phydev)$/;"	f	file:
+teranetics_soft_reset	teranetics.c	/^static int teranetics_soft_reset(struct phy_device *phydev)$/;"	f	file:
+teranetics_tbl	teranetics.c	/^static struct mdio_device_id __maybe_unused teranetics_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+thunder_mdiobus_driver	mdio-thunder.c	/^module_pci_driver(thunder_mdiobus_driver);$/;"	v
+thunder_mdiobus_driver	mdio-thunder.c	/^static struct pci_driver thunder_mdiobus_driver = {$/;"	v	typeref:struct:pci_driver	file:
+thunder_mdiobus_id_table	mdio-thunder.c	/^static const struct pci_device_id thunder_mdiobus_id_table[] = {$/;"	v	typeref:struct:pci_device_id	file:
+thunder_mdiobus_nexus	mdio-thunder.c	/^struct thunder_mdiobus_nexus {$/;"	s	file:
+thunder_mdiobus_pci_probe	mdio-thunder.c	/^static int thunder_mdiobus_pci_probe(struct pci_dev *pdev,$/;"	f	file:
+thunder_mdiobus_pci_remove	mdio-thunder.c	/^static void thunder_mdiobus_pci_remove(struct pci_dev *pdev)$/;"	f	file:
+tmo	dp83640.c	/^	unsigned long tmo;$/;"	m	struct:dp83640_skb_info	file:
+tmo	dp83640.c	/^	unsigned long tmo;$/;"	m	struct:rxts	file:
+ts_work	dp83640.c	/^	struct delayed_work ts_work;$/;"	m	struct:dp83640_private	typeref:struct:dp83640_private::delayed_work	file:
+tx_id_delay	dp83867.c	/^	int tx_id_delay;$/;"	m	struct:dp83867_private	file:
+tx_queue	dp83640.c	/^	struct sk_buff_head tx_queue;$/;"	m	struct:dp83640_private	typeref:struct:dp83640_private::sk_buff_head	file:
+type	micrel.c	/^	const struct kszphy_type *type;$/;"	m	struct:kszphy_priv	typeref:struct:kszphy_priv::kszphy_type	file:
+u64	mdio-cavium.h	/^	u64 u64;$/;"	m	union:cvmx_smix_clk
+u64	mdio-cavium.h	/^	u64 u64;$/;"	m	union:cvmx_smix_cmd
+u64	mdio-cavium.h	/^	u64 u64;$/;"	m	union:cvmx_smix_en
+u64	mdio-cavium.h	/^	u64 u64;$/;"	m	union:cvmx_smix_rd_dat
+u64	mdio-cavium.h	/^	u64 u64;$/;"	m	union:cvmx_smix_wr_dat
+unimac_mdio_busy	mdio-bcm-unimac.c	/^static inline unsigned int unimac_mdio_busy(struct unimac_mdio_priv *priv)$/;"	f	file:
+unimac_mdio_driver	mdio-bcm-unimac.c	/^module_platform_driver(unimac_mdio_driver);$/;"	v
+unimac_mdio_driver	mdio-bcm-unimac.c	/^static struct platform_driver unimac_mdio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+unimac_mdio_ids	mdio-bcm-unimac.c	/^static const struct of_device_id unimac_mdio_ids[] = {$/;"	v	typeref:struct:of_device_id	file:
+unimac_mdio_priv	mdio-bcm-unimac.c	/^struct unimac_mdio_priv {$/;"	s	file:
+unimac_mdio_probe	mdio-bcm-unimac.c	/^static int unimac_mdio_probe(struct platform_device *pdev)$/;"	f	file:
+unimac_mdio_read	mdio-bcm-unimac.c	/^static int unimac_mdio_read(struct mii_bus *bus, int phy_id, int reg)$/;"	f	file:
+unimac_mdio_remove	mdio-bcm-unimac.c	/^static int unimac_mdio_remove(struct platform_device *pdev)$/;"	f	file:
+unimac_mdio_reset	mdio-bcm-unimac.c	/^static int unimac_mdio_reset(struct mii_bus *bus)$/;"	f	file:
+unimac_mdio_start	mdio-bcm-unimac.c	/^static inline void unimac_mdio_start(struct unimac_mdio_priv *priv)$/;"	f	file:
+unimac_mdio_write	mdio-bcm-unimac.c	/^static int unimac_mdio_write(struct mii_bus *bus, int phy_id,$/;"	f	file:
+vddmac	mscc.c	/^	u16 vddmac;$/;"	m	struct:edge_rate_table	file:
+vddmac	mscc.c	/^	u16 vddmac;$/;"	m	struct:vsc8531_private	file:
+version	dp83640.c	/^	int version;$/;"	m	struct:dp83640_private	file:
+vitesse_tbl	vitesse.c	/^static struct mdio_device_id __maybe_unused vitesse_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+vsc8221_config_init	vitesse.c	/^static int vsc8221_config_init(struct phy_device *phydev)$/;"	f	file:
+vsc824x_ack_interrupt	vitesse.c	/^static int vsc824x_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+vsc824x_add_skew	vitesse.c	/^static int vsc824x_add_skew(struct phy_device *phydev)$/;"	f	file:
+vsc824x_config_init	vitesse.c	/^static int vsc824x_config_init(struct phy_device *phydev)$/;"	f	file:
+vsc82x4_config_aneg	vitesse.c	/^static int vsc82x4_config_aneg(struct phy_device *phydev)$/;"	f	file:
+vsc82x4_config_autocross_enable	vitesse.c	/^static int vsc82x4_config_autocross_enable(struct phy_device *phydev)$/;"	f	file:
+vsc82xx_config_intr	vitesse.c	/^static int vsc82xx_config_intr(struct phy_device *phydev)$/;"	f	file:
+vsc82xx_driver	vitesse.c	/^module_phy_driver(vsc82xx_driver);$/;"	v
+vsc82xx_driver	vitesse.c	/^static struct phy_driver vsc82xx_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+vsc8531_of_init	mscc.c	/^static int vsc8531_of_init(struct phy_device *phydev)$/;"	f	file:
+vsc8531_private	mscc.c	/^struct vsc8531_private {$/;"	s	file:
+vsc85xx_ack_interrupt	mscc.c	/^static int vsc85xx_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+vsc85xx_config_init	mscc.c	/^static int vsc85xx_config_init(struct phy_device *phydev)$/;"	f	file:
+vsc85xx_config_intr	mscc.c	/^static int vsc85xx_config_intr(struct phy_device *phydev)$/;"	f	file:
+vsc85xx_default_config	mscc.c	/^static int vsc85xx_default_config(struct phy_device *phydev)$/;"	f	file:
+vsc85xx_driver	mscc.c	/^module_phy_driver(vsc85xx_driver);$/;"	v
+vsc85xx_driver	mscc.c	/^static struct phy_driver vsc85xx_driver[] = {$/;"	v	typeref:struct:phy_driver	file:
+vsc85xx_edge_rate_cntl_set	mscc.c	/^static int vsc85xx_edge_rate_cntl_set(struct phy_device *phydev,$/;"	f	file:
+vsc85xx_mac_if_set	mscc.c	/^static int vsc85xx_mac_if_set(struct phy_device *phydev,$/;"	f	file:
+vsc85xx_phy_page_set	mscc.c	/^static int vsc85xx_phy_page_set(struct phy_device *phydev, u8 page)$/;"	f	file:
+vsc85xx_probe	mscc.c	/^static int vsc85xx_probe(struct phy_device *phydev)$/;"	f	file:
+vsc85xx_tbl	mscc.c	/^static struct mdio_device_id __maybe_unused vsc85xx_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+vsc85xx_wol_get	mscc.c	/^static void vsc85xx_wol_get(struct phy_device *phydev,$/;"	f	file:
+vsc85xx_wol_set	mscc.c	/^static int vsc85xx_wol_set(struct phy_device *phydev,$/;"	f	file:
+vsc8601_add_skew	vitesse.c	/^static int vsc8601_add_skew(struct phy_device *phydev)$/;"	f	file:
+vsc8601_config_init	vitesse.c	/^static int vsc8601_config_init(struct phy_device *phydev)$/;"	f	file:
+wolopts	microchip.c	/^	__u32	wolopts;$/;"	m	struct:lan88xx_priv	file:
+xgene_enet_cmd	mdio-xgene.h	/^enum xgene_enet_cmd {$/;"	g
+xgene_enet_ecc_init	mdio-xgene.c	/^static int xgene_enet_ecc_init(struct xgene_mdio_pdata *pdata)$/;"	f	file:
+xgene_enet_get_field_value	mdio-xgene.h	/^static inline u64 xgene_enet_get_field_value(int pos, int len, u64 src)$/;"	f
+xgene_enet_phy_register	mdio-xgene.c	/^EXPORT_SYMBOL(xgene_enet_phy_register);$/;"	v
+xgene_enet_phy_register	mdio-xgene.c	/^struct phy_device *xgene_enet_phy_register(struct mii_bus *bus, int phy_addr)$/;"	f
+xgene_enet_rd_mac	mdio-xgene.c	/^static u32 xgene_enet_rd_mac(void __iomem *base_addr, u32 rd_addr)$/;"	f	file:
+xgene_enet_rd_mdio_csr	mdio-xgene.c	/^static void xgene_enet_rd_mdio_csr(void __iomem *base_addr,$/;"	f	file:
+xgene_enet_set_field_value	mdio-xgene.h	/^static inline u64 xgene_enet_set_field_value(int pos, int len, u64 val)$/;"	f
+xgene_enet_wr_mac	mdio-xgene.c	/^static void xgene_enet_wr_mac(void __iomem *base_addr, u32 wr_addr, u32 wr_data)$/;"	f	file:
+xgene_enet_wr_mdio_csr	mdio-xgene.c	/^static void xgene_enet_wr_mdio_csr(void __iomem *base_addr,$/;"	f	file:
+xgene_gmac_reset	mdio-xgene.c	/^static void xgene_gmac_reset(struct xgene_mdio_pdata *pdata)$/;"	f	file:
+xgene_mdio_acpi_match	mdio-xgene.c	/^static const struct acpi_device_id xgene_mdio_acpi_match[] = {$/;"	v	typeref:struct:acpi_device_id	file:
+xgene_mdio_acpi_match	mdio-xgene.h	/^static const struct acpi_device_id xgene_mdio_acpi_match[];$/;"	v	typeref:struct:acpi_device_id
+xgene_mdio_driver	mdio-xgene.c	/^module_platform_driver(xgene_mdio_driver);$/;"	v
+xgene_mdio_driver	mdio-xgene.c	/^static struct platform_driver xgene_mdio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+xgene_mdio_id	mdio-xgene.h	/^enum xgene_mdio_id {$/;"	g
+xgene_mdio_of_match	mdio-xgene.c	/^static const struct of_device_id xgene_mdio_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+xgene_mdio_of_match	mdio-xgene.h	/^static const struct of_device_id xgene_mdio_of_match[];$/;"	v	typeref:struct:of_device_id
+xgene_mdio_pdata	mdio-xgene.h	/^struct xgene_mdio_pdata {$/;"	s
+xgene_mdio_probe	mdio-xgene.c	/^static int xgene_mdio_probe(struct platform_device *pdev)$/;"	f	file:
+xgene_mdio_remove	mdio-xgene.c	/^static int xgene_mdio_remove(struct platform_device *pdev)$/;"	f	file:
+xgene_mdio_reset	mdio-xgene.c	/^static int xgene_mdio_reset(struct xgene_mdio_pdata *pdata)$/;"	f	file:
+xgene_mdio_rgmii_read	mdio-xgene.c	/^EXPORT_SYMBOL(xgene_mdio_rgmii_read);$/;"	v
+xgene_mdio_rgmii_read	mdio-xgene.c	/^int xgene_mdio_rgmii_read(struct mii_bus *bus, int phy_id, int reg)$/;"	f
+xgene_mdio_rgmii_write	mdio-xgene.c	/^EXPORT_SYMBOL(xgene_mdio_rgmii_write);$/;"	v
+xgene_mdio_rgmii_write	mdio-xgene.c	/^int xgene_mdio_rgmii_write(struct mii_bus *bus, int phy_id, int reg, u16 data)$/;"	f
+xgene_mdio_status	mdio-xgene.c	/^static bool xgene_mdio_status;$/;"	v	file:
+xgene_menet_rd_diag_csr	mdio-xgene.c	/^static u32 xgene_menet_rd_diag_csr(struct xgene_mdio_pdata *pdata, u32 offset)$/;"	f	file:
+xgene_menet_wr_diag_csr	mdio-xgene.c	/^static void xgene_menet_wr_diag_csr(struct xgene_mdio_pdata *pdata,$/;"	f	file:
+xgene_xfi_mdio_read	mdio-xgene.c	/^static int xgene_xfi_mdio_read(struct mii_bus *bus, int phy_id, int reg)$/;"	f	file:
+xgene_xfi_mdio_write	mdio-xgene.c	/^static int xgene_xfi_mdio_write(struct mii_bus *bus, int phy_id,$/;"	f	file:
+xgmiitorgmii_driver	xilinx_gmii2rgmii.c	/^mdio_module_driver(xgmiitorgmii_driver);$/;"	v
+xgmiitorgmii_driver	xilinx_gmii2rgmii.c	/^static struct mdio_driver xgmiitorgmii_driver = {$/;"	v	typeref:struct:mdio_driver	file:
+xgmiitorgmii_of_match	xilinx_gmii2rgmii.c	/^static const struct of_device_id xgmiitorgmii_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+xgmiitorgmii_probe	xilinx_gmii2rgmii.c	/^static int xgmiitorgmii_probe(struct mdio_device *mdiodev)$/;"	f	file:
+xgmiitorgmii_read_status	xilinx_gmii2rgmii.c	/^static int xgmiitorgmii_read_status(struct phy_device *phydev)$/;"	f	file:
+xilinx_drivers	xilinx_phy.c	/^module_phy_driver(xilinx_drivers);$/;"	v
+xilinx_drivers	xilinx_phy.c	/^static struct phy_driver xilinx_drivers[] = {$/;"	v	typeref:struct:phy_driver	file:
+xilinx_tbl	xilinx_phy.c	/^static struct mdio_device_id __maybe_unused xilinx_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:
+xilinxphy_config_init	xilinx_phy.c	/^static int xilinxphy_config_init(struct phy_device *phydev)$/;"	f	file:
+xilinxphy_of_init	xilinx_phy.c	/^static int xilinxphy_of_init(struct phy_device *phydev)$/;"	f	file:
+xilinxphy_read_status	xilinx_phy.c	/^static int xilinxphy_read_status(struct phy_device *phydev)$/;"	f	file:
+xway_gphy	intel-xway.c	/^module_phy_driver(xway_gphy);$/;"	v
+xway_gphy	intel-xway.c	/^static struct phy_driver xway_gphy[] = {$/;"	v	typeref:struct:phy_driver	file:
+xway_gphy14_config_aneg	intel-xway.c	/^static int xway_gphy14_config_aneg(struct phy_device *phydev)$/;"	f	file:
+xway_gphy_ack_interrupt	intel-xway.c	/^static int xway_gphy_ack_interrupt(struct phy_device *phydev)$/;"	f	file:
+xway_gphy_config_init	intel-xway.c	/^static int xway_gphy_config_init(struct phy_device *phydev)$/;"	f	file:
+xway_gphy_config_intr	intel-xway.c	/^static int xway_gphy_config_intr(struct phy_device *phydev)$/;"	f	file:
+xway_gphy_did_interrupt	intel-xway.c	/^static int xway_gphy_did_interrupt(struct phy_device *phydev)$/;"	f	file:
+xway_gphy_tbl	intel-xway.c	/^static struct mdio_device_id __maybe_unused xway_gphy_tbl[] = {$/;"	v	typeref:struct:__maybe_unused	file:

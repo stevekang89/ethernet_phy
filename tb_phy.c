@@ -25,12 +25,13 @@
 #include <linux/hrtimer.h>
 #include <linux/ktime.h>
 
-#include <linux/tb_phy.h>
+//#include <linux/tb_phy.h>
 
-#define MS_TO_NS(x)			(x*1E6L)
+#define TB_PHY_ID_MASK		0xfffffff0
+#define TB_PHY_ID			0x00040001			/* for Zynq board */
+//#define TB_PHY_ID			0x01000000			/* for Zed board */
 
-static struct hrtimer hr_timer;
-int hrtimer_act = 0;
+#define XAE_PHY_TYPE_MII	0
 
 static int tbphy_read_status(struct phy_device *phydev)
 {
@@ -68,44 +69,6 @@ static int tbphy_of_init(struct phy_device *phydev)
 	}
 
 	return 0;
-}
-
-
-enum hrtimer_restart tbdm_func_callback(struct hrtimer *timer_for_restart)
-{
-	ktime_t curtime, interval;
-	unsigned long delay_in_ms = 1000L;
-
-	curtime = ktime_get();
-	interval = ktime_set(0, MS_TO_NS(delay_in_ms));
-	hrtimer_forward(timer_for_restart, curtime, interval);
-
-	return HRTIMER_RESTART;
-}
-
-int tbdm_timer_init(void)
-{
-	ktime_t ktime;
-	unsigned long delay_in_ms = 1000L;
-
-	if(hrtimer_act != 0) {
-		hrtimer_cancel(&hr_timer);
-		return 0;
-	}
-
-	ktime = ktime_set(0, MS_TO_NS(delay_in_ms));
-	hrtimer_init(&hr_timer, CLOCK_MONOTONIC, HRTIMER_MODE_REL);
-	hr_timer.function = &tbdm_func_callback;
-
-	hrtimer_start(&hr_timer, ktime, HRTIMER_MODE_REL);
-	hrtimer_act = 1;
-	return 0;
-}
-
-void tbdm_timer_stop(void)
-{
-	hrtimer_cancel(&hr_timer);
-	hrtimer_act = 0;
 }
 
 static int tbphy_config_init(struct phy_device *phydev)
